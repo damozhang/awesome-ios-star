@@ -37,7 +37,7 @@ for matchNum, match in enumerate(matches, start=1):
         star_count = repo.stargazers_count
 
         new_line = old_line.replace("({})".format(
-            url), "({}) [Star: {}]".format(url, star_count))
+            url), "({}) [★ {}]".format(url, star_count))
         source = source.replace(old_line, new_line)
         print(new_line)
     except Exception:
