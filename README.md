@@ -792,7 +792,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MKGradientView](https://github.com/maxkonovalov/MKGradientView) [★ 122] - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift.
 * [EPShapes](https://github.com/ipraba/EPShapes) [★ 393] - Design shapes in Interface Builder.
 * [Macaw](https://github.com/exyte/macaw) [★ 4279] - Powerful and easy-to-use vector graphics library with SVG support written in Swift.
-* [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) [★ 36] - Unique blocky identicons/profile picture generator.
+* [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) [★ 37] - Unique blocky identicons/profile picture generator.
 * [Rough](https://github.com/bakhtiyork/Rough) [★ 63] - lets you draw in a sketchy, hand-drawn-like, style.
 * [GraphLayout](https://github.com/bakhtiyork/GraphLayout) [★ 75] - UI controls for graph visualization. It is powered by Graphviz.
 * [Drawsana](https://github.com/Asana/Drawsana) [★ 288] - iOS framework for building raster drawing and image markup views, written in Swift and maintained by Asana
@@ -2032,7 +2032,7 @@ Most of these are paid services, some have free tiers.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) [★ 8094] - Collection of nice loading animations.
 * [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) [★ 1167] - Rubber Indicator in Swift
 * [RPLoadingAnimation](https://github.com/naoyashiga/RPLoadingAnimation) [★ 188] - Loading animations :cyclone: by using Swift CALayer
-* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) [★ 1136] - Spinner loader components with liquid animation
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) [★ 1137] - Spinner loader components with liquid animation
 * [iOS-CircleProgressView](https://github.com/CardinalNow/iOS-CircleProgressView) [★ 436] - This control will allow a user to use code instantiated or interface builder to create and render a circle progress view.
 * [iOS Circle Progress Bar](https://github.com/Eclair/CircleProgressBar) [★ 394] - iOS Circle Progress Bar
 * [LinearProgressBar](https://github.com/PhilippeBoisney/LinearProgressBar) [★ 118] - Linear Progress Bar (inspired by Google Material Design) for iOS written in Swift 2.0.
@@ -2081,7 +2081,7 @@ Most of these are paid services, some have free tiers.
 * [BPBlockActivityIndicator](https://github.com/ppth0608/BPBlockActivityIndicator) [★ 35] - A simple and awesome Loading Activity Indicator(with funny block animation) for your iOS app.
 * [JDBreaksLoading](https://github.com/jamesdouble/JDBreaksLoading) [★ 141] - You can easily start up a little breaking game indicator by one line.
 * [SkeletonView](https://github.com/Juanpe/SkeletonView) [★ 6895] - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
-* [Windless](https://github.com/Interactive-Studio/Windless) [★ 773] - Windless makes it easy to implement invisible layout loading view.
+* [Windless](https://github.com/Interactive-Studio/Windless) [★ 774] - Windless makes it easy to implement invisible layout loading view.
 * [Skeleton](https://github.com/gonzalonunez/Skeleton) [★ 490] - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
 * [StatusBarOverlay](https://github.com/IdleHandsApps/StatusBarOverlay) [★ 108] - Automatically show/hide a "No Internet Connection" bar when your app loses/gains connection. It supports apps which hide the status bar and "The Notch"
 * [RetroProgress](https://github.com/hyperoslo/RetroProgress) [★ 5] - Retro looking progress bar straight from the 90s.
@@ -2252,7 +2252,7 @@ Most of these are paid services, some have free tiers.
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) [★ 950] -  A library that helps you display and customise alerts and action sheets on iPad and iPhone.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) [★ 2644] - The easiest way to display highly customizable in app notification banners in iOS.
 * [Alertift](https://github.com/sgr-ksmt/Alertift) [★ 130] - Swifty, modern UIAlertController wrapper.
-* [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) [★ 145] - Swift AlertController with UIVisualEffectView.
+* [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) [★ 146] - Swift AlertController with UIVisualEffectView.
 * [JDropDownAlert](https://github.com/trilliwon/JDropDownAlert) [★ 50] - Multi dirction dropdown alert view.
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) [★ 4128] - Generate and Display Bottom Card Interfaces on iOS
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) [★ 452] - A customizable framework to create draggable views.
@@ -2723,7 +2723,7 @@ Most of these are paid services, some have free tiers.
 * [GenericDataSource](https://github.com/GenericDataSource/GenericDataSource) [★ 93] - A generic small reusable components for data source implementation for UITableView/UICollectionView in Swift.
 * [PagingView](https://github.com/KyoheiG3/PagingView) [★ 280] - Infinite paging, Smart auto layout, Interface of similar to UIKit.
 * [PJFDataSource](https://github.com/square/PJFDataSource) [★ 89] - PJFDataSource is a small library that provides a simple, clean architecture for your app to manage its data sources while providing a consistent user interface for common content states (i.e. loading, loaded, empty, and error).
-* [DataSources](https://github.com/muukii/DataSources) [★ 476] - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode)
+* [DataSources](https://github.com/muukii/DataSources) [★ 477] - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode)
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) [★ 361] - Dragging & Dropping data across multiple UICollectionViews.
 * [SectionScrubber](https://github.com/3lvis/SectionScrubber) [★ 175] - A component to quickly scroll between collection view sections
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) [★ 3396] - A modern Swift framework for building reusable data-driven collection components.
@@ -2984,7 +2984,7 @@ CollectionView, make Instagram Discover within minutes.
 ## Dependency / Package Manager
 * [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
 * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
-* [Carthage](https://github.com/Carthage/Carthage) [★ 12605] - A simple, decentralized dependency manager for Cocoa.
+* [Carthage](https://github.com/Carthage/Carthage) [★ 12606] - A simple, decentralized dependency manager for Cocoa.
 * [SWM (Swift Modules)](https://github.com/jankuca/swm) [★ 56] - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of Xcode.
 * [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) [★ 347] - Git Submodule Alternative for Cocoa.
 * [swift-package-manager](https://github.com/apple/swift-package-manager) [★ 6727] - The Package Manager for the Swift Programming Language
@@ -3000,7 +3000,7 @@ CollectionView, make Instagram Discover within minutes.
 * [SwiftGen](https://github.com/SwiftGen/SwiftGen) [★ 5339] - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings and UIColors).
 * [Blade](https://github.com/jondot/blade) [★ 820] - Generate Xcode image catalogs for iOS / macOS app icons, universal images, and more.
 * [Retini](https://github.com/terwanerik/Retini) [★ 150] - A super simple retina (2x, 3x) image converter.
-* [Jazzy](https://github.com/realm/jazzy) [★ 5821] - Soulful docs for Swift & Objective-C.
+* [Jazzy](https://github.com/realm/jazzy) [★ 5822] - Soulful docs for Swift & Objective-C.
 * [appledoc](https://github.com/tomaz/appledoc) [★ 3976] - ObjectiveC code Apple style documentation set generator.
 * [Laurine](https://github.com/JiriTrecak/Laurine) [★ 1227] - Laurine - Localization code generator written in Swift. Sweet!
 * [StoryboardMerge](https://github.com/marcinolawski/StoryboardMerge) [★ 225] - Xcode storyboards diff and merge tool.
@@ -3058,7 +3058,7 @@ CollectionView, make Instagram Discover within minutes.
 * [FengNiao](https://github.com/onevcat/FengNiao) [★ 1876] - A command line tool for cleaning unused resources in Xcode.
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) [★ 1927] - Find retain cycles / memory leaks sooner.
 * [Plank](https://github.com/pinterest/plank) [★ 405] - A tool for generating immutable model objects.
-* [Lona](https://github.com/airbnb/Lona) [★ 6280] - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
+* [Lona](https://github.com/airbnb/Lona) [★ 6281] - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
 * [XcodeGen](https://github.com/yonaskolb/XcodeGen) [★ 2041] - Command line tool that generates your Xcode project from a spec file and your folder structure.
 * [iSimulator](https://github.com/wigl/iSimulator) [★ 714] - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 * [Natalie](https://github.com/krzyzanowskim/Natalie) [★ 1171] - Storyboard Code Generator.
