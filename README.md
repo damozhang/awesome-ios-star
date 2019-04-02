@@ -243,18 +243,18 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
   *Elegant URL routing, navigation frameworks, deep links and more*
 
 * [WAAppRouting](https://github.com/Wasappli/WAAppRouting) [★ 580] - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
-* [DeepLinkKit](https://github.com/button/DeepLinkKit) [★ 3214] - A splendid route-matching, block-based way to handle your deep links.
+* [DeepLinkKit](https://github.com/button/DeepLinkKit) [★ 3216] - A splendid route-matching, block-based way to handle your deep links.
 * [IntentKit](https://github.com/intentkit/IntentKit) [★ 1821] - An easier way to handle third-party URL schemes in iOS apps.
-* [JLRoutes](https://github.com/joeldev/JLRoutes) [★ 4946] - URL routing library for iOS with a simple block-based API.
+* [JLRoutes](https://github.com/joeldev/JLRoutes) [★ 4947] - URL routing library for iOS with a simple block-based API.
 * [IKRouter](https://github.com/IanKeen/IKRouter) [★ 97] - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks
 * [Compass](https://github.com/hyperoslo/Compass) [★ 800] - :earth_africa: Compass helps you setup a central navigation system for your application
 * [Appz](https://github.com/SwiftKitz/Appz) [★ 994] - Easily launch and deeplink into external applications, falling back to web if not installed.
-* [URLNavigator](https://github.com/devxoul/URLNavigator) [★ 1938] - ⛵️ Elegant URL Routing for Swift
+* [URLNavigator](https://github.com/devxoul/URLNavigator) [★ 1942] - ⛵️ Elegant URL Routing for Swift
 * [Marshroute](https://github.com/avito-tech/Marshroute) [★ 186] - Marshroute is an iOS Library for making your Routers simple but extremely powerful.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) [★ 216] - A URL Router for iOS.
 * [Router](https://github.com/freshOS/Router) [★ 299] - 🛣 Simple Navigation for iOS.
 * [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) [★ 469] - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
-* [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) [★ 1037] - Navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
+* [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) [★ 1038] - Navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [Linker](https://github.com/MaksimKurpa/Linker) [★ 129] - Lightweight way to handle internal and external deeplinks for iOS.
 * [CoreNavigation](https://github.com/aronbalog/CoreNavigation) [★ 62] - 📱📲 Navigate between view controllers with ease.
 * [DZURLRoute](https://github.com/yishuiliunian/DZURLRoute) [★ 70] - Universal route engine for iOS app, it can handle URLScheme between applications and page route between UIViewController.
@@ -286,28 +286,28 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 *Clean architecture, Viper, MVVM, Reactive... choose your weapon.*
 
 * [SwiftyVIPER](https://github.com/codytwinton/SwiftyVIPER) [★ 92] - Makes implementing VIPER architecture much easier and cleaner.
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) [★ 2041] - Example of Clean Architecture of iOS app using RxSwift.
-* [Viperit](https://github.com/ferranabello/Viperit) [★ 317] - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift.
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) [★ 2043] - Example of Clean Architecture of iOS app using RxSwift.
+* [Viperit](https://github.com/ferranabello/Viperit) [★ 316] - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift.
 * [Reactant](https://github.com/Brightify/Reactant) [★ 367] - Reactant is a reactive architecture for iOS
 * [YARCH](https://github.com/alfa-laboratory/YARCH) [★ 107] - More clean alternative to VIPER with unidirectional data flow (flux-like).
-* [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) [★ 434] - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
+* [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) [★ 435] - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) [★ 452] - A holistic approach to iOS development, inspired by Redux and MVVM.
 * [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) [★ 34] - A Clean VIPER Modules Generator with comments and predfined functions.
 * [MMVMi](https://github.com/Maryom/MMVMi) [★ 4] - A Validation Model for MVC and MVVM Design Patterns in iOS Applications.
-* [ios-architecture](https://github.com/tailec/ios-architecture) [★ 358] - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
+* [ios-architecture](https://github.com/tailec/ios-architecture) [★ 359] - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 
 ## ARKit
 
 *Library and tools to help you build unparalleled augmented reality experiences*
 
-* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) [★ 4378] -Combines the high accuracy of AR with the scale of GPS data.
+* [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) [★ 4380] -Combines the high accuracy of AR with the scale of GPS data.
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) [★ 224] - Placing Virtual Objects in Augmented Reality.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) [★ 917] - Record and capture ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
-* [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) [★ 66] - A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.
-* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) [★ 574] - This library uses ARKit Face Tracking in order to catch a user's smile.
+* [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) [★ 67] - A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.
+* [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) [★ 575] - This library uses ARKit Face Tracking in order to catch a user's smile.
 * [Placenote](https://github.com/Placenote/PlacenoteSDK-iOS) [★ 61] - A library that makes ARKit sessions persistent to a location using advanced computer vision
 * [Poly](https://github.com/piemonte/Poly) [★ 37] - Unofficial Google Poly SDK – search and display 3D models
-* [ARKit Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) [★ 321] - The Emperor give you the most practical ARKit samples ever.
+* [ARKit Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) [★ 322] - The Emperor give you the most practical ARKit samples ever.
 
 ## Authentication
 
