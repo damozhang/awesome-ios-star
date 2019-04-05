@@ -205,13 +205,13 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swifteducation - Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
 * [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 * [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/arkit-beginner-to-professional/)
-* [ARStarter](https://github.com/codePrincess/ARStarter) [★ 428] - Get started with ARKit - A little exercise for beginners
+* [ARStarter](https://github.com/codePrincess/ARStarter) [★ 429] - Get started with ARKit - A little exercise for beginners
 
 ## Accessibility
 
  *Frameworks that help to support accessibility features and enable people with disabilities to use your app*
 
-* [Capable](https://github.com/chrs1885/Capable) [★ 70] - Track accessibility features to improve your app for people with certain disabilities.
+* [Capable](https://github.com/chrs1885/Capable) [★ 72] - Track accessibility features to improve your app for people with certain disabilities.
 
 ## Alexa
 
@@ -228,7 +228,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Localytics](https://www.localytics.com/) - Brings app marketing and analytics together.
 * [Answers by Fabric](https://get.fabric.io) - Answers gives you real-time insight into people’s experience in your app.
 * [GTrack](https://github.com/gemr/GTrack) [★ 85] - Lightweight Objective-C wrapper around the Google Analytics for iOS SDK with some extra goodies.
-* [ARAnalytics](https://github.com/orta/ARAnalytics) [★ 1785] - Analytics abstraction library offering a sane API for tracking events and user data.
+* [ARAnalytics](https://github.com/orta/ARAnalytics) [★ 1786] - Analytics abstraction library offering a sane API for tracking events and user data.
 * [Segment](https://github.com/segmentio/analytics-ios) [★ 293] - The hassle-free way to integrate analytics into any iOS application.
 * [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
 * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
@@ -249,18 +249,18 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [IKRouter](https://github.com/IanKeen/IKRouter) [★ 97] - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks
 * [Compass](https://github.com/hyperoslo/Compass) [★ 800] - :earth_africa: Compass helps you setup a central navigation system for your application
 * [Appz](https://github.com/SwiftKitz/Appz) [★ 994] - Easily launch and deeplink into external applications, falling back to web if not installed.
-* [URLNavigator](https://github.com/devxoul/URLNavigator) [★ 1942] - ⛵️ Elegant URL Routing for Swift
+* [URLNavigator](https://github.com/devxoul/URLNavigator) [★ 1944] - ⛵️ Elegant URL Routing for Swift
 * [Marshroute](https://github.com/avito-tech/Marshroute) [★ 187] - Marshroute is an iOS Library for making your Routers simple but extremely powerful.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) [★ 216] - A URL Router for iOS.
-* [Router](https://github.com/freshOS/Router) [★ 299] - 🛣 Simple Navigation for iOS.
-* [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) [★ 469] - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
-* [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) [★ 1044] - Navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
+* [Router](https://github.com/freshOS/Router) [★ 300] - 🛣 Simple Navigation for iOS.
+* [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) [★ 471] - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
+* [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) [★ 1043] - Navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [Linker](https://github.com/MaksimKurpa/Linker) [★ 129] - Lightweight way to handle internal and external deeplinks for iOS.
 * [CoreNavigation](https://github.com/aronbalog/CoreNavigation) [★ 62] - 📱📲 Navigate between view controllers with ease.
 * [DZURLRoute](https://github.com/yishuiliunian/DZURLRoute) [★ 70] - Universal route engine for iOS app, it can handle URLScheme between applications and page route between UIViewController.
 * [Crossroad](https://github.com/giginet/Crossroad) [★ 270] - Crossroad is an URL router focused on handling Custom URL Schemes. Using this, you can route multiple URL schemes and fetch arguments and parameters easily.
 * [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) [★ 195] - An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way.
-* [RouteComposer](https://github.com/saksdirect/route-composer) [★ 131] - Library that helps to handle view controllers composition, routing and deeplinking tasks.
+* [RouteComposer](https://github.com/saksdirect/route-composer) [★ 132] - Library that helps to handle view controllers composition, routing and deeplinking tasks.
 * [LightRoute](https://github.com/SpectralDragon/LightRoute) [★ 71] - Easy transition between VIPER modules, implemented on pure Swift.
 
 ## Apple TV
@@ -268,7 +268,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 *tvOS view controllers, wrappers, template managers and video players.*
 
 * [Voucher](https://github.com/rsattar/Voucher) [★ 500] - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
-* [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) [★ 2480] - YouTube video player for iOS, tvOS and macOS
+* [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) [★ 2484] - YouTube video player for iOS, tvOS and macOS
 * [TVMLKitchen](https://github.com/toshi0383/TVMLKitchen) [★ 79] - Swifty TVML template manager with or without client-server
 * [BrowserTV](https://github.com/zats/BrowserTV) [★ 214] - Turn your TV into a dashboard displaying any webpage!
 * [Swift-GA-Tracker-for-Apple-tvOS](https://github.com/analytics-pros/Swift-GA-Tracker-for-Apple-tvOS) [★ 72] - Google Analytics tracker for Apple tvOS provides an easy integration of Google Analytics’ measurement protocol for Apple TV.
@@ -286,10 +286,10 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 *Clean architecture, Viper, MVVM, Reactive... choose your weapon.*
 
 * [SwiftyVIPER](https://github.com/codytwinton/SwiftyVIPER) [★ 92] - Makes implementing VIPER architecture much easier and cleaner.
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) [★ 2049] - Example of Clean Architecture of iOS app using RxSwift.
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) [★ 2050] - Example of Clean Architecture of iOS app using RxSwift.
 * [Viperit](https://github.com/ferranabello/Viperit) [★ 316] - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift.
 * [Reactant](https://github.com/Brightify/Reactant) [★ 367] - Reactant is a reactive architecture for iOS
-* [YARCH](https://github.com/alfa-laboratory/YARCH) [★ 108] - More clean alternative to VIPER with unidirectional data flow (flux-like).
+* [YARCH](https://github.com/alfa-laboratory/YARCH) [★ 109] - More clean alternative to VIPER with unidirectional data flow (flux-like).
 * [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) [★ 435] - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) [★ 453] - A holistic approach to iOS development, inspired by Redux and MVVM.
 * [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) [★ 35] - A Clean VIPER Modules Generator with comments and predfined functions.
@@ -301,7 +301,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 *Library and tools to help you build unparalleled augmented reality experiences*
 
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) [★ 4381] -Combines the high accuracy of AR with the scale of GPS data.
-* [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) [★ 224] - Placing Virtual Objects in Augmented Reality.
+* [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) [★ 225] - Placing Virtual Objects in Augmented Reality.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) [★ 917] - Record and capture ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.
 * [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) [★ 67] - A library that allows you to generate and update environment maps in real-time using the camera feed and ARKit's tracking capabilities.
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) [★ 576] - This library uses ARKit Face Tracking in order to catch a user's smile.
@@ -1232,7 +1232,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ### Video
 * [VIMVideoPlayer](https://github.com/vimeo/VIMVideoPlayer) - A simple wrapper around the AVPlayer and AVPlayerLayer classes.
 * [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
-* [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) [★ 2480] - YouTube video player for iOS, tvOS and macOS
+* [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) [★ 2484] - YouTube video player for iOS, tvOS and macOS
 * [AVAnimator](http://www.modejong.com/AVAnimator/) - An open source iOS native library that makes it easy to implement non-trivial video/audio enabled apps.
 * [Periscope VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control
 * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery
