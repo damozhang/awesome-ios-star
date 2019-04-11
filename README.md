@@ -1034,7 +1034,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) [★ 590] - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus) [★ 113] - Use any custom view as custom callout view of your MKMapView with cool animations. Also, easily use any image as annotation view.
 * [GLMap](https://getyourmap.com) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
-* [MSFlightMapView](https://github.com/mabdulsubhan/MSFlightMapView) [★ 26] - Add and animate geodesic flights on Google map.
+* [MSFlightMapView](https://github.com/mabdulsubhan/MSFlightMapView) - Add and animate geodesic flights on Google map.
 
 ## Math
 
@@ -1258,7 +1258,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 Also see [push notifications](#push-notifications)
 
-* [LayerKit](https://github.com/layerhq/releases-ios) [★ 142] - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
+* [LayerKit](https://github.com/layerhq/releases-ios) - iOS SDK for Layer, the easiest way to add in-app messaging (text, photos, videos, data) to any mobile or web application.
 * [Twilio](https://www.twilio.com/) - Power modern communications. Build the next generation of voice and SMS applications.
 * [Plivo](https://www.plivo.com/) - SMS API, Voice API, & Global Carrier Provider.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) [★ 5645] - An XMPP Framework in Objective-C for Mac and iOS.
@@ -1391,7 +1391,7 @@ Most of these are paid services, some have free tiers.
 * [OneSignal](https://onesignal.com) - Free.
 * [PushBots](https://pushbots.com/)
 * [Pushwoosh](https://www.pushwoosh.com)
-* [Pushkin](https://github.com/Nordeus/pushkin) [★ 217] - Free and open-source.
+* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
 * [Pusher](https://pusher.com/beams) - Free and unlimited.
 * [Swrve](https://www.swrve.com)
 
@@ -1408,7 +1408,7 @@ Most of these are paid services, some have free tiers.
 
 ## Optimization
 
-* [Unreachable](https://github.com/nvzqz/Unreachable) [★ 98] - Unreachable code path optimization hint for Swift.
+* [Unreachable](https://github.com/nvzqz/Unreachable) - Unreachable code path optimization hint for Swift.
 
 ## Parsing
 
@@ -1466,7 +1466,7 @@ Most of these are paid services, some have free tiers.
 * [NativeJSONMapper](https://github.com/DimaMishchenko/NativeJSONMapper) [★ 2] - Simple Swift 4 encoding & decoding.
 * [PMJSON](https://github.com/postmates/PMJSON) [★ 345] - Pure Swift JSON encoding/decoding library.
 * [jsoncafe.com](http://www.jsoncafe.com/) - Online Template driven Model Class Generator from JSON.
-* [Mappable](https://github.com/leavez/Mappable) [★ 14] - lightweight and powerful JSON object mapping library, specially optimized for immutable properties.
+* [Mappable](https://github.com/leavez/Mappable) - lightweight and powerful JSON object mapping library, specially optimized for immutable properties.
 
 ### XML & HTML
 * [AEXML](https://github.com/tadija/AEXML) [★ 820] - Simple and lightweight XML parser written in Swift.
@@ -1496,8 +1496,8 @@ Most of these are paid services, some have free tiers.
 
 
 ## Passbook
-* [passbook](https://github.com/frozon/passbook) [★ 219] - Passbook gem let's you create pkpass for passbook iOS 6+.
-* [Dubai](https://github.com/nomad/dubai) [★ 325] - Generate and Preview Passbook Passes.
+* [passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6+.
+* [Dubai](https://github.com/nomad/dubai) - Generate and Preview Passbook Passes.
 * [Passkit](https://passkit.com) - Design, Create and validate Passbook Passes.
 
 ## Payments
@@ -1885,8 +1885,8 @@ Most of these are paid services, some have free tiers.
 * [Floater_](https://github.com/Buglife/Floater_) [★ 230] - Add a floating fingertip to your app demo
 * [Bluepill](https://github.com/linkedin/bluepill) [★ 2789] - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 * [Flawless App](https://flawlessapp.io/) - tool for visual quality check of mobile app in a real-time. It compares initial design with the actual implementation right inside iOS simulator.
-* [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) [★ 690] - Lightweight touch visualization library in Swift. A single line of code and visualize your touches!
-* [UITestHelper](https://github.com/evermeer/UITestHelper) [★ 32] - UITest helper library for creating readable and maintainable tests
+* [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library in Swift. A single line of code and visualize your touches!
+* [UITestHelper](https://github.com/evermeer/UITestHelper) - UITest helper library for creating readable and maintainable tests
 
 ### Other Testing
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) [★ 587] - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
@@ -3177,8 +3177,8 @@ CollectionView, make Instagram Discover within minutes.
 * [ViperC](https://github.com/abdullahselek/ViperC) [★ 68] - Xcode template for VIPER Architecture for both Objective-C and Swift
 * [XcodeCodeSnippets](https://github.com/ismetanin/XcodeCodeSnippets) [★ 19] - A set of code snippets for iOS development, includes code and comments snippets.
 * [Xcode Keymap for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings) - This extension ports popular Xcode keyboard shortcuts to Visual Studio Code.
-* [Xcode Template Manager](https://github.com/Camji55/xtm) [★ 18] - Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.
-* [VIPER Module Template](https://github.com/EvsenevDev/VIPERModuleTemplate) [★ 15] - Xcode Template of VIPER Module which generates all layers of VIPER.
+* [Xcode Template Manager](https://github.com/Camji55/xtm) - Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.
+* [VIPER Module Template](https://github.com/EvsenevDev/VIPERModuleTemplate) - Xcode Template of VIPER Module which generates all layers of VIPER.
 
 ## Reference
 * [Swift Cheat Sheet](https://github.com/iwasrobbed/Swift-CheatSheet) [★ 868] - A quick reference cheat sheet for common, high level topics in Swift.
