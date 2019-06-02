@@ -1,10 +1,13 @@
 import os
 import re
+import datetime
 from urllib.parse import urlparse
 import requests
 from github import Github
 from dotenv import load_dotenv
 load_dotenv()
+
+start_at = datetime.datetime.now()
 
 ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 
@@ -48,3 +51,7 @@ for matchNum, match in enumerate(matches, start=1):
 f = open("README.md", "w")
 f.write(source)
 f.close()
+
+end_at = datetime.datetime.now()
+
+print("{} {}".format(end_at, end_at - start_at))
