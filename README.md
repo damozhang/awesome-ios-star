@@ -1263,7 +1263,7 @@ Also see [push notifications](#push-notifications)
 
 ## Networking
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) [★ 32280] - A delightful iOS and macOS networking framework.
-* [RestKit](https://github.com/RestKit/RestKit) [★ 10331] - RestKit is an Objective-C framework for iOS that aims to make interacting with RESTful web services simple, fast and fun.
+* [RestKit](https://github.com/RestKit/RestKit) [★ 10332] - RestKit is an Objective-C framework for iOS that aims to make interacting with RESTful web services simple, fast and fun.
 * [FSNetworking](https://github.com/foursquare/FSNetworking) [★ 394] - Foursquare iOS networking library.
 * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) [★ 5813] - Easy to use CFNetwork wrapper for HTTP requests, Objective-C, macOS and iPhone.
 * [Overcoat](https://github.com/Overcoat/Overcoat) [★ 1124] - Small but powerful library that makes creating REST clients simple and fun.
@@ -1344,7 +1344,7 @@ Also see [push notifications](#push-notifications)
 
 ## Representations
 
-* [apollo-ios](https://github.com/apollographql/apollo-ios) [★ 1870] - A GraphQL client for iOS, written in Swift
+* [apollo-ios](https://github.com/apollographql/apollo-ios) [★ 1871] - A GraphQL client for iOS, written in Swift
 * [JSONRPCKit](https://github.com/bricklife/JSONRPCKit) [★ 163] - A JSON-RPC 2.0 library purely written in Swift
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) [★ 898] - Google ProtocolBuffers for Apple Swift
 * [swift-protobuf](https://github.com/apple/swift-protobuf) [★ 2599] - Plugin and runtime library for using protobuf with Swift.
@@ -1455,7 +1455,7 @@ Most of these are paid services, some have free tiers.
 
 ### XML & HTML
 * [AEXML](https://github.com/tadija/AEXML) [★ 830] - Simple and lightweight XML parser written in Swift.
-* [Ji](https://github.com/honghaoz/Ji) [★ 800] - XML/HTML parser for Swift.
+* [Ji](https://github.com/honghaoz/Ji) [★ 801] - XML/HTML parser for Swift.
 * [Ono](https://github.com/mattt/Ono) [★ 2500] - A sensible way to deal with XML & HTML for iOS & macOS
 * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) [★ 66] - Fetch a XML feed and parse it into objects
 * [Fuzi](https://github.com/cezheng/Fuzi) [★ 769] - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support
@@ -2419,7 +2419,7 @@ Most of these are paid services, some have free tiers.
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) [★ 2428] - The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items when a user click on the navigation title.
 * [ALRadialMenu](https://github.com/AlexLittlejohn/ALRadialMenu) [★ 43] - A radial/circular menu featuring spring animations. Written in swift
 * [AZDropdownMenu](https://github.com/Azuritul/AZDropdownMenu) [★ 195] - An easy to use dropdown menu that supports images.
-* [CircleMenu](https://github.com/Ramotion/circle-menu) [★ 3025] - An animated, multi-option menu button.
+* [CircleMenu](https://github.com/Ramotion/circle-menu) [★ 3026] - An animated, multi-option menu button.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) [★ 3211] - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure Swift.
 * [SideMenu](https://github.com/jonkykong/SideMenu) [★ 3732] - Simple side menu control in Swift inspired by Facebook. Right and Left sides. Lots of customization and animation options. Can be implemented in Storyboard with no code.
 * [CategorySliderView](https://github.com/cemolcay/CategorySliderView) [★ 365] - slider view for choosing categories. add any UIView type as category item view. Fully customisable
@@ -2443,7 +2443,7 @@ Most of these are paid services, some have free tiers.
 * [VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) [★ 534] - A menu which can ... BOOM!
 * [DropDownMenuKit](https://github.com/qmathe/DropDownMenuKit) [★ 214] - A simple, modular and highly customizable UIKit menu, that can be attached to the navigation bar or toolbar, written in Swift.
 * [RevealMenuController](https://github.com/anatoliyv/RevealMenuController) [★ 16] - Expandable item groups, custom position and appearance animation. Similar to ActionSheet style.
-* [RHSideButtons](https://github.com/robertherdzik/RHSideButtons) [★ 118] - Library provides easy to implement variation of Android (Material Design) Floating Action Button for iOS. You can use it as your app small side menu.
+* [RHSideButtons](https://github.com/robertherdzik/RHSideButtons) [★ 119] - Library provides easy to implement variation of Android (Material Design) Floating Action Button for iOS. You can use it as your app small side menu.
 * [Swift-CircleMenu](https://github.com/Sufi-Al-Hussaini/Swift-CircleMenu) [★ 122] - Rotating circle menu written in Swift 3.
 * [AKSideMenu](https://github.com/dogo/AKSideMenu) [★ 172] - Beautiful iOS side menu library with parallax effect.
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) [★ 573] - Customizable iOS Interactive Side Menu written in Swift 3.
@@ -2452,7 +2452,7 @@ Most of these are paid services, some have free tiers.
 * [JNDropDownMenu](https://github.com/javalnanda/JNDropDownMenu) [★ 63] - Easy to use tableview style drop down menu with multi-column support written in Swift3.
 * [FanMenu](https://github.com/exyte/fan-menu) [★ 442] - Menu with a circular layout based on Macaw.
 * [AirBar](https://github.com/uptechteam/AirBar) [★ 403] - UIScrollView driven expandable menu written in Swift 3.
-* [FAPanels](https://github.com/fahidattique55/FAPanels) [★ 767] - FAPanels for transition
+* [FAPanels](https://github.com/fahidattique55/FAPanels) [★ 768] - FAPanels for transition
 * [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) [★ 685] - Swipable tab and menu View and ViewController.
 * [DTPagerController](https://github.com/tungvoduc/DTPagerController) [★ 137] - A fully customizable container view controller to display set of ViewControllers in horizontal scroller
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) [★ 825] - PagingKit provides customizable menu UI It has more flexible layout and design than the other libraries.
