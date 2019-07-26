@@ -833,7 +833,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NextLevel](https://github.com/NextLevel/NextLevel) [★ 1486] - Next Level is a media capture camera library for iOS.
 * [CameraEngine](https://github.com/remirobert/CameraEngine) [★ 544] - 🐒📷 Camera engine for iOS, written in Swift, above AVFoundation. 🐒
 * [SwiftyCam](https://github.com/Awalz/SwiftyCam) [★ 1512] -  A Snapchat Inspired iOS Camera Framework written in Swift.
-* [CameraBackground](https://github.com/yonat/CameraBackground) [★ 35] -  Show camera layer as a background to any UIView.
+* [CameraBackground](https://github.com/yonat/CameraBackground) [★ 36] -  Show camera layer as a background to any UIView.
 * [Lumina](https://github.com/dokun1/Lumina) [★ 662] - Full service camera that takes photos, videos, streams frames, detects metadata, and streams CoreML predictions :largeorangediamond:
 * [RAImagePicker](https://github.com/rallahaseh/RAImagePicker) [★ 12] - RAImagePicker is a protocol-oriented framework that provides custom features from the built-in Image Picker Edit.
 * [FDTake](https://github.com/fulldecent/FDTake) [★ 287] - Easily take a photo or video or choose from library.
@@ -1014,7 +1014,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Revolver](https://github.com/petrmanek/Revolver) [★ 20] - A framework for building fast genetic algorithms in Swift. Comes with modular architecture, pre-implemented operators and loads of examples.
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) [★ 4131] - A collection of unique Core ML Models.
 * [Serrano](https://github.com/pcpLiu/Serrano) [★ 42] - A deep learning library for iOS and macOS.
-* [Swift-AI](https://github.com/Swift-AI/Swift-AI) [★ 5589] - The Swift machine learning library.
+* [Swift-AI](https://github.com/Swift-AI/Swift-AI) [★ 5588] - The Swift machine learning library.
 * [TensorSwift](https://github.com/qoncept/TensorSwift) [★ 313] - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's.
 
 ## Maps
@@ -1063,7 +1063,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) [★ 486] - AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
 * [TuningFork](https://github.com/comyar/TuningFork) [★ 384] - :musical_keyboard: Simple Tuner for iOS
 * [MusicKit](https://github.com/benzguo/MusicKit) [★ 542] - A framework for composing and transforming music in Swift
-* [SubtleVolume](https://github.com/andreamazz/SubtleVolume) [★ 1131] - Replace the system volume popup with a more subtle indicator.
+* [SubtleVolume](https://github.com/andreamazz/SubtleVolume) [★ 1130] - Replace the system volume popup with a more subtle indicator.
 * [NVDSP](https://github.com/bartolsthoorn/NVDSP) [★ 374] - iOS/macOS DSP for audio (with Novocaine)
 * [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) [★ 99] - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
 * [IQAudioRecorderController](https://github.com/hackiftekhar/IQAudioRecorderController) [★ 575] - A drop-in universal library allows to record audio within the app with a nice User Interface.
@@ -1620,7 +1620,7 @@ Most of these are paid services, some have free tiers.
 * [Adobe Creative SDK](https://www.adobe.io/apis/creativecloud/creativesdk.html) Adobe creative tools and Creative Cloud SDK.
 * [Dropbox](https://www.dropbox.com/lp/developers) SDKs for Drop-ins and Dropbox Core API.
 * [Fabric by Twitter](https://docs.fabric.io/apple/fabric/overview.html) Fabric Twitter Kit for iOS.
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit) [★ 5246] ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit) [★ 5245] ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
 * [Primer](https://www.goprimer.com) - Easy SDK for creating personalized landing screens, signup, and login flows on a visual editor with built in a/b/n testing and analytics.
 * [Azure](https://github.com/Azure/azure-storage-ios) [★ 63] - Client library for accessing Azure Storage on an iOS device
 * [1Password](https://github.com/AgileBits/onepassword-app-extension) [★ 2524] - 1Password Extension for iOS Apps
@@ -2098,7 +2098,7 @@ Most of these are paid services, some have free tiers.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) [★ 1716] - Cool wave like transition between two or more UICollectionView
 * [DaisyChain](https://github.com/alikaragoz/DaisyChain) [★ 29] - :link: Easy animation chaining
 * [PulsingHalo](https://github.com/shu223/PulsingHalo) [★ 1746] - iOS Component for creating a pulsing animation.
-* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) [★ 1896] - Chainable animations in Swift
+* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) [★ 1897] - Chainable animations in Swift
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) [★ 615] - Animate easy and with less code with Swift
 * [Advance](https://github.com/timdonnelly/Advance) [★ 4285] - A powerful animation framework for iOS.
 * [UIView-Shake](https://github.com/andreamazz/UIView-Shake) [★ 496] - UIView category that adds shake animation
@@ -3188,7 +3188,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions.
 * [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) [★ 10096] - The official Swift style guide for raywenderlich.com.
 * [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) [★ 215] - Guidelines for iOS development in use at Spotify.
-* [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) [★ 4598] - A guide to our Swift style and conventions by @github.
+* [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) [★ 4599] - A guide to our Swift style and conventions by @github.
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [SlideShare Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md) [★ 94] - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift
 * [Prolific Interactive Style Guide](https://github.com/prolificinteractive/swift-style-guide) [★ 165] - A style guide for Swift.
