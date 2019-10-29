@@ -18,10 +18,12 @@ r = requests.get(url)
 
 source = r.text
 text = r.text
-regex = r"\*\s+(\[.+\])\((https:\/\/[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b[-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)\)(.+)\n"
+# regex = r"\*\s+(\[.+\])\((https:\/\/[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b[-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)\)(.+)\n"
+regex = r".*\s+(\[[^]]+\])\s*\((https:\/\/[github\.com]{1}[^)]+)\)(.+)\n"
 
 matches = re.finditer(regex, text, re.MULTILINE)
 
+i = 0
 for matchNum, match in enumerate(matches, start=1):
     url = match.group(2)
     o = urlparse(url)
@@ -39,14 +41,25 @@ for matchNum, match in enumerate(matches, start=1):
         repo = g.get_repo(full_name)
         star_count = repo.stargazers_count
 
-        new_line = old_line.replace("({})".format(
-            url), "({}) [★ {}]".format(url, star_count))
+        update_interval = (datetime.datetime.utcnow() - repo.updated_at).days
+        day_string = "days" if update_interval > 1 else "day"
+
+        if update_interval == 0:
+            day_string = "Today"
+        else:
+            day_string = "{} {} ago".format(update_interval, day_string)
+
+        new_line = old_line.replace(
+            "({})".format(url),
+            "({}) [★ {}] [U: {}]".format(url, star_count, day_string)
+        )
         source = source.replace(old_line, new_line)
         print(new_line)
     except Exception:
         print(old_line)
         continue
 
+    i += 1
 
 f = open("README.md", "w")
 f.write(source)
@@ -54,4 +67,4 @@ f.close()
 
 end_at = datetime.datetime.now()
 
-print("{} {}".format(end_at, end_at - start_at))
+print("{} {} update {}".format(end_at, end_at - start_at, i))
