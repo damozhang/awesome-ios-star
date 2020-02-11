@@ -4,67 +4,91 @@ import datetime
 from urllib.parse import urlparse
 import requests
 from github import Github
+from github import GithubException
 from dotenv import load_dotenv
 load_dotenv()
 
 start_at = datetime.datetime.now()
 
-ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 
-g = Github(ACCESS_TOKEN)
+def extractList(text):
+    result = []
 
-url = "https://raw.githubusercontent.com/vsouza/awesome-ios/master/README.md"
-r = requests.get(url)
+    regex = r".*\s+(\[[^]]+\])\s*\((https:\/\/[github\.com]{1}[^)]+)\)(.+)\n"
+    matches = re.finditer(regex, text, re.MULTILINE)
 
-source = r.text
-text = r.text
-# regex = r"\*\s+(\[.+\])\((https:\/\/[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b[-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)\)(.+)\n"
-regex = r".*\s+(\[[^]]+\])\s*\((https:\/\/[github\.com]{1}[^)]+)\)(.+)\n"
+    for matchNum, match in enumerate(matches, start=1):
+        url = match.group(2)
+        o = urlparse(url)
+        if o.hostname != 'github.com':
+            continue
 
-matches = re.finditer(regex, text, re.MULTILINE)
+        path = o.path.split("/")
 
-i = 0
-for matchNum, match in enumerate(matches, start=1):
-    url = match.group(2)
-    o = urlparse(url)
-    if o.hostname != 'github.com':
-        continue
+        if len(path) < 3:
+            continue
 
-    path = o.path.split("/")
+        oldLine = match.group()
 
-    if len(path) < 3:
-        continue
+        fullName = "{}/{}".format(path[1], path[2])
 
-    old_line = match.group()
-    try:
-        full_name = "{}/{}".format(path[1], path[2])
-        repo = g.get_repo(full_name)
-        star_count = repo.stargazers_count
+        repo = {
+            'full_name': fullName,
+            'old_line': oldLine,
+            'url': url
+        }
 
-        update_interval = (datetime.datetime.utcnow() - repo.updated_at).days
-        day_string = "days" if update_interval > 1 else "day"
+        result.append(repo)
 
-        if update_interval == 0:
-            day_string = "Today"
-        else:
-            day_string = "{} {} ago".format(update_interval, day_string)
+    return result
 
-        new_line = old_line.replace(
-            "({})".format(url),
-            "({}) [★ {}] [U: {}]".format(url, star_count, day_string)
-        )
-        source = source.replace(old_line, new_line)
-        print(new_line)
-    except Exception:
-        print(old_line)
-        continue
 
-    i += 1
+def save(text):
+    f = open("README.md", "w")
+    f.write(text)
+    f.close()
 
-f = open("README.md", "w")
-f.write(source)
-f.close()
 
-end_at = datetime.datetime.now()
+if __name__ == "__main__":
+    url = "https://raw.githubusercontent.com/vsouza/awesome-ios/master/README.md"
+    r = requests.get(url)
+    source = r.text
+    text = r.text
+    sourceList = extractList(text)
+    print("{} repos have been extracted.".format(len(sourceList)))
 
-print("{} {} update {}".format(end_at, end_at - start_at, i))
+    ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
+
+    g = Github(ACCESS_TOKEN)
+
+    print("Rate Limit: {}".format(g.get_rate_limit()))
+
+    for row in sourceList:
+        try:
+            repo = g.get_repo(row['full_name'])
+            starCount = repo.stargazers_count
+
+            newLine = row['old_line'].replace(
+                "({})".format(row['url']),
+                "({}) [★ {}]".format(row['url'], starCount)
+            )
+
+            source = source.replace(row['old_line'], newLine)
+            print(newLine)
+        except GithubException as err:
+            if err.status == 404:
+                newLine = row['old_line'].replace('- [', '- ~~[')
+                newLine = "{}~~\n".format(newLine.rstrip())
+                source = source.replace(row['old_line'], newLine)
+                print(newLine)
+                continue
+            break
+        except Exception as err:
+            print("err: {} {}".format(row['old_line'], err))
+            # continue
+            break
+
+    save(source)
+
+    end_at = datetime.datetime.now()
+    print("{} {} update".format(end_at, end_at - start_at))
