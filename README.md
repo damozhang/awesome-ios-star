@@ -218,7 +218,7 @@
   *Elegant URL routing, navigation frameworks, deep links and more*
 
 - [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) [:star: 817] - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
-- [Appz](https://github.com/SwiftKitz/Appz) [:star: 1157] - Easily launch and deeplink into external applications, falling back to web if not installed.
+- [Appz](https://github.com/SwiftKitz/Appz) [:star: 1156] - Easily launch and deeplink into external applications, falling back to web if not installed.
 - [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) [:star: 556] - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 - [CoreNavigation](https://github.com/aronbalog/CoreNavigation) [:star: 71] - Navigate between view controllers with ease.
 - [Crossroad](https://github.com/giginet/Crossroad) [:star: 411] - Crossroad is an URL router focused on handling Custom URL Schemes. Using this, you can route multiple URL schemes and fetch arguments and parameters easily.
@@ -234,7 +234,7 @@
 - [Router](https://github.com/freshOS/Router) [:star: 456] - Simple Navigation for iOS.
 - [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) [:star: 1776] - Navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 - [SwiftCurrent](https://github.com/wwt/SwiftCurrent) [:star: 302] - A library for managing complex workflows.
-- [SwiftRouter](https://github.com/skyline75489/SwiftRouter) [:star: 275] - A URL Router for iOS.
+- [SwiftRouter](https://github.com/skyline75489/SwiftRouter) [:star: 274] - A URL Router for iOS.
 - [URLNavigator](https://github.com/devxoul/URLNavigator) [:star: 3050] - Elegant URL Routing for Swift
 - [WAAppRouting](https://github.com/Wasappli/WAAppRouting) [:star: 590] - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter) [:star: 645] - An interface-oriented router for discovering modules and injecting dependencies with protocol in OC & Swift, iOS & macOS. Handles route in a type safe way.
@@ -262,15 +262,15 @@
 
 *Clean architecture, Viper, MVVM, Reactive... choose your weapon.*
 
-- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) [:star: 4720] - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
+- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) [:star: 4721] - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 - [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) [:star: 3696] - Example of Clean Architecture of iOS app using RxSwift.
-- [ios-architecture](https://github.com/tailec/ios-architecture) [:star: 1374] - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others.
+- [ios-architecture](https://github.com/tailec/ios-architecture) [:star: 1375] - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others.
 - [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) [:star: 672] - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
 - [Reactant](https://github.com/Brightify/Reactant) [:star: 371] - Reactant is a reactive architecture for iOS.
 - [Spin](https://github.com/Spinners/Spin.Swift) [:star: 119] - A universal implementation of a Feedback Loop system for RxSwift, ReactiveSwift and Combine
 - [SwiftyVIPER](https://github.com/codytwinton/SwiftyVIPER) [:star: 121] - Makes implementing VIPER architecture much easier and cleaner.
 - [Tempura](https://github.com/BendingSpoons/tempura-swift) [:star: 698] - A holistic approach to iOS development, inspired by Redux and MVVM.
-- [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) [:star: 9071] - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+- [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) [:star: 9074] - The Composable Architecture is a library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) [:star: 68] - A Clean VIPER Modules Generator with comments and predfined functions.
 - [Viperit](https://github.com/ferranabello/Viperit) [:star: 509] - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift.
 
@@ -309,7 +309,7 @@
 
 *Tool for smart contract interactions. Bitcoin protocol implementations and Frameworks for interacting with cryptocurrencies.*
 
-- [BitcoinKit](https://github.com/yenom/BitcoinKit) [:star: 802] - Bitcoin protocol toolkit for Swift, BitcoinKit implements Bitcoin protocol in Swift. It is an implementation of the Bitcoin SPV protocol written in swift.
+- [BitcoinKit](https://github.com/yenom/BitcoinKit) [:star: 803] - Bitcoin protocol toolkit for Swift, BitcoinKit implements Bitcoin protocol in Swift. It is an implementation of the Bitcoin SPV protocol written in swift.
 - [CoinpaprikaAPI](https://github.com/coinpaprika/coinpaprika-api-swift-client) [:star: 31] - Coinpaprika API client with free & frequently updated market data from the world of crypto: coin prices, volumes, market caps, ATHs, return rates and more.
 - [EthereumKit](https://github.com/yuzushioh/EthereumKit) [:star: 466] - EthereumKit is a free, open-source Swift framework for easily interacting with the Ethereum.
 - [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) [:star: 138] - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
@@ -322,8 +322,8 @@
 *Sharing code between Objective-C and Swift, iOS and macOS, Javascript and Objective-C.*
 
 - [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
-- [JSPatch](https://github.com/bang590/JSPatch) [:star: 11352] - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
-- [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) [:star: 14164] - An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
+- [JSPatch](https://github.com/bang590/JSPatch) [:star: 11351] - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
+- [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) [:star: 14163] - An iOS/macOS bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews.
 - [MAIKit](https://github.com/MichaelBuckley/MAIKit) [:star: 139] - A framework for sharing code between iOS and macOS.
 - [Xamarin](https://xamarin.com/) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
 
@@ -370,7 +370,7 @@
 - [TWRCharts](https://github.com/chasseurmic/TWRCharts) [:star: 363] - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
 - [SwiftCharts](https://github.com/i-schuetz/SwiftCharts) [:star: 2479] - Easy to use and highly customizable charts library for iOS.
 - [FlowerChart](https://github.com/drinkius/flowerchart) [:star: 16] - Flower-shaped chart with custom appearance animation, fully vector.
-- [Scrollable-GraphView](https://github.com/philackm/ScrollableGraphView) [:star: 5302] - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
+- [Scrollable-GraphView](https://github.com/philackm/ScrollableGraphView) [:star: 5301] - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.
 - [Dr-Charts](https://github.com/Zomato/DR-charts) [:star: 93] - Dr-Charts is a highly customisable, easy to use and interactive chart / graph framework in Objective-C.
 - [Graphs](https://github.com/recruit-mtl/Graphs) [:star: 984] - Light weight charts view generator for iOS.
 - [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap) [:star: 547] - A charting library to visualize and interact with a vector map on iOS. It's like Geochart but for iOS.
@@ -380,10 +380,10 @@
 - [PieCharts](https://github.com/i-schuetz/PieCharts) [:star: 511] - Easy to use and highly customizable pie charts library for iOS.
 - [CSPieChart](https://github.com/youkchansim/CSPieChart) [:star: 40] - iOS PieChart Opensource. This is very easy to use and customizable.
 - [DDSpiderChart](https://github.com/dadalar/DDSpiderChart) [:star: 82] - Easy to use and customizable Spider (Radar) Chart library for iOS written in Swift.
-- [core-plot](https://github.com/core-plot/core-plot) [:star: 2763] - a 2D plotting lib which is highly customizable and capable of drawing many types of plots.
+- [core-plot](https://github.com/core-plot/core-plot) [:star: 2764] - a 2D plotting lib which is highly customizable and capable of drawing many types of plots.
 - [ChartProgressBar](https://github.com/hadiidbouk/ChartProgressBar-iOS) [:star: 83] - Draw a chart with progress bar style.
 - [SMDiagramViewSwift](https://github.com/VRGsoftUA/SMDiagramView) [:star: 43] - Meet cute and very flexibility library for iOS application for different data view in one circle diagram.
-- [Swift LineChart](https://github.com/zemirco/swift-linechart) [:star: 601] - Line Chart library for iOS written in Swift.
+- [Swift LineChart](https://github.com/zemirco/swift-linechart) [:star: 602] - Line Chart library for iOS written in Swift.
 - [SwiftChart](https://github.com/gpbl/SwiftChart) [:star: 1036] - Line and area chart library for iOS.
 - [EatFit](https://github.com/Yalantis/EatFit) [:star: 657] - Eat fit is a component for attractive data representation inspired by Google Fit.
 - [CoreCharts](https://github.com/cagricolak/CoreCharts) [:star: 71] - CoreCharts is a simple powerful yet Charts library for apple products.
@@ -410,7 +410,7 @@
 - [Aardvark](https://github.com/square/Aardvark) [:star: 257] - Aardvark is a library that makes it dead simple to create actionable bug reports.
 - [Stats](https://github.com/shu223/Stats) [:star: 171] - In-app memory usage monitoring.
 - [GlueKit](https://github.com/attaswift/GlueKit) [:star: 362] - A type-safe observer framework for Swift.
-- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) [:star: 6795] - A code library and command-line formatting tool for reformatting Swift code.
+- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) [:star: 6798] - A code library and command-line formatting tool for reformatting Swift code.
 - [PSTModernizer](https://github.com/PSPDFKit-labs/PSTModernizer) [:star: 216] - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
 - [Bugsee](https://www.bugsee.com) - In-app bug and crash reporting with video, logs, network traffic and traces.
 - [Fallback](https://github.com/devxoul/Fallback) [:star: 42] - Syntactic sugar for nested do-try-catch.
@@ -424,9 +424,9 @@
 
 *Static code analyzers to enforce style and conventions.*
 
-- [OCLint](https://github.com/oclint/oclint) [:star: 3677] - Static code analysis tool for improving quality and reducing defects.
+- [OCLint](https://github.com/oclint/oclint) [:star: 3676] - Static code analysis tool for improving quality and reducing defects.
 - [Taylor](https://github.com/yopeso/Taylor) [:star: 309] - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms.
-- [Swiftlint](https://github.com/realm/SwiftLint) [:star: 17523] - A tool to enforce Swift style and conventions.
+- [Swiftlint](https://github.com/realm/SwiftLint) [:star: 17525] - A tool to enforce Swift style and conventions.
 - [IBLinter](https://github.com/IBDecodable/IBLinter) [:star: 950] - A linter tool for Interface Builder.
 - [SwiftLinter](https://github.com/muyexi/SwiftLinter) [:star: 4] - Share lint rules between projects and lint changed files with SwiftLint.
 - [AnyLint](https://github.com/Flinesoft/AnyLint) [:star: 119] - Lint anything by combining the power of Swift & regular expressions.
@@ -437,15 +437,15 @@
 
 - [DynamicColor](https://github.com/yannickl/DynamicColor) [:star: 2862] - Yet another extension to manipulate colors easily in Swift.
 - [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) [:star: 688] - HEX color handling as an extension for UIColor.
-- [Colours](https://github.com/bennyguitar/Colours) [:star: 3092] - A beautiful set of predefined colors and a set of color methods to make your iOS/macOS development life easier.
-- [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) [:star: 1228] - Convenience method for creating autoreleased color using RGBA hex string.
+- [Colours](https://github.com/bennyguitar/Colours) [:star: 3093] - A beautiful set of predefined colors and a set of color methods to make your iOS/macOS development life easier.
+- [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) [:star: 1229] - Convenience method for creating autoreleased color using RGBA hex string.
 - [Hue](https://github.com/zenangst/Hue) [:star: 3420] - Hue is the all-in-one coloring utility that you'll ever need.
 - [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) [:star: 172] - Flat UI color palette helpers written in Swift.
 - [RandomColorSwift](https://github.com/onevcat/RandomColorSwift) [:star: 625] - An attractive color generator for Swift. Ported from `randomColor.js`.
 - [PFColorHash](https://github.com/PerfectFreeze/PFColorHash) [:star: 26] - Generate color based on the given string.
 - [BCColor](https://github.com/boycechang/BCColor) [:star: 419] - A lightweight but powerful color kit (Swift).
 - [DKNightVersion](https://github.com/Draveness/DKNightVersion) [:star: 3563] - Manage Colors, Integrate Night/Multiple Themes.
-- [PrettyColors](https://github.com/jdhealy/PrettyColors) [:star: 171] - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code) and conforms to ECMA Standard 48.
+- [PrettyColors](https://github.com/jdhealy/PrettyColors) [:star: 172] - PrettyColors is a Swift library for styling and coloring text in the Terminal. The library outputs [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code) and conforms to ECMA Standard 48.
 - [TFTColor](https://github.com/burhanuddin353/TFTColor) [:star: 18] - Simple Extension for RGB and CMKY Hex Strings and Hex Values (ObjC & Swift).
 - [CostumeKit](https://github.com/jakemarsh/CostumeKit) [:star: 300] - Base types for theming an app.
 - [CSS3ColorsSwift](https://github.com/WorldDownTown/CSS3ColorsSwift) [:star: 67] - A UIColor extension with CSS3 Colors name.
@@ -459,10 +459,10 @@
 *Smart, beautiful and elegant tools to help you create command line applications.*
 
 - [Swiftline](https://github.com/nsomar/Swiftline) [:star: 1189] - Swiftline is a set of tools to help you create command line applications.
-- [Commander](https://github.com/kylef/Commander) [:star: 1525] - Compose beautiful command line interfaces in Swift.
+- [Commander](https://github.com/kylef/Commander) [:star: 1526] - Compose beautiful command line interfaces in Swift.
 - [ColorizeSwift](https://github.com/mtynior/ColorizeSwift) [:star: 290] - Terminal string styling for Swift.
 - [Guaka](https://github.com/nsomar/Guaka) [:star: 1152] - The smartest and most beautiful (POSIX compliant) Command line framework for Swift.
-- [Marathon](https://github.com/JohnSundell/Marathon) [:star: 1876] - Marathon makes it easy to write, run and manage your Swift scripts.
+- [Marathon](https://github.com/JohnSundell/Marathon) [:star: 1877] - Marathon makes it easy to write, run and manage your Swift scripts.
 - [CommandCougar](https://github.com/surfandneptune/CommandCougar) [:star: 53] - An elegant pure Swift library for building command line applications.
 - [Crayon](https://github.com/luoxiu/Crayon) [:star: 59] - Terminal string styling with expressive api and 256/TrueColor support.
 - [SwiftShell](https://github.com/kareman/SwiftShell) [:star: 993] - A Swift framework for shell scripting and running shell commands.
@@ -539,17 +539,17 @@
 - [Realm](https://github.com/realm/realm-cocoa) [:star: 15940] - The alternative to CoreData and SQLite: Simple, modern and fast.
 - [YapDatabase](https://github.com/yapstudios/YapDatabase) [:star: 3358] - YapDatabase is an extensible database for iOS & Mac.
 - [Couchbase Mobile](https://www.couchbase.com/products/mobile/) - Couchbase document store for mobile with cloud sync.
-- [FMDB](https://github.com/ccgus/fmdb) [:star: 13790] - A Cocoa / Objective-C wrapper around SQLite.
+- [FMDB](https://github.com/ccgus/fmdb) [:star: 13791] - A Cocoa / Objective-C wrapper around SQLite.
 - [FCModel](https://github.com/marcoarment/FCModel) [:star: 1654] - An alternative to Core Data for people who like having direct SQL access.
 - [Zephyr](https://github.com/ArtSabintsev/Zephyr) [:star: 882] - Effortlessly synchronize NSUserDefaults over iCloud.
 - [Prephirences](https://github.com/phimage/Prephirences) [:star: 562] - Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state.
 - [Storez](https://github.com/SwiftKitz/Storez) [:star: 67] - Safe, statically-typed, store-agnostic key-value storage (with namespace support).
 - [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) [:star: 4761] - Statically-typed NSUserDefaults.
 - [SugarRecord](https://github.com/modo-studio/SugarRecord) [:star: 2126]  - Data persistence management library.
-- [SQLite.swift](https://github.com/stephencelis/SQLite.swift) [:star: 9018] - A type-safe, Swift-language layer over SQLite3.
-- [GRDB.swift](https://github.com/groue/GRDB.swift) [:star: 6007] - A versatile SQLite toolkit for Swift, with WAL mode support.
-- [Fluent](https://github.com/vapor/fluent) [:star: 1222] - Simple ActiveRecord implementation for working with your database in Swift.
-- [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) [:star: 3015] - A collaborative list of Parse alternative backend service providers.
+- [SQLite.swift](https://github.com/stephencelis/SQLite.swift) [:star: 9019] - A type-safe, Swift-language layer over SQLite3.
+- [GRDB.swift](https://github.com/groue/GRDB.swift) [:star: 6008] - A versatile SQLite toolkit for Swift, with WAL mode support.
+- [Fluent](https://github.com/vapor/fluent) [:star: 1223] - Simple ActiveRecord implementation for working with your database in Swift.
+- [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) [:star: 3016] - A collaborative list of Parse alternative backend service providers.
 - [TypedDefaults](https://github.com/tasanobu/TypedDefaults) [:star: 110] - TypedDefaults is a utility library to type-safely use NSUserDefaults.
 - [realm-cocoa-converter](https://github.com/realm/realm-cocoa-converter) [:star: 216] - A library that provides the ability to import/export Realm files from a variety of data container formats.
 - [YapDatabaseExtensions](https://github.com/danthorpe/YapDatabaseExtensions) [:star: 90] - YapDatabase extensions for use with Swift.
@@ -566,11 +566,11 @@
 - [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) [:star: 33] - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers.
 - [Nora](https://github.com/SD10/Nora) [:star: 273] - Nora is a Firebase abstraction layer for working with FirebaseDatabase and FirebaseStorage.
 - [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable) [:star: 163] - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk.
-- [WCDB](https://github.com/Tencent/wcdb) [:star: 9730] - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
+- [WCDB](https://github.com/Tencent/wcdb) [:star: 9731] - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 - [StorageKit](https://github.com/StorageKit/StorageKit) [:star: 231] - Your Data Storage Troubleshooter.
-- [UserDefaults](https://github.com/nmdias/DefaultsKit) [:star: 1424] - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
+- [UserDefaults](https://github.com/nmdias/DefaultsKit) [:star: 1425] - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
 - [Default](https://github.com/Nirma/Default) [:star: 474] - Modern interface to UserDefaults + Codable support.
-- [IceCream](https://github.com/caiyue1993/IceCream) [:star: 1856] - Sync Realm Database with CloudKit.
+- [IceCream](https://github.com/caiyue1993/IceCream) [:star: 1857] - Sync Realm Database with CloudKit.
 - [FirebaseHelper](https://github.com/quanvo87/FirebaseHelper) [:star: 16] - Safe and easy wrappers for common Firebase Realtime Database functions.
 - [Shallows](https://github.com/dreymonde/Shallows) [:star: 626] - Your lightweight persistence toolbox.
 - [StorageManager](https://github.com/iAmrSalman/StorageManager) [:star: 48] - Safe and easy way to use FileManager as Database.
@@ -580,7 +580,7 @@
 - [PersistenceKit](https://github.com/Teknasyon-Teknoloji/PersistenceKit) [:star: 152] - Store and retrieve Codable objects to various persistence layers, in a couple lines of code.
 - [ModelAssistant](https://github.com/ssamadgh/ModelAssistant) [:star: 27] - Elegant library to manage the interactions between view and model in Swift.
 - [MMKV](https://github.com/Tencent/MMKV) [:star: 15980] - An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.
-- [Defaults](https://github.com/sindresorhus/Defaults) [:star: 1542] - Swifty and modern UserDefaults.
+- [Defaults](https://github.com/sindresorhus/Defaults) [:star: 1543] - Swifty and modern UserDefaults.
 - [MongoKitten](https://github.com/OpenKitten/MongoKitten) [:star: 664] - A pure Swift MongoDB client implementation with support for embedded databases.
 - [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) [:star: 223] - A lightweight wrapper over UserDefaults/NSUserDefaults with an extra AES-256 encryption layer.
 - [Unrealm](https://github.com/arturdev/Unrealm) [:star: 528] - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
@@ -598,7 +598,7 @@
 - [Brick](https://github.com/hyperoslo/Brick) [:star: 58] - A generic view model for both basic and complex scenarios.
 - [Algorithm](https://github.com/CosmicMind/Algorithm) [:star: 826] - Algorithm is a collection of data structures that are empowered by a probability toolset.
 - [AnyObjectConvertible](https://github.com/tarunon/AnyObjectConvertible) [:star: 62] - Convert your own struct/enum to AnyObject easily.
-- [Dollar](https://github.com/ankurp/Dollar) [:star: 4243] - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript https://www.dollarswift.org/.
+- [Dollar](https://github.com/ankurp/Dollar) [:star: 4244] - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript https://www.dollarswift.org/.
 - [Result](https://github.com/antitypical/Result) [:star: 2519] - Swift type modeling the success/failure of arbitrary operations.
 - [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) [:star: 2428] - Some well known CS algorithms & data structures in Objective-C.
 - [Monaka](https://github.com/naru-jpn/Monaka) [:star: 22] - Convert custom struct and fundamental values to NSData.
@@ -625,9 +625,9 @@
 *Time and NSCalendar libraries. Also contains Sunrise and Sunset time generators, time pickers and NSTimer interfaces.*
 
 - [Timepiece](https://github.com/naoty/Timepiece) [:star: 2640] - Intuitive NSDate extensions in Swift.
-- [SwiftDate](https://github.com/malcommac/SwiftDate) [:star: 7370] - The best way to manage Dates and Timezones in Swift.
+- [SwiftDate](https://github.com/malcommac/SwiftDate) [:star: 7371] - The best way to manage Dates and Timezones in Swift.
 - [SwiftMoment](https://github.com/akosma/SwiftMoment) [:star: 1628] - A time and calendar manipulation library.
-- [DateTools](https://github.com/MatthewYork/DateTools) [:star: 7209] - Dates and times made easy in Objective-C.
+- [DateTools](https://github.com/MatthewYork/DateTools) [:star: 7208] - Dates and times made easy in Objective-C.
 - [SwiftyTimer](https://github.com/radex/SwiftyTimer) [:star: 1219] - Swifty API for NSTimer.
 - [DateHelper](https://github.com/melvitax/DateHelper) [:star: 1451] - Convenience extension for NSDate in Swift.
 - [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) [:star: 600] - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
@@ -635,10 +635,10 @@
 - [Kronos](https://github.com/lyft/Kronos) [:star: 597] - Elegant NTP date library in Swift.
 - [TrueTime](https://github.com/instacart/TrueTime.swift) [:star: 547] - Get the true current time impervious to device clock time changes.
 - [10Clock](https://github.com/joedaniels29/10Clock) [:star: 558] - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
-- [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) [:star: 1762] - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
+- [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) [:star: 1761] - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
 - [AnyDate](https://github.com/Kawoou/AnyDate) [:star: 186] - Swifty Date & Time API inspired from Java 8 DateTime API.
 - [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) [:star: 126] - A TimeZonePicker UIViewController similar to the iOS Settings app.
-- [Time](https://github.com/dreymonde/Time) [:star: 1067] - Type-safe time calculations in Swift, powered by generics.
+- [Time](https://github.com/dreymonde/Time) [:star: 1068] - Type-safe time calculations in Swift, powered by generics.
 - [Chronology](https://github.com/davedelong/Chronology) [:star: 2089] - Building a better date/time library.
 - [Solar](https://github.com/ceeK/Solar) [:star: 528] - A Swift micro library for generating Sunrise and Sunset times.
 - [TimePicker](https://github.com/Endore8/TimePicker) [:star: 14] - Configurable time picker component based on a pan gesture and its velocity.
@@ -652,15 +652,15 @@
 
 - [Xniffer](https://github.com/xmartlabs/Xniffer) [:star: 498] - A swift network profiler built on top of URLSession.
 - [Netfox](https://github.com/kasketis/netfox) [:star: 3492] - A lightweight, one line setup, iOS / macOS network debugging library!
-- [PonyDebugger](https://github.com/square/PonyDebugger) [:star: 5867] - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
+- [PonyDebugger](https://github.com/square/PonyDebugger) [:star: 5866] - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
 - [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) [:star: 1230] - Set of easy to use debugging tools for iOS developers & QA engineers.
-- [Flex](https://github.com/Flipboard/FLEX) [:star: 13607] - An in-app debugging and exploration tool for iOS.
-- [chisel](https://github.com/facebook/chisel) [:star: 8998] - Collection of LLDB commands to assist debugging iOS apps.
+- [Flex](https://github.com/Flipboard/FLEX) [:star: 13606] - An in-app debugging and exploration tool for iOS.
+- [chisel](https://github.com/facebook/chisel) [:star: 8997] - Collection of LLDB commands to assist debugging iOS apps.
 - [Alpha](https://github.com/Legoless/Alpha) [:star: 735] - Next generation debugging framework for iOS.
 - [AEConsole](https://github.com/tadija/AEConsole) [:star: 146] - Customizable Console UI overlay with debug log on top of your iOS App.
 - [GodEye](https://github.com/zixun/GodEye) [:star: 3769] - Automatically display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift.
 - [NetworkEye](https://github.com/coderyi/NetworkEye) [:star: 1378] - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
-- [Dotzu](https://github.com/remirobert/Dotzu) [:star: 1799] - iOS app debugger while using the app. Crash report, logs, network.
+- [Dotzu](https://github.com/remirobert/Dotzu) [:star: 1800] - iOS app debugger while using the app. Crash report, logs, network.
 - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) [:star: 2032] - In-app design review tool to inspect measurements, attributes, and animations.
 - [Httper-iOS](https://github.com/MuShare/Httper-iOS) [:star: 415] - App for developers to test REST API.
 - [Droar](https://github.com/myriadmobile/Droar) [:star: 56] - Droar is a modular, single-line installation debugging window.
@@ -668,9 +668,9 @@
 - [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
 - [Woodpecker](http://www.woodpeck.cn) - View sandbox files, UserDefaults, network request from Mac.
 - [LayoutInspector](https://github.com/isavynskyi/LayoutInspector) [:star: 512] - Debug app layouts directly on iOS device: inspect layers in 3D and debug each visible view attributes.
-- [MTHawkeye](https://github.com/meitu/MTHawkeye) [:star: 1433] - Profiling / Debugging assist tools for iOS, include tools: UITimeProfiler, Memory Allocations, Living ObjC Objects Sniffer, Network Transaction Waterfall, etc.
+- [MTHawkeye](https://github.com/meitu/MTHawkeye) [:star: 1434] - Profiling / Debugging assist tools for iOS, include tools: UITimeProfiler, Memory Allocations, Living ObjC Objects Sniffer, Network Transaction Waterfall, etc.
 - [Playbook](https://github.com/playbook-ui/playbook-ios) [:star: 1012] - A library for isolated developing UI components and automatically snapshots of them.
-- [DoraemonKit](https://github.com/didi/DoraemonKit) [:star: 19549] - A full-featured iOS App development assistant，30+ tools included. You deserve it.
+- [DoraemonKit](https://github.com/didi/DoraemonKit) [:star: 19550] - A full-featured iOS App development assistant，30+ tools included. You deserve it.
 - [Atlantis](https://github.com/ProxymanApp/atlantis) [:star: 1020] - A little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your iOS app. No more messing around with proxy and certificate config. Inspect Traffic Log with Proxyman app.
 - ~~[NetShears](https://github.com/divar-ir/NetShears.git) - Allows developers to intercept and monitor HTTP/HTTPS requests and responses. It also could be configured to show gRPC calls.~~
 - [Scyther](https://github.com/bstillitano/Scyther) [:star: 92] - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
@@ -708,16 +708,16 @@
 
 *File management, file browser, zip handling and file observers.*
 
-- [FileKit](https://github.com/nvzqz/FileKit) [:star: 2281] - Simple and expressive file management in Swift.
-- [Zip](https://github.com/marmelroy/Zip) [:star: 2351] - Swift framework for zipping and unzipping files.
+- [FileKit](https://github.com/nvzqz/FileKit) [:star: 2280] - Simple and expressive file management in Swift.
+- [Zip](https://github.com/marmelroy/Zip) [:star: 2350] - Swift framework for zipping and unzipping files.
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) [:star: 1505] - Powerful Swift file browser for iOS.
 - [Ares](https://github.com/indragiek/Ares) [:star: 133] - Zero-setup P2P file transfer between Macs and iOS devices.
 - [FileProvider](https://github.com/amosavian/FileProvider) [:star: 924] - FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive/SMB2) files on iOS/tvOS and macOS.
 - [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) [:star: 1058] - A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
-- [ZipArchive](https://github.com/ZipArchive/ZipArchive) [:star: 5252] - ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.
+- [ZipArchive](https://github.com/ZipArchive/ZipArchive) [:star: 5254] - ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.
 - [FileExplorer](https://github.com/Augustyniak/FileExplorer) [:star: 728] - Powerful file browser for iOS that allows its users to choose and remove files and/or directories.
-- [ZIPFoundation](https://github.com/weichsel/ZIPFoundation) [:star: 2039] - Effortless ZIP Handling in Swift.
-- [AppFolder](https://github.com/dreymonde/AppFolder) [:star: 936] - AppFolder is a lightweight framework that lets you design a friendly, strongly-typed representation of a directories inside your app's container.
+- [ZIPFoundation](https://github.com/weichsel/ZIPFoundation) [:star: 2051] - Effortless ZIP Handling in Swift.
+- [AppFolder](https://github.com/dreymonde/AppFolder) [:star: 935] - AppFolder is a lightweight framework that lets you design a friendly, strongly-typed representation of a directories inside your app's container.
 - [ZipZap](https://github.com/pixelglow/ZipZap) [:star: 1217] - zip file I/O library for iOS, macOS and tvOS.
 - [AMSMB2](https://github.com/amosavian/AMSMB2) [:star: 168] - Swift framework to connect SMB 2/3 shares for iOS.
 
@@ -752,7 +752,7 @@
 *Grand Central Dispatch syntax sugars, tools and timers.*
 
 - [GCDKit](https://github.com/JohnEstropia/GCDKit) [:star: 317] - Grand Central Dispatch simplified with Swift.
-- [Async](https://github.com/duemunk/Async) [:star: 4609] - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
+- [Async](https://github.com/duemunk/Async) [:star: 4608] - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 - [SwiftSafe](https://github.com/nodes-ios/SwiftSafe) [:star: 158] - Thread synchronization made easy.
 - [YYDispatchQueuePool](https://github.com/ibireme/YYDispatchQueuePool) [:star: 470] - iOS utility class to manage global dispatch queue.
 - [AlecrimAsyncKit](https://github.com/Alecrim/AlecrimAsyncKit) [:star: 88] - Bringing async and await to Swift world with some flavouring.
@@ -773,7 +773,7 @@
 - [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) [:star: 1183] - Gesture recognizer tool.
 - [Sensitive](https://github.com/hellowizman/Sensitive) [:star: 551] - Special way to work with gestures in iOS.
 - [SplitViewDragAndDrop](https://github.com/MarioIannotta/SplitViewDragAndDrop) [:star: 325] - Easily add drag and drop to pass data between your apps in split view mode.
-- [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) [:star: 5892] - An UINavigationController's category to enable fullscreen pop gesture in an iOS7+ system style with AOP.
+- [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) [:star: 5891] - An UINavigationController's category to enable fullscreen pop gesture in an iOS7+ system style with AOP.
 
 ## Graphics
 
@@ -786,7 +786,7 @@
 - [SwiftSVG](https://github.com/mchoe/SwiftSVG) [:star: 1842] -  A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 - [InkKit](https://github.com/shaps80/InkKit) [:star: 371] - Write-Once, Draw-Everywhere for iOS and macOS.
 - [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) [:star: 677] - iOS utility classes for asynchronous rendering and display.
-- [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) [:star: 1339] - NXDrawKit is a simple and easy but useful drawing kit for iPhone.
+- [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) [:star: 1340] - NXDrawKit is a simple and easy but useful drawing kit for iPhone.
 - [jot](https://github.com/IFTTT/jot) [:star: 1779] - An iOS framework for easily adding drawings and text to images.
 - [SVGKit](https://github.com/SVGKit/SVGKit) [:star: 4324] - Display and interact with SVG Images on iOS / macOS, using native rendering (CoreAnimation) (currently only supported for iOS - macOS code needs updating).
 - [Snowflake](https://github.com/onmyway133/Snowflake) [:star: 951] - SVG in Swift.
@@ -796,7 +796,7 @@
 - [AEConicalGradient](https://github.com/tadija/AEConicalGradient) [:star: 82] - Conical (angular) gradient layer written in Swift.
 - [MKGradientView](https://github.com/maxkonovalov/MKGradientView) [:star: 169] - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift.
 - [EPShapes](https://github.com/ipraba/EPShapes) [:star: 388] - Design shapes in Interface Builder.
-- [Macaw](https://github.com/exyte/macaw) [:star: 5924] - Powerful and easy-to-use vector graphics library with SVG support written in Swift.
+- [Macaw](https://github.com/exyte/macaw) [:star: 5925] - Powerful and easy-to-use vector graphics library with SVG support written in Swift.
 - [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) [:star: 58] - Unique blocky identicons/profile picture generator.
 - [Rough](https://github.com/bakhtiyork/Rough) [:star: 98] - lets you draw in a sketchy, hand-drawn-like, style.
 - [GraphLayout](https://github.com/bakhtiyork/GraphLayout) [:star: 101] - UI controls for graph visualization. It is powered by Graphviz.
@@ -855,7 +855,7 @@
 - [TakeASelfie](https://github.com/abdullahselek/TakeASelfie) [:star: 37] - An iOS framework that uses the front camera, detects your face and takes a selfie.
 - [HybridCamera](https://github.com/eonist/HybridCamera) [:star: 195] - Video and photo camera for iOS, similar to the SnapChat camera.
 - [CameraKit-iOS](https://github.com/CameraKit/camerakit-ios) [:star: 645] - Massively increase camera performance and ease of use in your next iOS project.
-- [ExyteMediaPicker](https://github.com/exyte/mediapicker) [:star: 148] - Customizable media picker
+- [ExyteMediaPicker](https://github.com/exyte/mediapicker) [:star: 149] - Customizable media picker
 
 ### Force Touch
 
@@ -883,7 +883,7 @@
 - [AsyncLocationKit](https://github.com/AsyncSwift/AsyncLocationKit) [:star: 126] - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 - [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) [:star: 98] - Always-On Location monitoring framework for iOS.
 - [LocationManager](https://github.com/intuit/LocationManager) [:star: 2558] - Provides a block-based asynchronous API to request the current location, either once or continuously.
-- [SwiftLocation](https://github.com/malcommac/SwiftLocation) [:star: 3231] - Location & Beacon Monitoring in Swift.
+- [SwiftLocation](https://github.com/malcommac/SwiftLocation) [:star: 3232] - Location & Beacon Monitoring in Swift.
 - [SOMotionDetector](https://github.com/arturdev/SOMotionDetector) [:star: 1062] - Simple library to detect motion. Based on location updates and acceleration.
 - [LocationPicker](https://github.com/ZhuoranTan/LocationPicker) [:star: 397] - A ready for use and fully customizable location picker for your app.
 - [BBLocationManager](https://github.com/benzamin/BBLocationManager) [:star: 107] - A Location Manager for easily implementing location services & geofencing in iOS.
@@ -916,7 +916,7 @@
 - [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) [:star: 1503] - UIView category which makes it easy to create layout constraints in code.
 - [Façade](https://github.com/mamaral/Facade) [:star: 695] - Programmatic view layout for the rest of us - an autolayout alternative.
 - [PureLayout](https://github.com/PureLayout/PureLayout) [:star: 7621] - The ultimate API for iOS & macOS Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
-- [SnapKit](https://github.com/SnapKit/SnapKit) [:star: 19416] - A Swift Autolayout DSL for iOS & macOS.
+- [SnapKit](https://github.com/SnapKit/SnapKit) [:star: 19415] - A Swift Autolayout DSL for iOS & macOS.
 - [Cartography](https://github.com/robb/Cartography) [:star: 7340] - A declarative Auto Layout DSL for Swift.
 - [AutoLayoutPlus](https://github.com/ruipfcosta/AutoLayoutPlus) [:star: 27] - A bit of steroids for AutoLayout.
 - [Neon](https://github.com/mamaral/Neon) [:star: 4578] - A powerful Swift programmatic UI layout framework.
@@ -941,7 +941,7 @@
 - ~~[Compose](https://github.com/grupozap/Compose) - Compose is a library that helps you compose complex and dynamic views.~~
 - [BrickKit](https://github.com/wayfair/brickkit-ios) [:star: 609] - With BrickKit, you can create complex and responsive layouts in a simple way. It's easy to use and easy to extend. Create your own reusable bricks and behaviors.
 - [Framezilla](https://github.com/Otbivnoe/Framezilla) [:star: 133] - Elegant library which wraps working with frames with a nice chaining syntax.
-- [TinyConstraints](https://github.com/roberthein/TinyConstraints) [:star: 3895] -  The syntactic sugar that makes Auto Layout sweeter for human use.
+- [TinyConstraints](https://github.com/roberthein/TinyConstraints) [:star: 3896] -  The syntactic sugar that makes Auto Layout sweeter for human use.
 - [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) [:star: 4275] - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap.
 - [SugarAnchor](https://github.com/ashikahmad/SugarAnchor) [:star: 20] - Same native NSLayoutAnchor & NSLayoutConstraints; but with more natural and easy to read syntactic sugar. Typesafe, concise & readable.
 - [EasyAnchor](https://github.com/onmyway133/EasyAnchor) [:star: 451] - Declarative, extensible, powerful Auto Layout.
@@ -950,10 +950,10 @@
 - [Cupcake](https://github.com/nerdycat/Cupcake) [:star: 288] - An easy way to create and layout UI components for iOS.
 - [MiniLayout](https://github.com/yonat/MiniLayout) [:star: 8] - Minimal AutoLayout convenience layer. Program constraints succinctly.
 - [Bamboo](https://github.com/wordlessj/Bamboo) [:star: 74] - Bamboo makes Auto Layout (and manual layout) elegant and concise.
-- [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout gently wraps the highly optimized [facebook/yoga](https://github.com/facebook/yoga) [:star: 16306] flexbox implementation in a concise, intuitive & chainable syntax.
+- [FlexLayout](https://github.com/layoutBox/FlexLayout) - FlexLayout gently wraps the highly optimized [facebook/yoga](https://github.com/facebook/yoga) [:star: 16307] flexbox implementation in a concise, intuitive & chainable syntax.
 - [Layout](https://github.com/nicklockwood/layout) [:star: 2232] - A declarative UI framework for iOS.
 - [CGLayout](https://github.com/k-o-d-e-n/CGLayout) [:star: 44] - Powerful autolayout framework based on constraints, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper.
-- [YogaKit](https://github.com/facebook/yoga/tree/master/YogaKit) [:star: 16306] - Powerful layout engine which implements Flexbox.
+- [YogaKit](https://github.com/facebook/yoga/tree/master/YogaKit) [:star: 16307] - Powerful layout engine which implements Flexbox.
 - [FlightLayout](https://github.com/AntonTheDev/FlightLayout) [:star: 22] -  Balanced medium between manual layout and auto-layout. Great for calculating frames for complex animations.
 - [QLayout](https://github.com/josejuanqm/QLayout) [:star: 3] - AutoLayout Utility for iOS.
 - [Layoutless](https://github.com/DeclarativeHub/Layoutless) [:star: 434] - Minimalistic declarative layout and styling framework built on top of Auto Layout.
@@ -993,7 +993,7 @@
 *Debugging lives here. Logging tools, frameworks, integrations and more.*
 
 - [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) [:star: 1321] - A configurable and extensible Swift-based logging API that is simple, lightweight and performant.
-- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) [:star: 12982] - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
+- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) [:star: 12981] - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
 - [NSLogger](https://github.com/fpillet/NSLogger) [:star: 4980] - a high performance logging utility which displays traces emitted by client applications running on macOS, iOS and Android.
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) [:star: 781] — Swift Logging Utility for Xcode & Google Docs.
 - [Log](https://github.com/delba/Log) [:star: 826] - A logging tool with built-in themes, formatters, and a nice API to define your owns.
@@ -1035,21 +1035,21 @@
 
 - [Swift-Brain](https://github.com/vlall/Swift-Brain) [:star: 332] - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI.
 - [AIToolbox](https://github.com/KevinCoble/AIToolbox) [:star: 784] - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
-- [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) [:star: 176155] - The official Google-built powerful neural network library port for iOS.
-- [Bender](https://github.com/xmartlabs/Bender) [:star: 1765] - Easily craft fast Neural Networks. Use TensorFlow models. Metal under the hood.
+- [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) [:star: 176187] - The official Google-built powerful neural network library port for iOS.
+- [Bender](https://github.com/xmartlabs/Bender) [:star: 1766] - Easily craft fast Neural Networks. Use TensorFlow models. Metal under the hood.
 - [CoreML-samples](https://github.com/ytakzk/CoreML-samples) [:star: 41] - Sample code for Core ML using ResNet50 provided by Apple and a custom model generated by coremltools.
 - [Revolver](https://github.com/petrmanek/Revolver) [:star: 29] - A framework for building fast genetic algorithms in Swift. Comes with modular architecture, pre-implemented operators and loads of examples.
-- [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) [:star: 5867] - A collection of unique Core ML Models.
+- [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) [:star: 5869] - A collection of unique Core ML Models.
 - [Serrano](https://github.com/pcpLiu/Serrano) [:star: 51] - A deep learning library for iOS and macOS.
 - [Swift-AI](https://github.com/Swift-AI/Swift-AI) [:star: 5965] - The Swift machine learning library.
 - [TensorSwift](https://github.com/qoncept/TensorSwift) [:star: 324] - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's.
 - [DL4S](https://github.com/palle-k/DL4S) [:star: 96] - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
-- [SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) [:star: 149] - A Swift library for creating and exporting CoreML Models in Swift.
+- [SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) [:star: 148] - A Swift library for creating and exporting CoreML Models in Swift.
 
 
 ## Maps
 
-- [Mapbox GL](https://github.com/mapbox/mapbox-gl-native) [:star: 4284] - An OpenGL renderer for Mapbox Vector Tiles with SDK bindings for iOS.
+- [Mapbox GL](https://github.com/mapbox/mapbox-gl-native) [:star: 4285] - An OpenGL renderer for Mapbox Vector Tiles with SDK bindings for iOS.
 - [GEOSwift](https://github.com/GEOSwift/GEOSwift) [:star: 1397] - The Swift Geographic Engine.
 - [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) [:star: 267] - Google Directions API helper for iOS, written in Swift.
 - [Cluster](https://github.com/efremidze/Cluster) [:star: 1239] - Easy Map Annotation Clustering.
@@ -1084,7 +1084,7 @@
 ### Audio
 
 - [AudioBus](https://developer.audiob.us/) - Add Next Generation Live App-to-App Audio Routing.
-- [AudioKit](https://github.com/audiokit/AudioKit) [:star: 9935] - A powerful toolkit for synthesizing, processing, and analyzing sounds.
+- [AudioKit](https://github.com/audiokit/AudioKit) [:star: 9933] - A powerful toolkit for synthesizing, processing, and analyzing sounds.
 - [EZAudio](https://github.com/syedhali/EZAudio) [:star: 4888] - An iOS/macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
 - [novocaine](https://github.com/alexbw/novocaine) [:star: 2217] - Painless high-performance audio on iOS and macOS.
 - [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) [:star: 43] - Queue management system for AVSpeechSynthesizer (iOS Text to Speech).
@@ -1105,7 +1105,7 @@
 - [QuietModemKit](https://github.com/quiet/QuietModemKit) [:star: 449] - iOS framework for the Quiet Modem (data over sound).
 - [SwiftySound](https://github.com/adamcichy/SwiftySound) [:star: 1182] - Super simple library that lets you play sounds with a single line of code (and much more). Written in Swift 3, supports iOS, macOS and tvOS. CocoaPods and Carthage compatible.
 - [BPMAnalyser](https://github.com/Luccifer/BPM-Analyser) [:star: 73] - Fast and simple instrument to get the BPM rate from your audio-files.
-- [PandoraPlayer](https://github.com/AppliKeySolutions/PandoraPlayer) [:star: 1144] - A lightweight music player for iOS, based on AudioKit.
+- [PandoraPlayer](https://github.com/AppliKeySolutions/PandoraPlayer) [:star: 1143] - A lightweight music player for iOS, based on AudioKit.
 - [SonogramView](https://github.com/Luccifer/SonogramView) [:star: 68] - Audio visualisation of song.
 - [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars) [:star: 285] - AIB indicates for your app users which audio is playing. Just like the Podcasts app.
 - [Porcupine](https://github.com/Picovoice/Porcupine) [:star: 3080] - On-device wake word detection engine for macOS, iOS, and watchOS, powered by deep learning.
@@ -1126,19 +1126,19 @@
 - [YYImage](https://github.com/ibireme/YYImage) [:star: 1751] - Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.
 - [AImage](https://github.com/wangjwchn/AImage) [:star: 1000] - A animated GIF&APNG engine for iOS in Swift with low memory & cpu usage.Optimized for Multi-Image case.
 - [NSGIF2](https://github.com/metasmile/NSGIF2) [:star: 84] - Simplify creation of a GIF from the provided video file url.
-- [SwiftyGif](https://github.com/kirualex/SwiftyGif) [:star: 1789] - High performance GIF engine.
+- [SwiftyGif](https://github.com/kirualex/SwiftyGif) [:star: 1791] - High performance GIF engine.
 
 ### Image
-- [GPU Image](https://github.com/BradLarson/GPUImage) [:star: 20088] - An open source iOS framework for GPU-based image and video processing.
+- [GPU Image](https://github.com/BradLarson/GPUImage) [:star: 20089] - An open source iOS framework for GPU-based image and video processing.
 - [UIImage DSP](https://github.com/gdawg/uiimage-dsp) [:star: 372] - iOS UIImage processing functions using the vDSP/Accelerate framework for speed.
 - [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) [:star: 912] - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
-- [SDWebImage](https://github.com/SDWebImage/SDWebImage) [:star: 24643] - Asynchronous image downloader with cache support with an UIImageView category.
+- [SDWebImage](https://github.com/SDWebImage/SDWebImage) [:star: 24642] - Asynchronous image downloader with cache support with an UIImageView category.
 - [DFImageManager](https://github.com/kean/DFImageManager) [:star: 1187] - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
 - [MapleBacon](https://github.com/JanGorman/MapleBacon) [:star: 336] - An image download and caching library for iOS written in Swift.
 - [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) [:star: 2823] - Slideshow and image viewer.
 - [IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser) [:star: 2713] - Photo Browser / Viewer.
 - [Concorde](https://github.com/contentful-labs/Concorde/) [:star: 1446] - Download and decode progressive JPEGs.
-- [TOCropViewController](https://github.com/TimOliver/TOCropViewController) [:star: 4528] - A view controller that allows users to crop UIImage objects.
+- [TOCropViewController](https://github.com/TimOliver/TOCropViewController) [:star: 4529] - A view controller that allows users to crop UIImage objects.
 - [YXTMotionView](https://github.com/hanton/YXTMotionView) [:star: 78] - A custom image view that implements device motion scrolling.
 - [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) [:star: 3977] - A thread safe, performant, feature rich image fetcher.
 - [SABlurImageView](https://github.com/marty-suzuki/SABlurImageView) [:star: 553] - Easily Adding Animated Blur/Unblur Effects To An Image.
@@ -1172,7 +1172,7 @@
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) [:star: 4797] - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 - [TGLParallaxCarousel](https://github.com/taglia3/TGLParallaxCarousel) [:star: 438] - A lightweight 3D Linear Carousel with parallax effect.
 - [ImageButter](https://github.com/dollarshaveclub/ImageButter) [:star: 397] - Makes dealing with images buttery smooth.
-- [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) [:star: 2497] - Simple PhotoBrowser/Viewer inspired by Facebook, Twitter photo browsers written by swift.
+- [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) [:star: 2498] - Simple PhotoBrowser/Viewer inspired by Facebook, Twitter photo browsers written by swift.
 - [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) [:star: 1207] - An implementation of High Pass Skin Smoothing using Apple's Core Image Framework.
 - [CLImageViewPopup](https://github.com/vinbhai4u/CLImageViewPopup/) [:star: 36] - A simple Image full screen pop up.
 - [APKenBurnsView](https://github.com/Alterplay/APKenBurnsView) [:star: 98] - Ken Burns effect with face recognition!
@@ -1193,7 +1193,7 @@
 - [Ebblink](https://github.com/ebbapp/ebblinkSDK) [:star: 4] - An iOS SDK for sharing photos that automatically expire and can be deleted at any time.
 - [Sharaku](https://github.com/makomori/Sharaku) [:star: 1513] - Instagram-like image filter ViewController.
 - [CTPanoramaView](https://github.com/scihant/CTPanoramaView) [:star: 1007] - Displays spherical or cylindrical panoramas or 360-photos with touch or motion based control options.
-- [Twitter Image Pipline](https://github.com/twitter/ios-twitter-image-pipeline) [:star: 1848] - streamlined framework for fetching and storing images in an application.
+- [Twitter Image Pipline](https://github.com/twitter/ios-twitter-image-pipeline) [:star: 1849] - streamlined framework for fetching and storing images in an application.
 - [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) [:star: 1816] - A smart and easy-to-use image masking and cutout SDK for mobile apps.
 - [FlexibleImage](https://github.com/kawoou/FlexibleImage) [:star: 821] - A simple way to play with image!
 - [TLPhotoPicker](https://github.com/tilltue/TLPhotoPicker) [:star: 1856] - Multiple phassets picker for iOS lib. like a facebook.
@@ -1233,7 +1233,7 @@
 - [SwiftOCR](https://github.com/garnele007/SwiftOCR) [:star: 4565] - Fast and simple OCR library written in Swift.
 - [QR Code Scanner](https://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR Code implementation.
 - [QRCode](https://github.com/aschuch/QRCode) [:star: 733] - A QRCode generator written in Swift.
-- [EFQRCode](https://github.com/EFPrefix/EFQRCode) [:star: 4445] - A better way to operate two-dimensional code in Swift.
+- [EFQRCode](https://github.com/EFPrefix/EFQRCode) [:star: 4446] - A better way to operate two-dimensional code in Swift.
 - [NSFWDetector](https://github.com/lovoo/NSFWDetector) [:star: 1526] - A NSFW (aka porn) detector with CoreML.
 
 ### PDF
@@ -1249,8 +1249,8 @@
 - [UIImagePlusPDF](https://github.com/DimaMishchenko/UIImagePlusPDF) [:star: 35] - UIImage extensions to simply use PDF files.
 
 ### Streaming
-- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) [:star: 2534] - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS.
-- [StreamingKit](https://github.com/tumtumtum/StreamingKit) [:star: 2376] - A fast and extensible gapless AudioPlayer/AudioStreamer for macOS and iOS.
+- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) [:star: 2536] - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS.
+- [StreamingKit](https://github.com/tumtumtum/StreamingKit) [:star: 2377] - A fast and extensible gapless AudioPlayer/AudioStreamer for macOS and iOS.
 - [Jukebox](https://github.com/teodorpatras/Jukebox) [:star: 546] - Player for streaming local and remote audio files. Written in Swift.
 - [LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit) [:star: 4359] - H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate.
 - [Airstream](https://github.com/qasim/Airstream) [:star: 376] - A framework for streaming audio between Apple devices using AirPlay.
@@ -1280,16 +1280,16 @@
 - [YoutubeKit](https://github.com/rinov/YoutubeKit) [:star: 577] - A video player that fully supports Youtube IFrame API and YoutubeDataAPI for easily create a Youtube app.
 - [Swift-YouTube-Player](https://github.com/gilesvangruisen/Swift-YouTube-Player) [:star: 842] - Swift library for embedding and controlling YouTube videos in your iOS applications!
 - [JDVideoKit](https://github.com/jamesdouble/JDVideoKit) [:star: 24] - You can easily transfer your video into Three common video type via this framework.
-- [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) [:star: 744] - Versatile AVPlayer implementation for iOS, macOS, and tvOS.
+- [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) [:star: 745] - Versatile AVPlayer implementation for iOS, macOS, and tvOS.
 
 ## Messaging
 
 Also see [push notifications](#push-notifications)
 
-- [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) [:star: 5924] - An XMPP Framework in Objective-C for Mac and iOS.
+- [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) [:star: 5923] - An XMPP Framework in Objective-C for Mac and iOS.
 - [Chatto](https://github.com/badoo/Chatto) [:star: 4412] - A lightweight framework to build chat applications, made in Swift.
-- [MessageKit](https://github.com/MessageKit/MessageKit) [:star: 5696] - Eventually, a Swift re-write of JSQMessagesViewController.
-- [Messenger](https://github.com/relatedcode/Messenger) [:star: 4557] - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
+- [MessageKit](https://github.com/MessageKit/MessageKit) [:star: 5698] - Eventually, a Swift re-write of JSQMessagesViewController.
+- [Messenger](https://github.com/relatedcode/Messenger) [:star: 4558] - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 - [OTTextChatAccelerator](https://github.com/opentok/accelerator-textchat-ios) [:star: 13] - OpenTok Text Chat Accelerator Pack enables text messages between mobile or browser-based devices.
 - [chat-sdk-ios](https://github.com/chat-sdk/chat-sdk-ios) [:star: 890] - Chat SDK iOS - Open Source Mobile Messenger.
 - [AsyncMessagesViewController](https://github.com/nguyenhuy/AsyncMessagesViewController) [:star: 301] - A smooth, responsive and flexible messages UI library for iOS.
@@ -1297,11 +1297,11 @@ Also see [push notifications](#push-notifications)
 - [SwiftyMessenger](https://github.com/abdullahselek/SwiftyMessenger) [:star: 58] - Swift toolkit for passing messages between iOS apps and extensions.
 - [Messenger Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) [:star: 694] - Swift messaging chat app with Firebase Firestore integration.
 - [SwiftKafka](https://github.com/IBM-Swift/SwiftKafka) [:star: 55] - Swift SDK for Apache Kafka by IBM.
-- [ChatLayout](https://github.com/ekazaev/ChatLayout) [:star: 668] - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
-- [ExyteChat](https://github.com/exyte/Chat) [:star: 190] - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
+- [ChatLayout](https://github.com/ekazaev/ChatLayout) [:star: 667] - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
+- [ExyteChat](https://github.com/exyte/Chat) [:star: 191] - SwiftUI Chat UI framework with fully customizable message cells, input view, and a built-in media picker.
 
 ## Networking
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) [:star: 33357] - A delightful iOS and macOS networking framework.
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking) [:star: 33356] - A delightful iOS and macOS networking framework.
 - [RestKit](https://github.com/RestKit/RestKit) [:star: 10227] - RestKit is an Objective-C framework for iOS that aims to make interacting with RESTful web services simple, fast and fun.
 - [FSNetworking](https://github.com/foursquare/FSNetworking) [:star: 386] - Foursquare iOS networking library.
 - [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) [:star: 5803] - Easy to use CFNetwork wrapper for HTTP requests, Objective-C, macOS and iPhone.
@@ -1312,11 +1312,11 @@ Also see [push notifications](#push-notifications)
 - [CDZPinger](https://github.com/cdzombak/CDZPinger) [:star: 49] - Easy-to-use ICMP Ping.
 - [NSRails](https://github.com/dingbat/nsrails) [:star: 519] - iOS/Mac OS framework for Rails.
 - [NKMultipeer](https://github.com/nathankot/NKMultipeer) [:star: 15] - A testable abstraction over multipeer connectivity.
-- [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) [:star: 12341] - Asynchronous socket networking library for Mac and iOS.
+- [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) [:star: 12342] - Asynchronous socket networking library for Mac and iOS.
 - [Siesta](https://github.com/bustoutsolutions/siesta) [:star: 2187] - Elegant abstraction for RESTful resources that untangles stateful messes. An alternative to callback- and delegate-based networking.
-- [Reachability.swift](https://github.com/ashleymills/Reachability.swift) [:star: 7791] - Replacement for Apple's Reachability re-written in Swift with closures.
+- [Reachability.swift](https://github.com/ashleymills/Reachability.swift) [:star: 7789] - Replacement for Apple's Reachability re-written in Swift with closures.
 - [OctopusKit](https://github.com/icoco/OctopusKit) [:star: 3] - A simplicity but graceful solution for invoke RESTful web service APIs.
-- [Moya](https://github.com/Moya/Moya) [:star: 14651] - Network abstraction layer written in Swift.
+- [Moya](https://github.com/Moya/Moya) [:star: 14650] - Network abstraction layer written in Swift.
 - [TWRDownloadManager](https://github.com/chasseurmic/TWRDownloadManager) [:star: 407] - A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.
 - [HappyDns](https://github.com/qiniu/happy-dns-objc) [:star: 482] - A Dns library, support custom dns server, dnspod httpdns. Only support A record.
 - [Bridge](https://github.com/BridgeNetworking/Bridge) [:star: 91] - A simple extensible typed networking library. Intercept and process/alter requests and responses easily.
@@ -1325,7 +1325,7 @@ Also see [push notifications](#push-notifications)
 - [EVURLCache](https://github.com/evermeer/EVURLCache) [:star: 296] - a NSURLCache subclass for handling all web requests that use NSURLRequest.
 - [ResponseDetective](https://github.com/netguru/ResponseDetective) [:star: 1947] - Sherlock Holmes of the networking layer.
 - [Pitaya](https://github.com/johnlui/Pitaya) [:star: 847] - A Swift HTTP / HTTPS networking library just incidentally execute on machines.
-- [Just](https://github.com/dduan/Just) [:star: 1395] - Swift HTTP for Humans.
+- [Just](https://github.com/dduan/Just) [:star: 1394] - Swift HTTP for Humans.
 - ~~[agent](https://github.com/hallas/agent) - Minimalistic Swift HTTP request agent for iOS and macOS.~~
 - [Reach](https://github.com/Isuru-Nanayakkara/Reach) [:star: 457] - A simple class to check for internet connection availability in Swift.
 - [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) [:star: 1881] - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
@@ -1335,7 +1335,7 @@ Also see [push notifications](#push-notifications)
 - [RealReachability](https://github.com/dustturtle/RealReachability) [:star: 3082] - We need to observe the REAL reachability of network. That's what RealReachability do.
 - [MonkeyKing](https://github.com/nixzhu/MonkeyKing) [:star: 2750] - MonkeyKing helps you post messages to Chinese Social Networks.
 - [NetworkKit](https://github.com/imex94/NetworkKit) [:star: 30] - Lightweight Networking and Parsing framework made for iOS, Mac, WatchOS and tvOS.
-- [APIKit](https://github.com/ishkawa/APIKit) [:star: 1973] - A networking library for building type safe web API client in Swift.
+- [APIKit](https://github.com/ishkawa/APIKit) [:star: 1974] - A networking library for building type safe web API client in Swift.
 - [ws ☁️](https://github.com/freshOS/ws) [:star: 352] - Elegant JSON WebService in Swift.
 - [SPTDataLoader](https://github.com/spotify/SPTDataLoader) [:star: 625] - The HTTP library used by the Spotify iOS client.
 - [SWNetworking](https://github.com/skywite/SWNetworking) [:star: 24] - Powerful high-level iOS, macOS and tvOS networking library.
@@ -1385,10 +1385,10 @@ Also see [push notifications](#push-notifications)
 
 ## Representations
 
-- [apollo-ios](https://github.com/apollographql/apollo-ios) [:star: 3708] - A GraphQL client for iOS.
+- [apollo-ios](https://github.com/apollographql/apollo-ios) [:star: 3709] - A GraphQL client for iOS.
 - [JSONRPCKit](https://github.com/bricklife/JSONRPCKit) [:star: 178] - A JSON-RPC 2.0 library.
 - [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) [:star: 935] - Google ProtocolBuffers for Apple Swift
-- [swift-protobuf](https://github.com/apple/swift-protobuf) [:star: 4240] - Plugin and runtime library for using protobuf with Swift.
+- [swift-protobuf](https://github.com/apple/swift-protobuf) [:star: 4241] - Plugin and runtime library for using protobuf with Swift.
 
 ## Notifications
 
@@ -1398,7 +1398,7 @@ Also see [push notifications](#push-notifications)
 - [PEM](https://github.com/fastlane/fastlane/tree/master/pem) [:star: 37344] - Automatically generate and renew your push notification profiles.
 - [Knuff](https://github.com/KnuffApp/Knuff) [:star: 5201] - The debug application for Apple Push Notification Service (APNS).
 - [FBNotifications](https://github.com/facebook/FBNotifications) [:star: 497] - Facebook Analytics In-App Notifications Framework.
-- [NWPusher](https://github.com/noodlewerk/NWPusher) [:star: 6279] - macOS and iOS application and framework to play with the Apple Push Notification service (APNs).
+- [NWPusher](https://github.com/noodlewerk/NWPusher) [:star: 6280] - macOS and iOS application and framework to play with the Apple Push Notification service (APNs).
 - [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications) [:star: 1378] - Library to send mock remote notifications to the iOS simulator.
 - [APNSUtil](https://github.com/pisces/APNSUtil) [:star: 31] - Library makes code simple settings and landing for apple push notification service.
 
@@ -1444,12 +1444,12 @@ Most of these are paid services, some have free tiers.
 - [CodableCSV](https://github.com/dehesa/CodableCSV) [:star: 394] - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
 ### JSON
-- [SBJson](https://github.com/SBJson/SBJson) [:star: 3743] - This framework implements a strict JSON parser and generator in Objective-C.
+- [SBJson](https://github.com/SBJson/SBJson) [:star: 3742] - This framework implements a strict JSON parser and generator in Objective-C.
 - [Mantle](https://github.com/Mantle/Mantle) [:star: 11329] - Model framework for Cocoa and Cocoa Touch.
 - [Groot](https://github.com/gonzalezreal/Groot) [:star: 532] - Convert JSON dictionaries and arrays to and from Core Data managed objects.
 - [PropertyMapper](https://github.com/krzysztofzablocki/PropertyMapper) [:star: 1133] - Data mapping and validation with minimal amount of code.
 - [JSONModel](https://github.com/JSONModel/JSONModel) [:star: 6860] - Magical Data Modeling Framework for JSON. Create rapidly powerful, atomic and smart data model classes.
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) [:star: 22022] - The better way to deal with JSON data in Swift.
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) [:star: 22021] - The better way to deal with JSON data in Swift.
 - [FastEasyMapping](https://github.com/Yalantis/FastEasyMapping) [:star: 553] - Serialize & deserialize JSON fast.
 - [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) [:star: 9065] - A framework written in Swift that makes it easy for you to convert your Model objects (Classes and Structs) to and from JSON.
 - [JASON](https://github.com/delba/JASON) [:star: 1016] - JSON parsing with outstanding performances and convenient operators.
@@ -1460,7 +1460,7 @@ Most of these are paid services, some have free tiers.
 - [mapper](https://github.com/lyft/mapper) [:star: 1171] - A JSON deserialization library for Swift.
 - [Alembic](https://github.com/ra1028/Alembic) [:star: 116] - Functional JSON parsing, mapping to objects, and serialize to JSON.
 - [Arrow 🏹](https://github.com/freshOS/Arrow) [:star: 380] - Elegant JSON Parsing in Swift.
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) [:star: 4754] - JSONExport is a desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) [:star: 4753] - JSONExport is a desktop application for macOS which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 - [Elevate](https://github.com/Nike-Inc/Elevate) [:star: 612] - Elevate is a JSON parsing framework that leverages Swift to make parsing simple, reliable and composable.
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) [:star: 8507] - A fast, convenient and nonintrusive conversion between JSON and model. Your model class don't need to extend another base class. You don't need to modify any model file.
 - [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) [:star: 2651] - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
@@ -1485,7 +1485,7 @@ Most of these are paid services, some have free tiers.
 - [Ji](https://github.com/honghaoz/Ji) [:star: 824] - XML/HTML parser for Swift.
 - [Ono](https://github.com/mattt/Ono) [:star: 2604] - A sensible way to deal with XML & HTML for iOS & macOS.
 - [Fuzi](https://github.com/cezheng/Fuzi) [:star: 1033] - A fast & lightweight XML & HTML parser in Swift with XPath & CSS support.
-- [Kanna](https://github.com/tid-kijyun/Kanna) [:star: 2347]  - Kanna(鉋) is an XML/HTML parser for macOS/iOS.
+- [Kanna](https://github.com/tid-kijyun/Kanna) [:star: 2348]  - Kanna(鉋) is an XML/HTML parser for macOS/iOS.
 - [SwiftyXMLParser](https://github.com/yahoojapan/SwiftyXMLParser) [:star: 540] - Simple XML Parser implemented in Swift.
 - [HTMLKit](https://github.com/iabudiab/HTMLKit) [:star: 235] - An Objective-C framework for your everyday HTML needs.
 - [SWXMLHash](https://github.com/drmohundro/SWXMLHash) [:star: 1333] - Simple XML parsing in Swift.
@@ -1496,7 +1496,7 @@ Most of these are paid services, some have free tiers.
 ### Other Parsing
 - [WKZombie](https://github.com/mkoehnke/WKZombie) [:star: 1156] - WKZombie is a Swift framework for iOS/macOS to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests or manipulate websites using Javascript.
 - [URLPreview](https://github.com/itsmeichigo/URLPreview) [:star: 199] - An NSURL extension for showing preview info of webpages.
-- [FeedKit](https://github.com/nmdias/FeedKit) [:star: 1089] - An RSS and Atom feed parser written in Swift.
+- [FeedKit](https://github.com/nmdias/FeedKit) [:star: 1090] - An RSS and Atom feed parser written in Swift.
 - [Erik](https://github.com/phimage/Erik) [:star: 560] - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.
 - [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) [:star: 646] - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 - [SwiftCssParser](https://github.com/100mango/SwiftCssParser) [:star: 279] - A Powerful , Extensible CSS Parser written in pure Swift.
@@ -1505,7 +1505,7 @@ Most of these are paid services, some have free tiers.
 - [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX) [:star: 738] - Excel spreadsheet (XLSX) format support in pure Swift.
 - [SVGView](https://github.com/exyte/SVGView) [:star: 388] - SVG parser and renderer written in SwiftUI.
 - [CreateAPI](https://github.com/CreateAPI/CreateAPI) [:star: 353] - Delightful code generation for OpenAPI specs for Swift written in Swift.
-- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) [:star: 6998] - It’s a free and open-source feed reader for macOS and iOS.
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) [:star: 7000] - It’s a free and open-source feed reader for macOS and iOS.
 
 
 ## Passbook
@@ -1528,9 +1528,9 @@ Most of these are paid services, some have free tiers.
 - [card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) [:star: 2284] - card.io provides fast, easy credit card scanning in mobile apps.
 - [SwiftLuhn](https://github.com/MaxKramer/SwiftLuhn) [:star: 134] - Debit/Credit card validation port of the Luhn Algorithm in Swift.
 - [ObjectiveLuhn](https://github.com/MaxKramer/ObjectiveLuhn) [:star: 127] - Luhn Credit Card Validation Algorithm.
-- [RMStore](https://github.com/robotmedia/RMStore) [:star: 2422] - A lightweight iOS library for In-App Purchases.
+- [RMStore](https://github.com/robotmedia/RMStore) [:star: 2423] - A lightweight iOS library for In-App Purchases.
 - [MFCard](https://github.com/MobileFirstInc/MFCard) [:star: 362] - Easily integrate Credit Card payments in iOS App / Customisable Card UI.
-- [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) [:star: 558] - Reading and Validating In App Store Receipt.
+- [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) [:star: 559] - Reading and Validating In App Store Receipt.
 - [iCard](https://github.com/eliakorkmaz/iCard) [:star: 337] - Bank Card Generator with Swift using SnapKit DSL.
 - [CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) [:star: 1451] - CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.
 - [merchantkit](https://github.com/benjaminmayo/merchantkit) [:star: 1100] - A modern In-App Purchases management framework for iOS.
@@ -1543,14 +1543,14 @@ Most of these are paid services, some have free tiers.
 - [Proposer](https://github.com/nixzhu/Proposer) [:star: 857] - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location).
 - [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) [:star: 619] - A unified way for iOS apps to request user permissions.
 - [ClusterPrePermissions](https://github.com/rsattar/ClusterPrePermissions) [:star: 1211] - Reusable pre-permissions utility that lets developers ask users for access in their own dialog, before making the system-based request.
-- [Permission](https://github.com/delba/Permission) [:star: 2910] - A unified API to ask for permissions on iOS.
+- [Permission](https://github.com/delba/Permission) [:star: 2909] - A unified API to ask for permissions on iOS.
 - [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) [:star: 638] - A simple and elegant 3D-Flyover location request screen written Swift.
 - [PAPermissions](https://github.com/pascalbros/PAPermissions) [:star: 691] - A unified API to ask for permissions on iOS.
 - [AREK](https://github.com/ennioma/arek) [:star: 956] - AREK is a clean and easy to use wrapper over any kind of iOS permission.
-- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) [:star: 5290] - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) [:star: 5291] - Ask permissions on Swift. Available List, Dialog & Native interface. Can check state permission.
 
 ## Reactive Programming
-- [RxSwift](https://github.com/ReactiveX/RxSwift) [:star: 23432] - Reactive Programming in Swift.
+- [RxSwift](https://github.com/ReactiveX/RxSwift) [:star: 23430] - Reactive Programming in Swift.
 - [RxOptional](https://github.com/thanegill/RxOptional) [:star: 8] - RxSwift extensions for Swift optionals and "Occupiable" types.
 - [ReactiveTask](https://github.com/Carthage/ReactiveTask) [:star: 132] - Flexible, stream-based abstraction for launching processes.
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) [:star: 19970] - Streams of values over time.
@@ -1563,7 +1563,7 @@ Most of these are paid services, some have free tiers.
 - [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) [:star: 1120] - Rx wrapper for Realm's collection types.
 - [RxMultipeer](https://github.com/RxSwiftCommunity/RxMultipeer) [:star: 68] - A testable RxSwift wrapper around MultipeerConnectivity.
 - [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) [:star: 1359] - iOS & macOS Bluetooth library for RxSwift.
-- [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) [:star: 1323] - RxSwift reactive wrapper for view gestures.
+- [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) [:star: 1322] - RxSwift reactive wrapper for view gestures.
 - [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx) [:star: 638] - Handy RxSwift extensions on NSObject, including rx_disposeBag.
 - [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreData) [:star: 162] - RxSwift extensions for Core Data.
 - [RxAutomaton](https://github.com/inamiy/RxAutomaton) [:star: 719] - RxSwift + State Machine, inspired by Redux and Elm.
@@ -1571,9 +1571,9 @@ Most of these are paid services, some have free tiers.
 - [Interstellar](https://github.com/JensRavens/Interstellar) [:star: 1080] - Simple and lightweight Functional Reactive Coding in Swift for the rest of us.
 - [ReduxSwift](https://github.com/lsunsi/ReduxSwift) [:star: 39] - Predictable state container for Swift apps too.
 - [Aftermath](https://github.com/hyperoslo/Aftermath) [:star: 71] - Stateless message-driven micro-framework in Swift.
-- [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) [:star: 1476] - Reactive Keyboard in iOS.
+- [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) [:star: 1477] - Reactive Keyboard in iOS.
 - [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) [:star: 5297] - Native App over HTTP. Create your own native iOS app with nothing but JSON.
-- [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) [:star: 2919] - Streams of values over time by ReactiveCocoa group.
+- [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) [:star: 2920] - Streams of values over time by ReactiveCocoa group.
 - [Listenable](https://github.com/msaps/Listenable) [:star: 9] - Swift object that provides an observable platform.
 - [Reactor](https://github.com/ReactorSwift/Reactor) [:star: 175] - Unidirectional Data Flow using idiomatic Swift—inspired by Elm and Redux.
 - [Snail](https://github.com/UrbanCompass/Snail) [:star: 179] - An observables framework for Swift.
@@ -1599,7 +1599,7 @@ Most of these are paid services, some have free tiers.
 
 ### React-Like
 - [Render](https://github.com/alexdrone/Render) [:star: 2160] - Swift and UIKit a la React.
-- [Katana](https://github.com/BendingSpoons/katana-swift) [:star: 2241] - Swift apps a la React and Redux.
+- [Katana](https://github.com/BendingSpoons/katana-swift) [:star: 2240] - Swift apps a la React and Redux.
 - [TemplateKit](https://github.com/mcudich/TemplateKit) [:star: 161] - React-inspired framework for building component-based user interfaces in Swift.
 - [CoreEvents](https://github.com/surfstudio/CoreEvents) [:star: 6] - Simple library with C#-like events.
 - [Tokamak](https://github.com/MaxDesiatov/Tokamak) [:star: 3] - React-like framework providing a declarative API for building native UI components with easy to use one-way data binding.
@@ -1610,7 +1610,7 @@ Most of these are paid services, some have free tiers.
 - [EVReflection](https://github.com/evermeer/EVReflection) [:star: 966] - Reflection based JSON encoding and decoding. Including support for NSDictionary, NSCoding, Printable, Hashable and Equatable.
 - [JSONNeverDie](https://github.com/johnlui/JSONNeverDie) [:star: 456] - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
 - [SwiftKVC](https://github.com/bradhilton/SwiftKVC) [:star: 135] - Key-Value Coding (KVC) for native Swift classes and structs.
-- [Runtime](https://github.com/wickwirew/Runtime) [:star: 992] - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
+- [Runtime](https://github.com/wickwirew/Runtime) [:star: 991] - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
 
 ## Regex
 - [Regex](https://github.com/sharplet/Regex) [:star: 612] - A Swift µframework providing an NSRegularExpression-backed Regex type.
@@ -1626,7 +1626,7 @@ Most of these are paid services, some have free tiers.
 
 - [Spotify](https://github.com/spotify/ios-sdk) [:star: 559] Spotify iOS SDK.
 - [SpotifyLogin](https://github.com/spotify/SpotifyLogin) [:star: 342] Spotify SDK Login in Swift.
-- [Facebook](https://github.com/facebook/facebook-ios-sdk) [:star: 7477] Facebook iOS SDK.
+- [Facebook](https://github.com/facebook/facebook-ios-sdk) [:star: 7475] Facebook iOS SDK.
 - [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS.
 - [Paypal iOS SDK](https://github.com/paypal/PayPal-iOS-SDK) [:star: 970] The PayPal Mobile SDKs enable native apps to easily accept PayPal and credit card payments.
 - [Pocket](https://github.com/Pocket/Pocket-ObjC-SDK) [:star: 230] SDK for saving stuff to Pocket.
@@ -1650,13 +1650,13 @@ Most of these are paid services, some have free tiers.
 - [playkit-ios](https://github.com/kaltura/playkit-ios) [:star: 80] - PlayKit: Kaltura Player SDK for iOS.
 - [algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) [:star: 201] - Algolia Search API Client for Swift.
 - [twitter-kit-ios](https://github.com/twitter-archive/twitter-kit-ios) [:star: 678] - Twitter Kit is a native SDK to include Twitter content inside mobile apps.
-- [rides-ios-sdk](https://github.com/uber/rides-ios-sdk) [:star: 360] - Uber Rides iOS SDK (beta).
+- [rides-ios-sdk](https://github.com/uber/rides-ios-sdk) [:star: 359] - Uber Rides iOS SDK (beta).
 - [Apphud](https://github.com/apphud/ApphudSDK) [:star: 158] - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 - [Adapty](https://github.com/adaptyteam/AdaptySDK-iOS) [:star: 343] - Integrate in-app subscriptions and a/b testing for them with 3 lines of code.
 
 ### Unofficial
 
-- [STTwitter](https://github.com/nst/STTwitter) [:star: 1006] A stable, mature and comprehensive Objective-C library for Twitter REST API 1.1.
+- [STTwitter](https://github.com/nst/STTwitter) [:star: 1007] A stable, mature and comprehensive Objective-C library for Twitter REST API 1.1.
 - [FHSTwitterEngine](https://github.com/natesymer/FHSTwitterEngine) [:star: 213] Twitter API for Cocoa developers.
 - [Giphy](https://github.com/heyalexchoi/Giphy-iOS) [:star: 52] Giphy API client for iOS in Objective-C.
 - [UberKit](https://github.com/sachinkesiraju/UberKit) [:star: 95] - A simple, easy-to-use Objective-C wrapper for the Uber API.
@@ -1721,10 +1721,10 @@ Most of these are paid services, some have free tiers.
 - ~~[SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - An Elegant crypto toolkit in Swift.~~
 - [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA) [:star: 1174] - RSA public/private key encryption in Swift.
 - [EnigmaKit](https://github.com/mikaoj/EnigmaKit) [:star: 115] - Enigma encryption in Swift.
-- [Themis](https://github.com/cossacklabs/themis) [:star: 1718] - High-level crypto library, providing basic asymmetric encryption, secure messaging with forward secrecy and secure data storage, supports iOS/macOS, Android and different server side platforms.
+- [Themis](https://github.com/cossacklabs/themis) [:star: 1719] - High-level crypto library, providing basic asymmetric encryption, secure messaging with forward secrecy and secure data storage, supports iOS/macOS, Android and different server side platforms.
 - [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) [:star: 619] - Secure your app by obfuscating all the hard-coded security-sensitive strings.
 - [swift-sodium](https://github.com/jedisct1/swift-sodium) [:star: 490] - Safe and easy to use crypto for iOS.
-- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) [:star: 9697] - Crypto related functions and helpers for Swift implemented in Swift programming language.
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) [:star: 9698] - Crypto related functions and helpers for Swift implemented in Swift programming language.
 - [SCrypto](https://github.com/sgl0v/SCrypto) [:star: 39] - Elegant Swift interface to access the CommonCrypto routines.
 - [SipHash](https://github.com/attaswift/SipHash) [:star: 264] - Simple and secure hashing in Swift with the SipHash algorithm.
 - [RNCryptor](https://github.com/RNCryptor/RNCryptor) [:star: 3338] - CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. -- For ObjC, see RNCryptor/RNCryptor-objc.
@@ -1738,12 +1738,12 @@ Most of these are paid services, some have free tiers.
 - [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) [:star: 3064] - UICKeyChainStore is a simple wrapper for Keychain on iOS.
 - [Valet](https://github.com/square/Valet) [:star: 3877] - Securely store data in the iOS or macOS Keychain without knowing a thing about how the Keychain works.
 - [Locksmith](https://github.com/matthewpalmer/Locksmith) [:star: 2914] - A powerful, protocol-oriented library for working with the keychain in Swift.
-- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) [:star: 7457] - Simple Swift wrapper for Keychain that works on iOS and macOS.
+- [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) [:star: 7456] - Simple Swift wrapper for Keychain that works on iOS and macOS.
 - [Keychains](https://github.com/hyperoslo/Keychains) [:star: 72] - Because you should care... about the security... of your shit.
 - [Lockbox](https://github.com/granoff/Lockbox) [:star: 852] - Objective-C utility class for storing data securely in the key chain.
 - [SAMKeychain](https://github.com/soffes/SAMKeychain) [:star: 5400] - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 - [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) [:star: 1564] - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults.
-- [SwiftyKeychainKit](https://github.com/andriyslyusar/SwiftyKeychainKit) [:star: 21] - Keychain wrapper with the benefits of static typing and convenient syntax, support for primitive types, Codable, NSCoding.
+- [SwiftyKeychainKit](https://github.com/andriyslyusar/SwiftyKeychainKit) [:star: 22] - Keychain wrapper with the benefits of static typing and convenient syntax, support for primitive types, Codable, NSCoding.
 
 ## Server
 
@@ -1751,10 +1751,10 @@ Most of these are paid services, some have free tiers.
 
 - [Perfect](https://github.com/PerfectlySoft/Perfect) [:star: 13859] - Server-side Swift. The Perfect library, application server, connectors and example apps.
 - [Swifter](https://github.com/httpswift/swifter) [:star: 3728] - Tiny http server engine written in Swift programming language.
-- [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) [:star: 5537] - A small, lightweight, embeddable HTTP server for macOS or iOS applications.
+- [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) [:star: 5535] - A small, lightweight, embeddable HTTP server for macOS or iOS applications.
 - [Curassow](https://github.com/kylef-archive/Curassow) [:star: 397] - Swift HTTP server using the pre-fork worker model.
-- [Zewo](https://github.com/Zewo/Zewo) [:star: 1855] - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
-- [Vapor](https://github.com/vapor/vapor) [:star: 23017] - Elegant web framework for Swift that works on iOS, macOS, and Ubuntu.
+- [Zewo](https://github.com/Zewo/Zewo) [:star: 1854] - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
+- [Vapor](https://github.com/vapor/vapor) [:star: 23020] - Elegant web framework for Swift that works on iOS, macOS, and Ubuntu.
 - [swiftra](https://github.com/takebayashi/swiftra) [:star: 262] - Sinatra-like DSL for developing web apps in Swift.
 - [blackfire](https://github.com/elliottminns/blackfire) [:star: 908] - A fast HTTP web server based on Node.js and Express written in Swift.
 - [swift-http](https://github.com/huytd/swift-http) [:star: 449] - HTTP Implementation for Swift on Linux and macOS.
@@ -1763,7 +1763,7 @@ Most of these are paid services, some have free tiers.
 - [Taylor](https://github.com/izqui/Taylor) [:star: 925] - A lightweight library for writing HTTP web servers with Swift.
 - [Frank](https://github.com/kylef-archive/Frank) [:star: 376] - Frank is a DSL for quickly writing web applications in Swift.
 - [Kitura](https://github.com/IBM-Swift/Kitura) [:star: 7597] - A Swift Web Framework and HTTP Server.
-- [Swifton](https://github.com/sauliusgrigaitis/Swifton) [:star: 1985] - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and macOS.
+- [Swifton](https://github.com/sauliusgrigaitis/Swifton) [:star: 1984] - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and macOS.
 - [Dynamo](https://github.com/johnno1962/Dynamo) [:star: 68] - High Performance (nearly)100% Swift Web server supporting dynamic content.
 - [Redis](https://github.com/vapor/redis) [:star: 460] - Pure-Swift Redis client implemented from the original protocol spec. macOS + Linux compatible.
 - [NetworkObjects](https://github.com/colemancda/NetworkObjects) [:star: 259] - Swift backend / server framework (Pure Swift, Supports Linux).
@@ -1778,16 +1778,16 @@ Most of these are paid services, some have free tiers.
 
 ## Text
 - [Twitter Text Obj](https://github.com/twitter/twitter-text) [:star: 2995] - An Objective-C implementation of Twitter's text processing library.
-- [Nimbus](https://github.com/jverkoey/nimbus) [:star: 6461] - Nimbus is a toolkit for experienced iOS software designers.
+- [Nimbus](https://github.com/jverkoey/nimbus) [:star: 6460] - Nimbus is a toolkit for experienced iOS software designers.
 - [NSStringEmojize](https://github.com/diy/nsstringemojize) [:star: 641] - A category on NSString to convert Emoji Cheat Sheet codes to their equivalent Unicode characters.
 - [MMMarkdown](https://github.com/mdiep/MMMarkdown) [:star: 1245] - An Objective-C static library for converting Markdown to HTML.
 - [DTCoreText](https://github.com/Cocoanetics/DTCoreText) [:star: 6281] - Methods to allow using HTML code with CoreText.
 - [DTRichTextEditor](https://github.com/Cocoanetics/DTRichTextEditor) [:star: 347] - A rich-text editor for iOS.
 - [NBEmojiSearchView](https://github.com/neerajbaid/NBEmojiSearchView) [:star: 84] - A searchable emoji dropdown view.
 - [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) [:star: 196] - Great Swift String Pluralize Extension.
-- [RichEditorView](https://github.com/cjwirth/RichEditorView) [:star: 1863] - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
+- [RichEditorView](https://github.com/cjwirth/RichEditorView) [:star: 1864] - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
 - [Money](https://github.com/danthorpe/Money) [:star: 930] - Swift value types for working with money & currency.
-- [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) [:star: 4845] - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+- [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) [:star: 4848] - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
 - [YYText](https://github.com/ibireme/YYText) [:star: 8810] - Powerful text framework for iOS to display and edit rich text.
 - [Format](https://github.com/marmelroy/Format) [:star: 1183] - A Swift Formatter Kit.
 - [Tribute](https://github.com/zats/Tribute) [:star: 63] - Programmatic creation of NSAttributedString doesn't have to be a pain.
@@ -1813,7 +1813,7 @@ Most of these are paid services, some have free tiers.
 - [BonMot](https://github.com/Rightpoint/BonMot) [:star: 3439] - Beautiful, easy attributed strings in Swift.
 - [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) [:star: 242] - String validation for iOS developed in Swift. Inspired by [validator.js](https://www.npmjs.com/package/validator).
 - [StringStylizer](https://github.com/kazuhiro4949/StringStylizer) [:star: 74] - Type strict builder class for NSAttributedString.
-- [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) [:star: 1577] - Swift extensions that make it a breeze to work with attributed strings.
+- [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) [:star: 1578] - Swift extensions that make it a breeze to work with attributed strings.
 - [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) [:star: 727] - A simple and customizable Markdown Parser for Swift.
 - [CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown) [:star: 1189] - Markdown parsing and rendering for iOS and macOS.
 - [Notepad](https://github.com/ruddfawcett/Notepad) [:star: 836] - A fully themeable markdown editor with live syntax highlighting.
@@ -1827,7 +1827,7 @@ Most of these are paid services, some have free tiers.
 - [Mustard](https://github.com/mathewsanders/Mustard) [:star: 693] - Mustard is a Swift library for tokenizing strings when splitting by whitespace doesn't cut it.
 - [Input Mask](https://github.com/RedMadRobot/input-mask-ios) [:star: 558] - Pattern-based user input formatter, parser and validator for iOS.
 - [Attributed](https://github.com/Nirma/Attributed) [:star: 756] - Modern Swift µframework for attributed strings.
-- [Atributika](https://github.com/psharanda/Atributika) [:star: 1224] - Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.
+- [Atributika](https://github.com/psharanda/Atributika) [:star: 1225] - Easily build NSAttributedString by detecting and styling HTML-like tags, hashtags, mentions, RegExp or NSDataDetector patterns.
 - [Guitar](https://github.com/ArtSabintsev/Guitar) [:star: 659] - A Cross-Platform String Library Written in Swift.
 - [RealTimeCurrencyFormatter](https://github.com/kaiomedau/realtime-currency-formatter-objc) [:star: 14] - An ObjC international currency formatting utility.
 - [Down](https://github.com/iwasrobbed/Down) [:star: 2094] - Blazing fast Markdown rendering in Swift, built upon cmark.
@@ -1835,22 +1835,22 @@ Most of these are paid services, some have free tiers.
 - [MarkdownView](https://github.com/keitaoouchi/MarkdownView) [:star: 1890] - Markdown View for iOS.
 - [Highlighter](https://github.com/younatics/Highlighter) [:star: 931] - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 - [Sprinter](https://github.com/nicklockwood/Sprinter) [:star: 167] - A library for formatting strings on iOS and macOS.
-- [Highlightr](https://github.com/raspu/Highlightr) [:star: 1510] - An iOS & macOS syntax highlighter, supports 176 languages and comes with 79 styles.
+- [Highlightr](https://github.com/raspu/Highlightr) [:star: 1511] - An iOS & macOS syntax highlighter, supports 176 languages and comes with 79 styles.
 - [fuse-swift](https://github.com/krisk/fuse-swift) [:star: 908] - A lightweight fuzzy-search library, with zero dependencies.
 - [EFMarkdown](https://github.com/EFPrefix/EFMarkdown) [:star: 376] - A lightweight Markdown library for iOS.
 - [Croc](https://github.com/jkalash/croc) [:star: 129] - A lightweight Swift library for Emoji parsing and querying.
 - [PostalCodeValidator](https://github.com/FormatterKit/PostalCodeValidator) [:star: 212] - A validator for postal codes with support for 200+ regions.
 - [CodeMirror Swift](https://github.com/ProxymanApp/CodeMirror-Swift) [:star: 92] - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
-- [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) [:star: 2904] - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
+- [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) [:star: 2905] - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 
 ### Font
-- [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) [:star: 1128] - Programmatically load custom fonts into your iOS app.
+- [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) [:star: 1127] - Programmatically load custom fonts into your iOS app.
 - [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) [:star: 144] - Google Material Design Icons for Swift and ObjC project.
-- [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome) [:star: 1754] - NSString+FontAwesome.
+- [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome) [:star: 1753] - NSString+FontAwesome.
 - [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) [:star: 1570] - Use FontAwesome in your Swift projects.
 - [SwiftFontName](https://github.com/morizotter/SwiftFontName) [:star: 115] - OS font complements library. Localized font supported.
 - [SwiftIconFont](https://github.com/0x73/SwiftIconFont) [:star: 1158] - Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon).
-- [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) [:star: 2819] - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
+- [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) [:star: 2820] - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 - [Iconic](https://github.com/home-assistant/Iconic) [:star: 1577] - Auto-generated icon font library for iOS, watchOS and tvOS.
 - [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) [:star: 366] - Google Material Design Icons Font for iOS.
 - [OcticonsKit](https://github.com/keitaoouchi/OcticonsKit) [:star: 54] - Use Octicons as UIImage / UIFont in your projects with Swifty manners.
@@ -1873,7 +1873,7 @@ Most of these are paid services, some have free tiers.
 - [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) [:star: 4981] - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 - [Dixie](https://github.com/Skyscanner/Dixie) [:star: 192] - Dixie is an open source Objective-C testing framework for altering object behaviours.
 - [gh-unit](https://github.com/gh-unit/gh-unit) [:star: 1873] - Test Framework for Objective-C.
-- [Nimble](https://github.com/Quick/Nimble) [:star: 4682] - A Matcher Framework for Swift and Objective-C
+- [Nimble](https://github.com/Quick/Nimble) [:star: 4683] - A Matcher Framework for Swift and Objective-C
 - [Sleipnir](https://github.com/railsware/Sleipnir) [:star: 849] - BDD-style framework for Swift.
 - [SwiftCheck](https://github.com/typelift/SwiftCheck) [:star: 1404] - QuickCheck for Swift.
 - [Spry](https://github.com/Quick/Spry) [:star: 326] - A Mac and iOS Playgrounds Unit Testing library based on Nimble.
@@ -1901,7 +1901,7 @@ Most of these are paid services, some have free tiers.
 - [Flawless App](https://flawlessapp.io/) - tool for visual quality check of mobile app in a real-time. It compares initial design with the actual implementation right inside iOS simulator.
 - [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) [:star: 855] - Lightweight touch visualization library in Swift. A single line of code and visualize your touches!
 - [UITestHelper](https://github.com/evermeer/UITestHelper) [:star: 56] - UITest helper library for creating readable and maintainable tests.
-- [ViewInspector](https://github.com/nalexn/ViewInspector) [:star: 1720] - Runtime inspection and unit testing of SwiftUI views
+- [ViewInspector](https://github.com/nalexn/ViewInspector) [:star: 1721] - Runtime inspection and unit testing of SwiftUI views
 - [AutoMate](https://github.com/PGSSoft/AutoMate) [:star: 278] - XCTest extensions for writing UI automation tests.
 
 ### Other Testing
@@ -1926,7 +1926,7 @@ Most of these are paid services, some have free tiers.
 - [PinpointKit](https://github.com/Lickability/PinpointKit) [:star: 1135] - Let your testers and users send feedback with annotated screenshots and logs using a simple gesture.
 - [iOS Snapshot Test Case](https://github.com/uber/ios-snapshot-test-case) [:star: 1711] — Snapshot test your UIViews and CALayers on iOS and tvOS.
 - [DataFixture](https://github.com/andreadelfante/DataFixture) [:star: 2] - Creation of data model easily, with no headache.
-- [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) [:star: 3239] - Delightful Swift snapshot testing.
+- [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) [:star: 3240] - Delightful Swift snapshot testing.
 - [Mockingbird](https://github.com/Farfetch/mockingbird) [:star: 189] - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ## UI
@@ -1941,7 +1941,7 @@ Most of these are paid services, some have free tiers.
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox#sample-app) [:star: 2616] - Tasteful Checkbox for iOS.
 - [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) [:star: 1740] - Apple TV Parallax effect in Swift.
 - [Splitflap](https://github.com/yannickl/Splitflap) [:star: 1064] - A simple split-flap display for your Swift applications.
-- [EZSwipeController](https://github.com/goktugyil/EZSwipeController) [:star: 843] - UIPageViewController like Snapchat/Tinder/iOS Main Pages.
+- [EZSwipeController](https://github.com/goktugyil/EZSwipeController) [:star: 842] - UIPageViewController like Snapchat/Tinder/iOS Main Pages.
 - [Curry](https://github.com/devinross/curry) [:star: 49] - Curry is a framework built to enhance and compliment Foundation and UIKit.
 - [Pages](https://github.com/hyperoslo/Pages) [:star: 499] - UIPageViewController made simple.
 - [BAFluidView](https://github.com/antiguab/BAFluidView) [:star: 1402] - UIView that simulates a 2D view of a fluid in motion.
@@ -1950,13 +1950,13 @@ Most of these are paid services, some have free tiers.
 - [Spots](https://github.com/hyperoslo/Spots) [:star: 18] - Spots is a view controller framework that makes your setup and future development blazingly fast.
 - [AZExpandableIconListView](https://github.com/Azuritul/AZExpandableIconListView) [:star: 290] - An expandable/collapsible view component written in Swift.
 - [FlourishUI](https://github.com/thinkclay/FlourishUI) [:star: 225] - A highly configurable and out-of-the-box-pretty UI library.
-- [Navigation Stack](https://github.com/Ramotion/navigation-stack) [:star: 2308] - Navigation Stack is a stack-modeled navigation controller.
+- [Navigation Stack](https://github.com/Ramotion/navigation-stack) [:star: 2309] - Navigation Stack is a stack-modeled navigation controller.
 - [UIView-draggable](https://github.com/andreamazz/UIView-draggable) [:star: 438] - UIView category that adds dragging capabilities.
 - [EPSignature](https://github.com/ipraba/EPSignature) [:star: 800] - Signature component for iOS in Swift.
 - [EVFaceTracker](https://github.com/evermeer/EVFaceTracker) [:star: 261] - Calculate the distance and angle of your device with regards to your face.
 - [LeeGo](https://github.com/wangshengjia/LeeGo) [:star: 966] - Declarative, configurable & highly reusable UI development as making Lego bricks.
 - [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts) [:star: 359] - An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable menu items.
-- [VisualEffectView](https://github.com/efremidze/VisualEffectView) [:star: 1004] - UIVisualEffectView subclass with tint color.
+- [VisualEffectView](https://github.com/efremidze/VisualEffectView) [:star: 1005] - UIVisualEffectView subclass with tint color.
 - [Cacao](https://github.com/PureSwift/Cacao) [:star: 1075] - Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux).
 - [JDFlipNumberView](https://github.com/calimarkus/JDFlipNumberView) [:star: 766] - Representing analog flip numbers like airport/trainstation displays.
 - [DCKit](https://github.com/agordeev/DCKit) [:star: 141] - Set of iOS controls, which have useful IBInspectable properties. Written on Swift.
@@ -1965,7 +1965,7 @@ Most of these are paid services, some have free tiers.
 - [SwiftTheme](https://github.com/wxxsw/SwiftTheme) [:star: 2429] - Powerful theme/skin manager for iOS.
 - [FDStackView](https://github.com/forkingdog/FDStackView) [:star: 2541] - Use UIStackView directly in iOS.
 - [RedBeard](https://www.redbeard.io/) - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
-- [Material](https://github.com/CosmicMind/Material) [:star: 11968] - Material is an animation and graphics framework that allows developers to easily create beautiful applications.
+- [Material](https://github.com/CosmicMind/Material) [:star: 11967] - Material is an animation and graphics framework that allows developers to easily create beautiful applications.
 - [DistancePicker](https://github.com/qmathe/DistancePicker) [:star: 118] - Custom control to select a distance with a pan gesture, written in Swift.
 - [OAStackView](https://github.com/nsomar/OAStackView) [:star: 2155] - OAStackView tries to port back the stackview to iOS 7+. OAStackView aims at replicating all the features in UIStackView.
 - [PageController](https://github.com/hirohisa/PageController) [:star: 412] - Infinite paging controller, scrolling through contents and title bar scrolls with a delay.
@@ -1983,9 +1983,9 @@ Most of these are paid services, some have free tiers.
 - [Material Components](https://github.com/material-components/material-components-ios) [:star: 4662] - Google developed UI components that help developers execute Material Design.
 - [FAQView](https://github.com/mukeshthawani/FAQView) [:star: 472] - An easy to use FAQ view for iOS written in Swift.
 - [LMArticleViewController](https://github.com/lucamozza/LMArticleViewController) [:star: 7] - UIViewController subclass to beautifully present news articles and blog posts.
-- [FSPagerView](https://github.com/WenchaoD/FSPagerView) [:star: 6819] - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
+- [FSPagerView](https://github.com/WenchaoD/FSPagerView) [:star: 6820] - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
 - [ElongationPreview](https://github.com/Ramotion/elongation-preview) [:star: 892] - ElongationPreview is an elegant push-pop style view controller with 3D-Touch support and gestures.
-- [Pageboy](https://github.com/uias/Pageboy) [:star: 1853] - A simple, highly informative page view controller.
+- [Pageboy](https://github.com/uias/Pageboy) [:star: 1854] - A simple, highly informative page view controller.
 - [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) [:star: 276] - A customizable color picker for iOS in Swift.
 - [KPActionSheet](https://github.com/khuong291/KPActionSheet) [:star: 7] -  A replacement of default action sheet, but has very simple usage.
 - [SegmentedProgressBar](https://github.com/D-32/SegmentedProgressBar) [:star: 462] - Snapchat / Instagram Stories style animated indicator.
@@ -2007,7 +2007,7 @@ Most of these are paid services, some have free tiers.
 - [Overlay](https://github.com/TintPoint/Overlay) [:star: 50] - Overlay is a flexible UI framework designed for Swift. It allows you to write CSS like Swift code.
 - [SwiftyUI](https://github.com/haoking/SwiftyUI) [:star: 339] - High performance and lightweight(one class each UI) UIView, UIImage, UIImageView, UIlabel, UIButton, Promise and more.
 - [NotchToolkit](https://github.com/AFathi/NotchToolkit) [:star: 56] - A framework for iOS that allow developers use the iPhone X notch in creative ways.
-- [PullUpController](https://github.com/MarioIannotta/PullUpController) [:star: 1242] - Pull up controller with multiple sticky points like in iOS Maps.
+- [PullUpController](https://github.com/MarioIannotta/PullUpController) [:star: 1241] - Pull up controller with multiple sticky points like in iOS Maps.
 - [DrawerKit](https://github.com/babylonhealth/DrawerKit) [:star: 779] - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.
 - [Shades](https://github.com/aaronjsutton/Shades) [:star: 14] - Easily add drop shadows, borders, and round corners to a UIView.
 - [ISPageControl](https://github.com/Interactive-Studio/ISPageControl) [:star: 292] - A page control similar to that used in Instagram.
@@ -2038,7 +2038,7 @@ Most of these are paid services, some have free tiers.
 - [MHRadialProgressView](https://github.com/mehfuzh/MHRadialProgressView) [:star: 76] - iOS radial animated progress view.
 - [Loader](https://github.com/Ekhoo/Loader) [:star: 105] - Amazing animated switch activity indicator written in swift.
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD) [:star: 15971] - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
-- [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) [:star: 12366] - A clean and lightweight progress HUD for your iOS app.
+- [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) [:star: 12365] - A clean and lightweight progress HUD for your iOS app.
 - [ProgressHUD](https://github.com/relatedcode/ProgressHUD) [:star: 2481] - ProgressHUD is a lightweight and easy-to-use HUD.
 - [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) [:star: 3950] - A suite containing many tools to display progress information on iOS.
 - [PKHUD](https://github.com/pkluz/PKHUD) [:star: 3753] - A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8 and above.
@@ -2051,7 +2051,7 @@ Most of these are paid services, some have free tiers.
 - [DACircularProgress](https://github.com/danielamitay/DACircularProgress) [:star: 2391] - DACircularProgress is a UIView subclass with circular UIProgressView properties.
 - [KYNavigationProgress](https://github.com/ykyouhei/KYNavigationProgress) [:star: 245] - Simple extension of UINavigationController to display progress on the UINavigationBar.
 - [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl) [:star: 619] - A custom animation for the UIRefreshControl.
-- [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) [:star: 3910] - A progress interface library for UIWebView. You can implement progress bar for your in-app browser using this module.
+- [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress) [:star: 3909] - A progress interface library for UIWebView. You can implement progress bar for your in-app browser using this module.
 - [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) [:star: 1479] - A beautiful ring/circular progress view similar to Activity app on Apple Watch, written in Swift.
 - [Hexacon](https://github.com/gautier-gdx/Hexacon) [:star: 340] - A new way to display content in your app like the Apple Watch SpringBoard, written in Swift.
 - [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView) [:star: 963] - A customizable SpriteKit particles animation on the border of a view.
@@ -2077,7 +2077,7 @@ Most of these are paid services, some have free tiers.
 - [StepProgressView](https://github.com/yonat/StepProgressView) [:star: 347] - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 - [BPBlockActivityIndicator](https://github.com/ppth0608/BPBlockActivityIndicator) [:star: 43] - A simple and awesome Loading Activity Indicator(with funny block animation) for your iOS app.
 - [JDBreaksLoading](https://github.com/jamesdouble/JDBreaksLoading) [:star: 153] - You can easily start up a little breaking game indicator by one line.
-- [SkeletonView](https://github.com/Juanpe/SkeletonView) [:star: 11982] - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
+- [SkeletonView](https://github.com/Juanpe/SkeletonView) [:star: 11983] - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 - [Windless](https://github.com/Interactive-Studio/Windless) [:star: 945] - Windless makes it easy to implement invisible layout loading view.
 - [Skeleton](https://github.com/gonzalonunez/Skeleton) [:star: 668] - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
 - [StatusBarOverlay](https://github.com/IdleHandsApps/StatusBarOverlay) [:star: 161] - Automatically show/hide a "No Internet Connection" bar when your app loses/gains connection. It supports apps which hide the status bar and "The Notch".
@@ -2086,14 +2086,14 @@ Most of these are paid services, some have free tiers.
 - [MKProgress](https://github.com/kamirana4/MKProgress) [:star: 147] - A lightweight ProgressHUD written in Swift. Looks similar to /MBProgressHUD/SVProgressHUD/KVNProgressHUD.
 - [RHPlaceholder](https://github.com/robertherdzik/RHPlaceholder) [:star: 238] - Simple library which give you possibility to add Facebook like loading state for your views.
 - [IHProgressHUD](https://github.com/Swiftify-Corp/IHProgressHUD) [:star: 232] - Simple HUD, thread safe, supports iOS, tvOS and App Extensions.
-- [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) [:star: 1112] - A number of preset loading indicators created with SwiftUI.
+- [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) [:star: 1113] - A number of preset loading indicators created with SwiftUI.
 - [ProgressIndicatorView](https://github.com/exyte/ProgressIndicatorView) [:star: 138] - A number of preset progress indicators created with SwiftUI.
 
 ### Animation
 - [Pop](https://github.com/facebook/pop) [:star: 19725] - An extensible iOS and macOS animation library, useful for physics-based interactions.
 - [AnimationEngine](https://github.com/intuit/AnimationEngine) [:star: 1059] - Easily build advanced custom animations on iOS.
 - [RZTransitions](https://github.com/Rightpoint/RZTransitions) [:star: 1877] - A library of custom iOS View Controller Animations and Interactions.
-- [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) [:star: 801] - A collection of animations for iOS. Simple, just add water animations.
+- [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) [:star: 800] - A collection of animations for iOS. Simple, just add water animations.
 - [Spring](https://github.com/MengTo/Spring) [:star: 14051] - A library to simplify iOS animations in Swift.
 - [Fluent](https://github.com/matthewcheok/Fluent) [:star: 300] - Swift animation made easy.
 - [Cheetah](https://github.com/suguru/Cheetah) [:star: 591] - Easy animation library on iOS.
@@ -2102,7 +2102,7 @@ Most of these are paid services, some have free tiers.
 - [EasyAnimation](https://github.com/icanzilb/EasyAnimation) [:star: 2963] - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together.
 - [Animo](https://github.com/eure/Animo) [:star: 280] - SpriteKit-like animation builders for CALayers.
 - [CurryFire](https://github.com/devinross/curry-fire) [:star: 131] - A framework for creating unique animations.
-- [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) [:star: 8668] - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
+- [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) [:star: 8669] - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 - [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) [:star: 1861] - Cool wave like transition between two or more UICollectionView.
 - [DaisyChain](https://github.com/alikaragoz/DaisyChain) [:star: 32] - Easy animation chaining.
 - [PulsingHalo](https://github.com/shu223/PulsingHalo) [:star: 1771] - iOS Component for creating a pulsing animation.
@@ -2127,7 +2127,7 @@ Most of these are paid services, some have free tiers.
 - [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) [:star: 586] - Advanced Natural Motion Animations, Simple Blocks Based Syntax.
 - [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning) [:star: 672] - A custom transition with image zooming animation.
 - [Ubergang](https://github.com/RobinFalko/Ubergang) [:star: 54] - A tweening engine for iOS written in Swift.
-- [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) [:star: 3223] - Easy to read and write chainable animations in Objective-C.
+- [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) [:star: 3222] - Easy to read and write chainable animations in Objective-C.
 - [Popsicle](https://github.com/DavdRoman/Popsicle) [:star: 1092] - Delightful, extensible Swift value interpolation framework.
 - [WXWaveView](https://github.com/WelkinXie/WXWaveView) [:star: 345] - Add a pretty water wave to your view.
 - [Twinkle](https://github.com/piemonte/Twinkle) [:star: 604] - Swift and easy way to make elements in your iOS and tvOS app twinkle.
@@ -2135,21 +2135,21 @@ Most of these are paid services, some have free tiers.
 - [RippleEffectView](https://github.com/alsedi/RippleEffectView) [:star: 316] - RippleEffectView - A Neat Rippling View Effect.
 - [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) [:star: 194] - Composable animations in Swift.
 - [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) [:star: 276] - Swift based library providing a collection of ViewController transitions featuring a number of neat “cutting” animations.
-- [Lottie](https://github.com/airbnb/lottie-ios) [:star: 24258] - An iOS library for a real time rendering of native vector animations from Adobe After Effects.
+- [Lottie](https://github.com/airbnb/lottie-ios) [:star: 24257] - An iOS library for a real time rendering of native vector animations from Adobe After Effects.
 - [anim](https://github.com/onurersel/anim) [:star: 560] - An animation library for iOS with custom easings and easy to follow API.
 - [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) [:star: 4565] - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView.
 - [Dance](https://github.com/saoudrizwan/Dance) [:star: 647] - A radical & elegant animation library built for iOS.
 - [AKVideoImageView](https://github.com/numen31337/AKVideoImageView) [:star: 125] - UIImageView subclass which allows you to display a looped video as a background.
-- [Spruce iOS Animation Library](https://github.com/willowtreeapps/spruce-ios) [:star: 3398] - Swift library for choreographing animations on the screen.
+- [Spruce iOS Animation Library](https://github.com/willowtreeapps/spruce-ios) [:star: 3399] - Swift library for choreographing animations on the screen.
 - [CircularRevealKit](https://github.com/T-Pro/CircularRevealKit) [:star: 25] - UI framework that implements the material design's reveal effect.
 - [TweenKit](https://github.com/SteveBarnegren/TweenKit) [:star: 1296] - Animation library for iOS in Swift.
-- [Water](https://github.com/KrisYu/Water) [:star: 382] - Simple calculation to render cheap water effects.
+- [Water](https://github.com/KrisYu/Water) [:star: 383] - Simple calculation to render cheap water effects.
 - [Pastel](https://github.com/cruisediary/Pastel) [:star: 3471] - Gradient animation effect like Instagram.
 - [YapAnimator](https://github.com/yapstudios/YapAnimator) [:star: 1934] - Your fast and friendly physics-based animation system.
 - [Bubble](https://github.com/goldmoment/Bubble) [:star: 222] - Fruit Animation.
-- [Gemini](https://github.com/shoheiyokoyama/Gemini) [:star: 3101] - Gemini is rich scroll based animation framework for iOS, written in Swift.
+- [Gemini](https://github.com/shoheiyokoyama/Gemini) [:star: 3102] - Gemini is rich scroll based animation framework for iOS, written in Swift.
 - [WaterDrops](https://github.com/LeFal/WaterDrops) [:star: 402] - Simple water drops animation for iOS in Swift.
-- [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) [:star: 7012] - ViewAnimator brings your UI to life with just one line.
+- [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) [:star: 7013] - ViewAnimator brings your UI to life with just one line.
 - [Ease](https://github.com/roberthein/Ease) [:star: 1254] - Animate everything with Ease.
 - [Kinieta](https://github.com/mmick66/kinieta) [:star: 46] - An Animation Engine with Custom Bezier Easing, an Intuitive API and perfect Color Intepolation.
 - [LSAnimator](https://github.com/Lision/LSAnimator) [:star: 1605] - Easy to Read and Write Multi-chain Animations Kit in Objective-C and Swift.
@@ -2185,7 +2185,7 @@ Most of these are paid services, some have free tiers.
 - [Kaeru](https://github.com/bannzai/Kaeru) [:star: 511] - Switch viewcontroller like iOS task manager.
 - [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition) [:star: 853] - Custom interactive view controller transition from one view to another view.
 - [AZTransitions](https://github.com/azimin/AZTransitions) [:star: 415] - API to make great custom transitions in one method.
-- [Hero](https://github.com/HeroTransitions/Hero) [:star: 21484] - Elegant transition library for iOS & tvOS.
+- [Hero](https://github.com/HeroTransitions/Hero) [:star: 21485] - Elegant transition library for iOS & tvOS.
 - [Motion](https://github.com/CosmicMind/Motion) [:star: 1753] - Seamless animations and transitions in Swift.
 - [PresenterKit](https://github.com/jessesquires/PresenterKit) [:star: 558] - Swifty view controller presentation for iOS.
 - [Transition](https://github.com/Touchwonders/Transition) [:star: 2617] - Easy interactive interruptible custom ViewController transitions.
@@ -2228,7 +2228,7 @@ Most of these are paid services, some have free tiers.
 - [LKAlertController](https://github.com/Lightningkite/LKAlertController) [:star: 97] - An easy to use UIAlertController builder for swift.
 - [DOAlertController](https://github.com/okmr-d/DOAlertController) [:star: 405] - Simple Alert View written in Swift, which can be used as a UIAlertController. (AlertController/AlertView/ActionSheet).
 - [CustomizableActionSheet](https://github.com/beryu/CustomizableActionSheet) [:star: 189] - Action sheet allows including your custom views and buttons.
-- [Toast-Swift](https://github.com/scalessec/Toast-Swift) [:star: 3402] - A Swift extension that adds toast notifications to the UIView object class.
+- [Toast-Swift](https://github.com/scalessec/Toast-Swift) [:star: 3403] - A Swift extension that adds toast notifications to the UIView object class.
 - [PMAlertController](https://github.com/pmusolino/PMAlertController) [:star: 2483] - PMAlertController is a great and customizable substitute to UIAlertController.
 - [PopupViewController](https://github.com/dimillian/PopupViewController) [:star: 21] - UIAlertController drop in replacement with much more customization.
 - [AlertViewLoveNotification](https://github.com/PhilippeBoisney/AlertViewLoveNotification) [:star: 37] - A simple and attractive AlertView to ask permission to your users for Push Notification.
@@ -2256,10 +2256,10 @@ Most of these are paid services, some have free tiers.
 - [Alertift](https://github.com/sgr-ksmt/Alertift) [:star: 288] - Swifty, modern UIAlertController wrapper.
 - [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) [:star: 147] - Swift AlertController with UIVisualEffectView.
 - [JDropDownAlert](https://github.com/trilliwon/JDropDownAlert) [:star: 72] - Multi dirction dropdown alert view.
-- [BulletinBoard](https://github.com/alexaubry/BulletinBoard) [:star: 5325] - Generate and Display Bottom Card Interfaces on iOS
+- [BulletinBoard](https://github.com/alexaubry/BulletinBoard) [:star: 5326] - Generate and Display Bottom Card Interfaces on iOS
 - [CFNotify](https://github.com/JT501/CFNotify) [:star: 494] - A customizable framework to create draggable views.
 - [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) [:star: 844] - Display Apple system-like self-hiding status alerts without interrupting user flow.
-- [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) [:star: 5546] - Advanced usage of native UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
+- [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) [:star: 5547] - Advanced usage of native UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 - [RMessage](https://github.com/donileo/RMessage) [:star: 409] - A crisp in-app notification/message banner built in ObjC.
 - [InAppNotify](https://github.com/lucabecchetti/InAppNotify) [:star: 438] - Swift library to manage in-app notification in swift language, like WhatsApp, Telegram, Frind, etc.
 - [FloatingActionSheetController](https://github.com/ra1028/FloatingActionSheetController) [:star: 140] - FloatingActionSheetController is a cool design ActionSheetController library written in Swift.
@@ -2286,7 +2286,7 @@ Most of these are paid services, some have free tiers.
 - [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) [:star: 3604] - Cute Animated Button written in Swift.
 - [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) [:star: 3097] - Flat button with 9 different states animated using Facebook POP.
 - [HTPressableButton](https://github.com/Famolus/HTPressableButton) [:star: 860] - Flat design pressable button.
-- [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) [:star: 3842] - Material Design Floating Action Button in liquid state
+- [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) [:star: 3843] - Material Design Floating Action Button in liquid state
 - [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) [:star: 129] - An UIButton-based view with fade in/out animation features.
 - [Floaty](https://github.com/kciter/Floaty) [:star: 1523] - :heart: Floating Action Button for iOS
 - [TVButton](https://github.com/marmelroy/TVButton) [:star: 1157] - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
@@ -2316,19 +2316,19 @@ Most of these are paid services, some have free tiers.
 - [FloatingButton](https://github.com/exyte/FloatingButton) [:star: 865] - Easily customizable floating button menu created with SwiftUI.
 
 ### Calendar
-- [CVCalendar](https://github.com/CVCalendar/CVCalendar) [:star: 3476] - A custom visual calendar for iOS 8+ written in Swift (2.0).
+- [CVCalendar](https://github.com/CVCalendar/CVCalendar) [:star: 3477] - A custom visual calendar for iOS 8+ written in Swift (2.0).
 - [RSDayFlow](https://github.com/ruslanskorb/RSDayFlow) [:star: 843] - iOS 7+ Calendar with Infinite Scrolling.
 - [NWCalendarView](https://github.com/nbwar/NWCalendarView) [:star: 60] - An availability calendar implementation for iOS
 - [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) [:star: 859] - A fully customizable calendar view acting as a date range picker
 - [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) [:star: 2757] - A customizable calendar view for iOS.
-- [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) [:star: 7371] - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS
+- [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) [:star: 7372] - The Unofficial Swift Apple Calendar Library. View. Control. for iOS & tvOS
 - [Daysquare](https://github.com/unixzii/Daysquare) [:star: 702] - An elegant calendar control for iOS.
 - [ASCalendar](https://github.com/scamps88/ASCalendar) [:star: 192] - A calendar control for iOS written in swift with mvvm pattern
 - [Calendar](https://github.com/jumartin/Calendar) [:star: 692] - A set of views and controllers for displaying and scheduling events on iOS
 - [Koyomi](https://github.com/shoheiyokoyama/Koyomi) [:star: 750] - Simple customizable calendar component in Swift
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) [:star: 1863] - A nicer iOS UI component for picking date and time
 - [RCalendarPicker](https://github.com/roycms/RCalendarPicker) [:star: 132] - RCalendarPicker A date picker control.
-- [CalendarKit](https://github.com/richardtop/CalendarKit) [:star: 2337] - Fully customizable calendar day view.
+- [CalendarKit](https://github.com/richardtop/CalendarKit) [:star: 2338] - Fully customizable calendar day view.
 - [GDPersianCalendar](https://github.com/saeid/GDCalendar) [:star: 26] - Customizable and easy to use Persian Calendar component.
 - [MBCalendarKit](https://github.com/MosheBerman/MBCalendarKit) [:star: 562] - A calendar framework for iOS built with customization, and localization in mind.
 - [PTEventView](https://github.com/amantaneja/PTEventView) [:star: 35] - An Event View based on Apple's Event Detail View within Calender.Supports ARC, Autolayout and editing via StoryBoard.
@@ -2348,11 +2348,11 @@ Most of these are paid services, some have free tiers.
 - [Koloda](https://github.com/Yalantis/Koloda) [:star: 5247] - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 - [KVCardSelectionVC](https://github.com/kunalverma25/KVCardSelectionVC) [:star: 23] - Awesome looking Dial like card selection ViewController.
 - [DMSwipeCards](https://github.com/D-32/DMSwipeCards) [:star: 253] - Tinder like card stack that supports lazy loading and generics
-- [TimelineCards](https://github.com/vladaverin24/TimelineCards) [:star: 429] - Presenting timelines as cards, single or bundled in scrollable feed!.
+- [TimelineCards](https://github.com/vladaverin24/TimelineCards) [:star: 428] - Presenting timelines as cards, single or bundled in scrollable feed!.
 - [Cards](https://github.com/PaoloCuscela/Cards) [:star: 4160] - Awesome iOS 11 AppStore's Card Views.
 - [MMCardView](https://github.com/MillmanY/MMCardView) [:star: 557] - Custom CollectionView like Wallet App
 - [CardsLayout](https://github.com/filletofish/CardsLayout) [:star: 815] - Nice card-designed custom collection view layout.
-- [CardParts](https://github.com/intuit/CardParts) [:star: 2471] - A reactive, card-based UI framework built on UIKit.
+- [CardParts](https://github.com/intuit/CardParts) [:star: 2472] - A reactive, card-based UI framework built on UIKit.
 - [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) [:star: 1219] - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
 - [Shuffle](https://github.com/mac-gallagher/Shuffle) [:star: 799] - A multi-directional card swiping library inspired by Tinder
 
@@ -2379,7 +2379,7 @@ Most of these are paid services, some have free tiers.
 ### Keyboard
 * [RSKKeyboardAnimationObserver](https://github.com/ruslanskorb/RSKKeyboardAnimationObserver) [:star: 45] - Showing / dismissing keyboard animation in simple UIViewController category.
 * [RFKeyboardToolbar](https://github.com/ruddfawcett/RFKeyboardToolbar) [:star: 420] - This is a flexible UIView and UIButton subclass to add customized buttons and toolbars to your UITextFields/UITextViews.
-* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) [:star: 16096] - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) [:star: 16095] - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 * [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) [:star: 804] - Objective-C library for tracking keyboard in iOS apps.
 * [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) [:star: 958] - A simple keyboard to use with numbers and, optionally, a decimal point.
 * [KeyboardObserver](https://github.com/morizotter/KeyboardObserver) [:star: 162] - For less complicated keyboard event handling.
@@ -2487,7 +2487,7 @@ Most of these are paid services, some have free tiers.
 
 ### Navigation Bar
 - [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) [:star: 1031] - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls
-- [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) [:star: 3361] - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
+- [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) [:star: 3360] - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 - [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) [:star: 4492] - UINavigationBar Category which allows you to change its appearance dynamically
 - [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) [:star: 992] - A UINavigationBar extension to show loading effects
 - [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) [:star: 154] - A UINavigationController subclass that support pop interactive UINavigationbar with hidden or show.
@@ -2497,7 +2497,7 @@ Most of these are paid services, some have free tiers.
 - [TONavigationBar](https://github.com/TimOliver/TONavigationBar) [:star: 250] - A simple subclass that adds the ability to set the navigation bar background to 'clear' and gradually transition it visibly back in, similar to the effect in the iOS Music app.
 
 ### PickerView
-- [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) [:star: 3396] - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
+- [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0/) [:star: 3395] - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
 - [PickerView](https://github.com/filipealva/PickerView) [:star: 507] - A customizable alternative to UIPickerView in Swift.
 - [DatePickerDialog](https://github.com/squimer/DatePickerDialog-iOS-Swift) [:star: 546] - Date picker dialog for iOS
 - [CZPicker](https://github.com/chenzeyu/CZPicker) [:star: 525] - A picker view shown as a popup for iOS.
@@ -2519,17 +2519,17 @@ Most of these are paid services, some have free tiers.
 - [PopupController](https://github.com/daisuke310vvv/PopupController) [:star: 337] - A customizable controller for showing temporary popup view.
 - [SubscriptionPrompt](https://github.com/binchik/SubscriptionPrompt) [:star: 235] - Subscription View Controller like the Tinder uses
 - [Presentr](https://github.com/IcaliaLabs/Presentr) [:star: 2976] - Wrapper for custom ViewController presentations in iOS 8+
-- [PopupDialog](https://github.com/Orderella/PopupDialog) [:star: 3853] - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style.
+- [PopupDialog](https://github.com/Orderella/PopupDialog) [:star: 3854] - A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertControllers alert style.
 - [SelectionDialog](https://github.com/kciter/SelectionDialog) [:star: 117] - Simple selection dialog.
-- [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) [:star: 771] - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
+- [AZDialogViewController](https://github.com/Minitour/AZDialogViewController) [:star: 772] - A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
 - [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) [:star: 605] - MIBlurPopup let you create amazing popups with a blurred background.
-- [LNPopupController](https://github.com/LeoNatan/LNPopupController) [:star: 2948] - a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+- [LNPopupController](https://github.com/LeoNatan/LNPopupController) [:star: 2947] - a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 - [PopupWindow](https://github.com/shin8484/PopupWindow) [:star: 416] - PopupWindow is a simple Popup using another UIWindow in Swift.
 - [SHPopup](https://github.com/iamshezad/SHPopup) [:star: 36] - SHPopup is a simple lightweight library for popup view.
 - [Popover](https://github.com/corin8823/Popover) [:star: 2029] - Popover is a balloon library like Facebook app. It is written in pure swift.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) [:star: 6260] - A highly customizable popups, alerts and banners presenter for iOS. It offers various presets and is written in pure Swift.
 - [FFPopup](https://github.com/JonyFang/FFPopup) [:star: 858] - ⛩FFPopup is a lightweight library for presenting custom views as a popup.
-- [PopupView](https://github.com/exyte/PopupView) [:star: 2416] - Toasts and popups library written with SwiftUI.
+- [PopupView](https://github.com/exyte/PopupView) [:star: 2418] - Toasts and popups library written with SwiftUI.
 
 ### ProgressView
 - [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) [:star: 107] - Display the progress on a meter with customized annotations for iOS developed in Swift
@@ -2547,7 +2547,7 @@ Most of these are paid services, some have free tiers.
 - [mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) [:star: 771] - One gesture, many actions. An evolution of Pull to Refresh.
 - [ADChromePullToRefresh](https://github.com/Antondomashnev/ADChromePullToRefresh) [:star: 266] - Chrome iOS app style pull to refresh with multiple actions.
 - [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) [:star: 2485] - A playable pull to refresh view using SpriteKit.
-- [MJRefresh](https://github.com/CoderMJLee/MJRefresh) [:star: 13707] An easy way to use pull-to-refresh.
+- [MJRefresh](https://github.com/CoderMJLee/MJRefresh) [:star: 13708] An easy way to use pull-to-refresh.
 - [HTPullToRefresh](https://github.com/hoang-tran/HTPullToRefresh) [:star: 41] - Easily add vertical and horizontal pull to refresh to any UIScrollView. Can also add multiple pull-to-refesh views at once.
 - [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) [:star: 536] - iOS Simple Cool PullToRefresh Library. It is written in pure swift.
 - [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) [:star: 162] - GIFRefreshControl is a pull to refresh that supports GIF images as track animations.
@@ -2562,7 +2562,7 @@ Most of these are paid services, some have free tiers.
 - [FloatRatingView](https://github.com/glenyi/FloatRatingView) [:star: 545] - Whole, half or floating point ratings control written in Swift
 - [TTGEmojiRate](https://github.com/zekunyan/TTGEmojiRate) [:star: 288] - An emoji-liked rating view for iOS, implemented in Swift.
 - [StarryStars](https://github.com/peterprokop/StarryStars) [:star: 175] - StarryStars is iOS GUI library for displaying and editing ratings
-- [Cosmos](https://github.com/evgenyneu/Cosmos) [:star: 2096] - A star rating control for iOS / Swift
+- [Cosmos](https://github.com/evgenyneu/Cosmos) [:star: 2097] - A star rating control for iOS / Swift
 - [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView) [:star: 1278] - Simple star rating view for iOS written in Objective-C
 - [MBRateApp](https://github.com/MatiBot/MBRateApp) [:star: 49] - A groovy app rate stars screen for iOS written in Swift
 - [RPInteraction](https://github.com/nbolatov/RPInteraction) [:star: 27] - Review page interaction - handy and pretty way to ask for review.
@@ -2574,7 +2574,7 @@ Most of these are paid services, some have free tiers.
 - [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) [:star: 662] - App store style horizontal scroll view.
 - [PullToDismiss](https://github.com/sgr-ksmt/PullToDismiss) [:star: 480] - You can dismiss modal viewcontroller by pulling scrollview or navigationbar in Swift.
 - [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) [:star: 3443] - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, Gantt chart or timetable as if you are using Excel.
--  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) [:star: 2898] - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9
+-  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) [:star: 2897] - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9
 -  [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) [:star: 268] - iOS custom view to display books on shelf
 -  [SlideController](https://github.com/touchlane/SlideController) [:star: 415] - SlideController is simple and flexible UI component completely written in Swift. It is a nice alternative for UIPageViewController built using power of generic types.
 - [CrownControl](https://github.com/huri000/CrownControl) [:star: 99] - Inspired by the Apple Watch Digital Crown, CrownControl is a tiny accessory view that enables scrolling through scrollable content without lifting your thumb.
@@ -2609,10 +2609,10 @@ Most of these are paid services, some have free tiers.
 - [MTCircularSlider](https://github.com/EranBoudjnah/MTCircularSlider) [:star: 132] - A feature-rich circular slider control.
 - [VerticalSlider](https://github.com/jonkykong/VerticalSlider) [:star: 78] - VerticalSlider is a vertical implementation of the UISlider slider control.
 - [CircularSlider](https://github.com/taglia3/CircularSlider) [:star: 254] - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.
-- [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) [:star: 2463] - A custom reusable circular slider control for iOS application.
-- [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider) [:star: 681] - A customizable range slider for iOS.
+- [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) [:star: 2464] - A custom reusable circular slider control for iOS application.
+- [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider) [:star: 682] - A customizable range slider for iOS.
 - [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) [:star: 362] - Control Center Slider.
-- [MultiSlider](https://github.com/yonat/MultiSlider) [:star: 380] - UISlider clone with multiple thumbs and values, optional snap intervals, optional value labels.
+- [MultiSlider](https://github.com/yonat/MultiSlider) [:star: 381] - UISlider clone with multiple thumbs and values, optional snap intervals, optional value labels.
 - [AGCircularPicker](https://github.com/agilie/AGCircularPicker) [:star: 620] - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter.
 - [Fluid Slider](https://github.com/Ramotion/fluid-slider) [:star: 1938] - A slider widget with a popup bubble displaying the precise value selected.
 
@@ -2647,7 +2647,7 @@ Most of these are paid services, some have free tiers.
 ### Tab Bar
 - [ESTabBarController](https://github.com/ezescaruli/ESTabBarController) [:star: 123] - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
 - [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) [:star: 935] - A gooey effect tabbar
-- [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) [:star: 11080] - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
+- [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) [:star: 11081] - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
 - [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) [:star: 3671] - Folding Tab Bar and Tab Bar Controller
 - [GGTabBar](https://github.com/Goles/GGTabBar) [:star: 157] - Another UITabBar & UITabBarController (iOS Tab Bar) replacement, but uses Auto Layout for arranging it's views hierarchy.
 - [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) [:star: 2035] - AdaptiveController is a 'Progressive Reduction' Swift module for adding custom states to Native or Custom iOS UI elements
@@ -2706,7 +2706,7 @@ Most of these are paid services, some have free tiers.
 - [TORoundedTableView](https://github.com/TimOliver/TORoundedTableView) [:star: 162] - A subclass of UITableView that styles it like Settings.app on iPad
 - [TableFlip](https://github.com/mergesort/TableFlip) [:star: 552] - A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻
 - [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) [:star: 455] - Protocol-oriented UITableView management, powered by generics and associated types.
-- [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) [:star: 6055] - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift.
+- [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) [:star: 6054] - Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift.
 - [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) [:star: 1682] - A UITableView extension that enables cell insertion from the bottom of a table view.
 - [SelectionList](https://github.com/yonat/SelectionList) [:star: 114] - Simple single-selection or multiple-selection checklist, based on UITableView.
 - [AZTableViewController](https://github.com/AfrozZaheer/AZTableViewController) [:star: 74] - Elegant and easy way to integrate pagination with dummy views.
@@ -2721,7 +2721,7 @@ Most of these are paid services, some have free tiers.
 - [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) [:star: 296] - An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 - [Preheat](https://github.com/kean/Preheat) [:star: 630] - Automates prefetching of content in UITableView and UICollectionView
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) [:star: 2326] - Custom transition between two collection view layouts
-- [Reusable](https://github.com/AliSoftware/Reusable) [:star: 2928] - A Swift mixin for UITableViewCells and UICollectionViewCells
+- [Reusable](https://github.com/AliSoftware/Reusable) [:star: 2929] - A Swift mixin for UITableViewCells and UICollectionViewCells
 - [Sapporo](https://github.com/nghialv/Sapporo) [:star: 245] - Cellmodel-driven collectionview manager
 - [StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) [:star: 325] - UICollectionView layout for presenting of the overlapping cells.
 - [TLIndexPathTools](https://github.com/SwiftKickMobile/TLIndexPathTools) [:star: 347] - TLIndexPathTools is a small set of classes that can greatly simplify your table and collection views.
@@ -2736,509 +2736,509 @@ Most of these are paid services, some have free tiers.
 - [PJFDataSource](https://github.com/square/PJFDataSource) [:star: 87] - PJFDataSource is a small library that provides a simple, clean architecture for your app to manage its data sources while providing a consistent user interface for common content states (i.e. loading, loaded, empty, and error).
 - [DataSources](https://github.com/muukii/DataSources) [:star: 566] - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode)
 - [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) [:star: 517] - Dragging & Dropping data across multiple UICollectionViews.
-- [SectionScrubber](https://github.com/3lvis/SectionScrubber) - A component to quickly scroll between collection view sections
-- [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - A modern Swift framework for building reusable data-driven collection components.
-- [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes.
-- [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) - CampcotCollectionView is a custom UICollectionView written in Swift that allows to expand and collapse sections. It provides a simple API to manage collection view appearance.
-- [Stefan](https://github.com/appunite/Stefan) - A guy that helps you manage collections and placeholders in easy way.
-- [Parade](https://github.com/HelloElephant/Parade) - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
-- [MSPeekCollectionViewDelegateImplementation](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) - A custom paging behavior that peeks the previous and next items in a collection view.
-- [SimpleSource](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views in Swift.
-- [Conv](https://github.com/bannzai/conv) - Conv smart represent UICollectionView data structure more than UIKit.
-- [Carbon](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
-- [ThunderCollection](https://github.com/3sidedcube/ThunderCollection) - A simple declarative approach to UICollectionViewController management using a protocol-based approach.
-- [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - A library for backporting UITableView/UICollectionViewDiffableDataSource.
-- [StableCollectionViewLayout](https://github.com/aimalygin/StableCollectionViewLayout) - This layout adjusts a content offset if the collection view is updated. You can insert, delete or reload items and StableCollectionViewLayout will take care of the content offset.
-- [IQListKit](https://github.com/hackiftekhar/IQListKit) - Model driven UITableView/UICollectionView.
+- [SectionScrubber](https://github.com/3lvis/SectionScrubber) [:star: 189] - A component to quickly scroll between collection view sections
+- [CollectionKit](https://github.com/SoySauceLab/CollectionKit) [:star: 4339] - A modern Swift framework for building reusable data-driven collection components.
+- [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) [:star: 95] - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover within minutes.
+- [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) [:star: 178] - CampcotCollectionView is a custom UICollectionView written in Swift that allows to expand and collapse sections. It provides a simple API to manage collection view appearance.
+- [Stefan](https://github.com/appunite/Stefan) [:star: 47] - A guy that helps you manage collections and placeholders in easy way.
+- [Parade](https://github.com/HelloElephant/Parade) [:star: 769] - Parallax Scroll-Jacking Effects Engine for iOS / tvOS.
+- [MSPeekCollectionViewDelegateImplementation](https://github.com/MaherKSantina/MSPeekCollectionViewDelegateImplementation) [:star: 354] - A custom paging behavior that peeks the previous and next items in a collection view.
+- [SimpleSource](https://github.com/Squarespace/simple-source) [:star: 98] - Easy and type-safe iOS table and collection views in Swift.
+- [Conv](https://github.com/bannzai/conv) [:star: 157] - Conv smart represent UICollectionView data structure more than UIKit.
+- [Carbon](https://github.com/ra1028/Carbon) [:star: 1275] - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
+- [ThunderCollection](https://github.com/3sidedcube/ThunderCollection) [:star: 4] - A simple declarative approach to UICollectionViewController management using a protocol-based approach.
+- [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) [:star: 800] - A library for backporting UITableView/UICollectionViewDiffableDataSource.
+- [StableCollectionViewLayout](https://github.com/aimalygin/StableCollectionViewLayout) [:star: 61] - This layout adjusts a content offset if the collection view is updated. You can insert, delete or reload items and StableCollectionViewLayout will take care of the content offset.
+- [IQListKit](https://github.com/hackiftekhar/IQListKit) [:star: 54] - Model driven UITableView/UICollectionView.
 - 
 #### Expandable Cell
 
-- [folding-cell](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material
-- [AEAccordion](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells).
-- [ThreeLevelAccordian](https://github.com/amratab/ThreeLevelAccordian) - This is a customisable three level accordian with options for adding images and accessories images.
-- [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.
-- [Savory](https://github.com/Nandiin/Savory) - A swift accordion view implementation.
-- [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
-- [FTFoldingPaper](https://github.com/monofire/FTFoldingPaper) - Emulates paper folding effect. Can be integrated with UITableView or used with other UI components.
-- [CollapsibleTableSectionViewController](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A swift library to support collapsible sections in a table view.
-- [ExpandableCell](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS.
-- [expanding-collection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller
+- [folding-cell](https://github.com/Ramotion/folding-cell) [:star: 10193] - FoldingCell is an expanding content cell inspired by folding paper material
+- [AEAccordion](https://github.com/tadija/AEAccordion) [:star: 211] - UITableViewController with accordion effect (expand / collapse cells).
+- [ThreeLevelAccordian](https://github.com/amratab/ThreeLevelAccordian) [:star: 44] - This is a customisable three level accordian with options for adding images and accessories images.
+- [YNExpandableCell](https://github.com/younatics/YNExpandableCell) [:star: 455] - Awesome expandable, collapsible tableview cell for iOS.
+- [Savory](https://github.com/Nandiin/Savory) [:star: 4] - A swift accordion view implementation.
+- [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) [:star: 368] - Make your table view expandable just by implementing one method.
+- [FTFoldingPaper](https://github.com/monofire/FTFoldingPaper) [:star: 31] - Emulates paper folding effect. Can be integrated with UITableView or used with other UI components.
+- [CollapsibleTableSectionViewController](https://github.com/jeantimex/CollapsibleTableSectionViewController) [:star: 350] - A swift library to support collapsible sections in a table view.
+- [ExpandableCell](https://github.com/younatics/ExpandableCell) [:star: 760] - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS.
+- [expanding-collection](https://github.com/Ramotion/expanding-collection) [:star: 5533] - ExpandingCollection is a card peek/pop controller
 
 #### Header
 
-- [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
-- [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) - UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header.
-- [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) - Configurable yet easy to use stretchy header view for UITableView and UICollectionView.
+- [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) [:star: 1337] - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
+- [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) [:star: 5053] - UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header.
+- [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) [:star: 1743] - Configurable yet easy to use stretchy header view for UITableView and UICollectionView.
 
 #### Placeholder
 
-- [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
-- [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project
-- [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views
-- [WLEmptyState](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+- [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) [:star: 12132] - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
+- [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) [:star: 2192] - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project
+- [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) [:star: 631] - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views
+- [WLEmptyState](https://github.com/wizeline/WLEmptyState) [:star: 317] - A component that lets you customize the view when the dataset of UITableView is empty.
 
 #### Collection View Layout
 
-- [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) - The waterfall (i.e., Pinterest-like) layout for UICollectionView.
-- [FMMosaicLayout](https://github.com/fmitech/FMMosaicLayout) - A drop-in mosaic collection view layout with a focus on simple customizations.
-- [mosaic-layout](https://github.com/vinnyoodles/mosaic-layout) - A mosaic collection view layout inspired by Lightbox's Algorithm, written in Swift
-- [TLLayoutTransitioning](https://github.com/SwiftKickMobile/TLLayoutTransitioning) - Enhanced transitioning between UICollectionView layouts in iOS.
-- [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that _'pages'_ and centers it's cells 🎡 written in Swift.
-- [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) - UICollectionViewLayout with slanted content
-- [SquareMosaicLayout](https://github.com/iwheelbuy/SquareMosaicLayout) - An extandable mosaic UICollectionViewLayout with a focus on extremely flexible customizations
-- [BouncyLayout](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce.
-- [AZSafariCollectionViewLayout](https://github.com/AfrozZaheer/AZSafariCollectionViewLayout) - AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration.
+- [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) [:star: 4441] - The waterfall (i.e., Pinterest-like) layout for UICollectionView.
+- [FMMosaicLayout](https://github.com/fmitech/FMMosaicLayout) [:star: 592] - A drop-in mosaic collection view layout with a focus on simple customizations.
+- [mosaic-layout](https://github.com/vinnyoodles/mosaic-layout) [:star: 251] - A mosaic collection view layout inspired by Lightbox's Algorithm, written in Swift
+- [TLLayoutTransitioning](https://github.com/SwiftKickMobile/TLLayoutTransitioning) [:star: 359] - Enhanced transitioning between UICollectionView layouts in iOS.
+- [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) [:star: 1270] - A lightweight UICollectionViewLayout that _'pages'_ and centers it's cells 🎡 written in Swift.
+- [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) [:star: 2227] - UICollectionViewLayout with slanted content
+- [SquareMosaicLayout](https://github.com/iwheelbuy/SquareMosaicLayout) [:star: 257] - An extandable mosaic UICollectionViewLayout with a focus on extremely flexible customizations
+- [BouncyLayout](https://github.com/roberthein/BouncyLayout) [:star: 4204] - BouncyLayout is a collection view layout that makes your cells bounce.
+- [AZSafariCollectionViewLayout](https://github.com/AfrozZaheer/AZSafariCollectionViewLayout) [:star: 211] - AZSafariCollectionViewLayout is replica of safari browser history page layout. very easy to use, IBInspectable are given for easy integration.
 -ollectionView, make Instagram Discover within minutes.
-- [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
-- [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
-- [Swinflate](https://github.com/VladIacobIonut/Swinflate) -  A bunch of layouts providing light and seamless experiences in your CollectionView.
+- [Blueprints](https://github.com/zenangst/Blueprints) [:star: 988] - A framework that is meant to make your life easier when working with collection view flow layouts.
+- [UICollectionViewSplitLayout](https://github.com/yahoojapan/UICollectionViewSplitLayout) [:star: 241] - UICollectionViewSplitLayout makes collection view more responsive.
+- [Swinflate](https://github.com/VladIacobIonut/Swinflate) [:star: 228] -  A bunch of layouts providing light and seamless experiences in your CollectionView.
 
 
 ### Tag
-- [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
-- [AMTagListView](https://github.com/andreamazz/AMTagListView) - UIScrollView subclass that allows to add a list of highly customizable tags.
-- [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
-- [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - Show simple text tags or custom tag views in a vertical scrollable view.
-- [TagListView](https://github.com/ElaWorkshop/TagListView) - Simple and highly customizable iOS tag list view, in Swift.
-- [RKTagsView](https://github.com/kuler90/RKTagsView) - Highly customizable iOS tags view (like NSTokenField). Supports editing, multiple selection, Auto Layout and much more.
-- [WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
-- [AKMaskField](https://github.com/artemkrachulov/AKMaskField) - AKMaskField is UITextField subclass which allows enter data in the fixed quantity and in the certain format.
-- [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest written in Swift 3.
-- [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content.
+- [PARTagPicker](https://github.com/paulrolfe/PARTagPicker) [:star: 371] - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
+- [AMTagListView](https://github.com/andreamazz/AMTagListView) [:star: 765] - UIScrollView subclass that allows to add a list of highly customizable tags.
+- [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) [:star: 355] - UICollectionView layout for Tags with Left, Center & Right alignments.
+- [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) [:star: 1808] - Show simple text tags or custom tag views in a vertical scrollable view.
+- [TagListView](https://github.com/ElaWorkshop/TagListView) [:star: 2525] - Simple and highly customizable iOS tag list view, in Swift.
+- [RKTagsView](https://github.com/kuler90/RKTagsView) [:star: 449] - Highly customizable iOS tags view (like NSTokenField). Supports editing, multiple selection, Auto Layout and much more.
+- [WSTagsField](https://github.com/whitesmith/WSTagsField) [:star: 1246] - An iOS text field that represents different Tags.
+- [AKMaskField](https://github.com/artemkrachulov/AKMaskField) [:star: 348] - AKMaskField is UITextField subclass which allows enter data in the fixed quantity and in the certain format.
+- [YNSearch](https://github.com/younatics/YNSearch) [:star: 1187] - Awesome fully customizable search view like Pinterest written in Swift 3.
+- [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) [:star: 1759] - UICollectionViewLayout with focused content.
 
 ### TextField & TextView
-- [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) - UITextField subclass with floating labels.
-- [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews.
-- [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView.
-- [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) - UITextField category that adds shake animation. [Also with Swift version](https://github.com/King-Wizard/UITextField-Shake-Swift)
-- [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder.
-- [MVAutocompletePlaceSearchTextField](https://github.com/TheMrugraj/MVAutocompletePlaceSearchTextField) - A drop-in Autocompletion control for Place Search like Google Places, Uber, etc.
-- [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields.
-- [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
-- [RSKPlaceholderTextView](https://github.com/ruslanskorb/RSKPlaceholderTextView) - A light-weight UITextView subclass that adds support for placeholder.
-- [StatefulViewController](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
-- [MBAutoGrowingTextView](https://github.com/MatejBalantic/MBAutoGrowingTextView) - An auto-layout base UITextView subclass which automatically grows with user input and can be constrained by maximal and minimal height - all without a single line of code.
-- [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Custom UITextFields effects inspired by Codrops, built using Swift.
-- [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel is a controller that allows you to choose options from a list.
-- [MLPAutoCompleteTextField](https://github.com/EddyBorja/MLPAutoCompleteTextField) - a subclass of UITextField that behaves like a typical UITextField with one notable exception: it manages a drop down table of autocomplete suggestions that update as the user types.
-- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.
-- [VMaskTextField](https://github.com/viniciusmo/VMaskTextField) - VMaskTextField is a library which create an input mask for iOS.
-- [TJTextField](https://github.com/tejas-ardeshna/TJTextField) - UITextField with underline and left image.
-- [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
-- [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders) - UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
-- [CurrencyTextField](https://github.com/richa008/CurrencyTextField) - UITextField that automatically formats text to display in the currency format.
-- [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields.
-- [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield.
-- [PLCurrencyTextField](https://github.com/nonameplum/PLCurrencyTextField) - UITextField that support currency in the right way.
-- [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforce good password policies.
-- [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS.
-- [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder written in Swift.
-- [NxEnabled](https://github.com/Otbivnoe/NxEnabled) - Library which allows you binding `enabled` property of button with textable elements (TextView, TextField).
-- [AwesomeTextField](https://github.com/aleksandrshoshiashvili/AwesomeTextFieldSwift) - Awesome TextField is a nice and simple library for iOS. It's highly customisable and easy-to-use tool. Works perfectly for any registration or login forms in your app.
-- [ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar) - The famous iOS search bar with auto completion feature implemented.
-- [SelectableTextView](https://github.com/jhurray/SelectableTextView) - A text view that supports selection and expansion.
-- [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView) - A customisable view written in Swift 4.2 for any pin, code or password entry. Supports one time codes in iOS 12.
-- [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - An UITextView in Swift3 and Swift2.3. Support auto growing, placeholder and length limit.
-- [DTTextField](https://github.com/iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label in Swift3.0.
-- [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField character counter with lovable UX.
-- [RSFloatInputView](https://github.com/roytornado/RSFloatInputView) - A Float Input View with smooth animation and supporting icon and seperator written with Swift.
-- [TaniwhaTextField](https://github.com/iceman201/TaniwhaTextField) - TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it.
-- [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search applications on iOS.
-- [SearchTextField](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions list.
-- [PYSearch](https://github.com/ko1o/PYSearch) - An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad).
-- [styled-text](https://github.com/blueapron/styled-text) - Declarative text styles and streamlined Dynamic Type support for iOS.
-- [TweeTextField](https://github.com/oleghnidets/TweeTextField) - Lightweight set of text fields with nice animation and functionality.
-- [MeasurementTextField](https://github.com/SiarheiFedartsou/MeasurementTextField) - UITextField-based control for (NS)Measurement values input.
-- [VENTokenField](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
-- [ALTextInputBar](https://github.com/AlexLittlejohn/ALTextInputBar) - An auto growing text input bar for messaging apps.
-- [Tagging](https://github.com/k-lpmg/Tagging) - TextView that provides easy to use tagging feature for Mention or Hashtag.
-- [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
-- [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) - UITextField created according to the Material.IO guidelines of 2019.
-- [CHIOTPField](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
-- [Streamoji](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
+- [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) [:star: 7180] - UITextField subclass with floating labels.
+- [ARAutocompleteTextView](https://github.com/alexruperez/ARAutocompleteTextView) [:star: 262] - subclass of UITextView that automatically displays text suggestions in real-time. Perfect for email Textviews.
+- [IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField) [:star: 302] - TextField with DropDown support using UIPickerView.
+- [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) [:star: 745] - UITextField category that adds shake animation. [Also with Swift version](https://github.com/King-Wizard/UITextField-Shake-Swift)
+- [HTYTextField](https://github.com/hanton/HTYTextField) [:star: 313] - A UITextField with bouncy placeholder.
+- [MVAutocompletePlaceSearchTextField](https://github.com/TheMrugraj/MVAutocompletePlaceSearchTextField) [:star: 67] - A drop-in Autocompletion control for Place Search like Google Places, Uber, etc.
+- [AutocompleteField](https://github.com/filipstefansson/AutocompleteField) [:star: 663] - Add word completion to your UITextFields.
+- [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) [:star: 994] - A light-weight UITextView subclass that automatically grows and shrinks.
+- [RSKPlaceholderTextView](https://github.com/ruslanskorb/RSKPlaceholderTextView) [:star: 223] - A light-weight UITextView subclass that adds support for placeholder.
+- [StatefulViewController](https://github.com/aschuch/StatefulViewController) [:star: 2140] - Placeholder views based on content, loading, error or empty states.
+- [MBAutoGrowingTextView](https://github.com/MatejBalantic/MBAutoGrowingTextView) [:star: 125] - An auto-layout base UITextView subclass which automatically grows with user input and can be constrained by maximal and minimal height - all without a single line of code.
+- [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) [:star: 5850] - Custom UITextFields effects inspired by Codrops, built using Swift.
+- [Reel Search](https://github.com/Ramotion/reel-search) [:star: 2542] - RAMReel is a controller that allows you to choose options from a list.
+- [MLPAutoCompleteTextField](https://github.com/EddyBorja/MLPAutoCompleteTextField) [:star: 1211] - a subclass of UITextField that behaves like a typical UITextField with one notable exception: it manages a drop down table of autocomplete suggestions that update as the user types.
+- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) [:star: 4018] - A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.
+- [VMaskTextField](https://github.com/viniciusmo/VMaskTextField) [:star: 382] - VMaskTextField is a library which create an input mask for iOS.
+- [TJTextField](https://github.com/tejas-ardeshna/TJTextField) [:star: 44] - UITextField with underline and left image.
+- [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) [:star: 1746] - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
+- [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders) [:star: 1135] - UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
+- [CurrencyTextField](https://github.com/richa008/CurrencyTextField) [:star: 49] - UITextField that automatically formats text to display in the currency format.
+- [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) [:star: 446] - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields.
+- [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) [:star: 63] - Auto complete with suggestion textfield.
+- [PLCurrencyTextField](https://github.com/nonameplum/PLCurrencyTextField) [:star: 96] - UITextField that support currency in the right way.
+- [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) [:star: 304] - A custom TextField with a switchable icon which shows or hides the password and enforce good password policies.
+- [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) [:star: 761] - Animated UITextField and UITextView replacement for iOS.
+- [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) [:star: 798] - A UITextView subclass that adds support for multiline placeholder written in Swift.
+- [NxEnabled](https://github.com/Otbivnoe/NxEnabled) [:star: 33] - Library which allows you binding `enabled` property of button with textable elements (TextView, TextField).
+- [AwesomeTextField](https://github.com/aleksandrshoshiashvili/AwesomeTextFieldSwift) [:star: 228] - Awesome TextField is a nice and simple library for iOS. It's highly customisable and easy-to-use tool. Works perfectly for any registration or login forms in your app.
+- [ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar) [:star: 183] - The famous iOS search bar with auto completion feature implemented.
+- [SelectableTextView](https://github.com/jhurray/SelectableTextView) [:star: 631] - A text view that supports selection and expansion.
+- [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView) [:star: 189] - A customisable view written in Swift 4.2 for any pin, code or password entry. Supports one time codes in iOS 12.
+- [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) [:star: 981] - An UITextView in Swift3 and Swift2.3. Support auto growing, placeholder and length limit.
+- [DTTextField](https://github.com/iDhaval/DTTextField) [:star: 333] - DTTextField is a custom textfield with floating placeholder and error label in Swift3.0.
+- [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) [:star: 434] - UITextField character counter with lovable UX.
+- [RSFloatInputView](https://github.com/roytornado/RSFloatInputView) [:star: 102] - A Float Input View with smooth animation and supporting icon and seperator written with Swift.
+- [TaniwhaTextField](https://github.com/iceman201/TaniwhaTextField) [:star: 26] - TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it.
+- [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) [:star: 579] - A library of widgets and helpers to build instant-search applications on iOS.
+- [SearchTextField](https://github.com/apasccon/SearchTextField) [:star: 1115] - UITextField subclass with autocompletion suggestions list.
+- [PYSearch](https://github.com/ko1o/PYSearch) [:star: 3836] - An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad).
+- [styled-text](https://github.com/blueapron/styled-text) [:star: 235] - Declarative text styles and streamlined Dynamic Type support for iOS.
+- [TweeTextField](https://github.com/oleghnidets/TweeTextField) [:star: 485] - Lightweight set of text fields with nice animation and functionality.
+- [MeasurementTextField](https://github.com/SiarheiFedartsou/MeasurementTextField) [:star: 15] - UITextField-based control for (NS)Measurement values input.
+- [VENTokenField](https://github.com/venmo/VENTokenField) [:star: 796] - Easy-to-use token field that is used in the Venmo app.
+- [ALTextInputBar](https://github.com/AlexLittlejohn/ALTextInputBar) [:star: 264] - An auto growing text input bar for messaging apps.
+- [Tagging](https://github.com/k-lpmg/Tagging) [:star: 116] - TextView that provides easy to use tagging feature for Mention or Hashtag.
+- [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) [:star: 1032] - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+- [CocoaTextField](https://github.com/edgar-zigis/CocoaTextField) [:star: 267] - UITextField created according to the Material.IO guidelines of 2019.
+- [CHIOTPField](https://github.com/ChiliLabs/CHIOTPField) [:star: 255] - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+- [Streamoji](https://github.com/getstream/Streamoji) [:star: 248] - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
 ### UIPageControl
-- [PageControl](https://github.com/kasper-lahti/PageControl) - A nice, animated UIPageControl alternative.
-- [PageControls](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here.
-- [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl.
-- [Page-Control](https://github.com/sevruk-dev/page-control) - Beautiful, animated and highly customizable UIPageControl alternative.
-- [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift.
+- [PageControl](https://github.com/kasper-lahti/PageControl) [:star: 114] - A nice, animated UIPageControl alternative.
+- [PageControls](https://github.com/popwarsweet/PageControls) [:star: 1078] - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here.
+- [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) [:star: 3199] - A set of cool animated page controls to replace boring UIPageControl.
+- [Page-Control](https://github.com/sevruk-dev/page-control) [:star: 31] - Beautiful, animated and highly customizable UIPageControl alternative.
+- [TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) [:star: 1409] - Rubber Indicator in Swift.
 
 ### Web View
-- [Otafuku](https://github.com/tasanobu/Otafuku) - Otafuku provides utility classes to use WKWebView in Swift.
-- [SwiftWebVC](https://github.com/meismyles/SwiftWebVC) - A drop-in inline browser for your Swift iOS app.
-- [SVWebViewController](https://github.com/TransitApp/SVWebViewController) - A drop-in inline browser for your iOS app.
-- [PTPopupWebView](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item.
+- [Otafuku](https://github.com/tasanobu/Otafuku) [:star: 52] - Otafuku provides utility classes to use WKWebView in Swift.
+- [SwiftWebVC](https://github.com/meismyles/SwiftWebVC) [:star: 320] - A drop-in inline browser for your Swift iOS app.
+- [SVWebViewController](https://github.com/TransitApp/SVWebViewController) [:star: 2586] - A drop-in inline browser for your iOS app.
+- [PTPopupWebView](https://github.com/pjocprac/PTPopupWebView) [:star: 117] - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item.
 
 ## Utility
- * [Underscore.m](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
- * [XExtensionItem](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
- * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
- * [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
- * [OpinionatedC](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
- * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.
- * [RandomKit](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
- * [YOLOKit](https://github.com/mxcl/YOLOKit) - Getting square objects down round holes.
- * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
- * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
- * [SwiftParsec](https://github.com/davedufresne/SwiftParsec) - A parser combinator library written in the Swift programming language.
- * [OrderedSet](https://github.com/Weebly/OrderedSet) - A Swift collection of unique, ordered objects.
- * [Datez](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
- * [BFKit](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
- * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster.
- * [Scale](https://github.com/onmyway133/scale) - Unit converter in Swift (available via CocoaPods).
- * [Standard Template Protocols](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs.
- * [TimeLord](https://github.com/JonFir/TimeLord) - Easy DateTime (NSDate) management in Swift.
- * [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
- * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
- * [Then](https://github.com/devxoul/Then) - ✨ Super sweet syntactic sugar for Swift initializers.
- * [Kvitto](https://github.com/Cocoanetics/Kvitto) - App Store Receipt Validation.
- * [Notificationz](https://github.com/SwiftKitz/Notificationz) - Helping you own NSNotificationCenter in Swift.
- * [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation) - Cross-Platform, Protocol-Oriented Programming base library to complement the Swift Standard Library. (Pure Swift, Supports Linux).
- * [libextobjc](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
- * [VersionTrackerSwift](https://github.com/tbaranes/VersionTrackerSwift) - Track which versions of your app a user has previously installed..
- * [DeviceGuru](https://github.com/InderKumarRathore/DeviceGuru/) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
- * [AEAppVersion](https://github.com/tadija/AEAppVersion) - Simple and Lightweight App Version Tracking for iOS written in Swift.
- * [BlocksKit](https://github.com/BlocksKit/BlocksKit) - The Objective-C block utilities you always wish you had.
- * [SwiftyUtils](https://github.com/tbaranes/swiftyutils) - All the reusable code that we need in each project.
- * [RateLimit](https://github.com/soffes/RateLimit) - Simple utility for only executing code every so often.
- * [Outlets](https://github.com/phatblat/Outlets) - Utility functions for validating IBOutlet and IBAction connections.
- * [EasyAbout](https://github.com/JARMourato/EasyAbout) - A way to easily add CocoaPods licenses and App Version to your iOS App using the Settings Bundle.
- * [Validated](https://github.com/Ben-G/Validated) - A Swift μ-Library for Somewhat Dependent Types.
- * [Cent](https://github.com/ankurp/Cent) - Extensions for Swift Standard Types and Classes.
- * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
- * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
- * [BundleInfos](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle.
- * [YAML.framework](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
- * [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift.
- * [MissionControl-iOS](https://github.com/appculture/MissionControl-iOS) - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, macOS).
- * [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
- * [UnsupportedOSVersionAlert](https://github.com/caloon/UnsupportedOSVersionAlert) - Alerts users with a popup if they use an app with an unsupported version of iOS (e.g. iOS betas).
- * [SwiftSortUtils](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
- * [Retry](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
- * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
- * [MoyaSugar](https://github.com/devxoul/MoyaSugar) -  Syntactic sugar for Moya.
- * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) -  A handy collection of more than 400 native Swift 4 extensions to boost your productivity.
- * [Eject](https://github.com/Rightpoint/Eject) - An eject button for Interface Builder to generate swift code.
- * [ContactsWrapper](https://github.com/abdullahselek/ContactsWrapper) - Easy to use wrapper for both contacts and contacts group with Objective-C.
- * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework written in Swift.
- * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application.
- * [App-Update-Tracker](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
- * [ExtensionalSwift](https://github.com/4taras4/SwiftExtension) - Useful swift extensions in one place.
- * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
- * [MMWormhole](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
- * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types.
- * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
- * [VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
- * [Closures](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
- * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
- * [MKUnits](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
- * [ActionClosurable](https://github.com/takasek/ActionClosurable) - Extensions which helps to convert objc-style target/action to swifty closures.
- * [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs.
- * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
- * [Once](https://github.com/luoxiu/Once) - Minimalist library to manage one-off operations.
- * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
- * [DuctTape](https://github.com/marty-suzuki/DuctTape) - KeyPath dynamicMemberLookup based syntax sugar for swift.
- * [ReviewKit](https://github.com/simonmitchell/ReviewKit) - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
- * [SwiftBoost](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+ * [Underscore.m](https://github.com/robb/Underscore.m) [:star: 1477] - A DSL for Data Manipulation.
+ * [XExtensionItem](https://github.com/tumblr/XExtensionItem) [:star: 86] - Easier sharing of structured data between iOS applications and share extensions.
+ * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) [:star: 331] - Reflection for enumerations in Objective-C.
+ * [ObjectiveSugar](https://github.com/supermarin/ObjectiveSugar) [:star: 2187] - ObjectiveC additions for humans. Ruby style.
+ * [OpinionatedC](https://github.com/leoschweizer/OpinionatedC) [:star: 52] - Because Objective-C should have inherited more from Smalltalk.
+ * [SwiftRandom](https://github.com/thellimist/SwiftRandom) [:star: 561] - Generator for random data.
+ * [RandomKit](https://github.com/nvzqz/RandomKit/) [:star: 1471] - Random data generation in Swift.
+ * [YOLOKit](https://github.com/mxcl/YOLOKit) [:star: 664] - Getting square objects down round holes.
+ * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) [:star: 2975] - :smirk: How Swift standard types and classes were supposed to work.
+ * [Pantry](https://github.com/nickoneill/Pantry) [:star: 840] - The missing light persistence layer for Swift.
+ * [SwiftParsec](https://github.com/davedufresne/SwiftParsec) [:star: 222] - A parser combinator library written in the Swift programming language.
+ * [OrderedSet](https://github.com/Weebly/OrderedSet) [:star: 248] - A Swift collection of unique, ordered objects.
+ * [Datez](https://github.com/SwiftKitz/Datez) [:star: 260] - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`.
+ * [BFKit](https://github.com/FabrizioBrancati/BFKit) [:star: 804] - An Objective-C collection of useful classes to develop Apps faster.
+ * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) [:star: 994] - A Swift collection of useful classes to develop Apps faster.
+ * [Scale](https://github.com/onmyway133/scale) [:star: 325] - Unit converter in Swift (available via CocoaPods).
+ * [Standard Template Protocols](https://github.com/cconeil/Standard-Template-Protocols) [:star: 382] - Protocols for your every day iOS needs.
+ * [TimeLord](https://github.com/JonFir/TimeLord) [:star: 8] - Easy DateTime (NSDate) management in Swift.
+ * [AppVersionMonitor](https://github.com/eure/AppVersionMonitor) [:star: 258] - Monitor iOS app version easily.
+ * [Sugar](https://github.com/hyperoslo/Sugar) [:star: 1073] - Something sweet that goes great with your Cocoa.
+ * [Then](https://github.com/devxoul/Then) [:star: 4035] - ✨ Super sweet syntactic sugar for Swift initializers.
+ * [Kvitto](https://github.com/Cocoanetics/Kvitto) [:star: 288] - App Store Receipt Validation.
+ * [Notificationz](https://github.com/SwiftKitz/Notificationz) [:star: 77] - Helping you own NSNotificationCenter in Swift.
+ * [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation) [:star: 622] - Cross-Platform, Protocol-Oriented Programming base library to complement the Swift Standard Library. (Pure Swift, Supports Linux).
+ * [libextobjc](https://github.com/jspahrsummers/libextobjc) [:star: 4540] - A Cocoa library to extend the Objective-C programming language.
+ * [VersionTrackerSwift](https://github.com/tbaranes/VersionTrackerSwift) [:star: 83] - Track which versions of your app a user has previously installed..
+ * [DeviceGuru](https://github.com/InderKumarRathore/DeviceGuru/) [:star: 458] - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s.
+ * [AEAppVersion](https://github.com/tadija/AEAppVersion) [:star: 12] - Simple and Lightweight App Version Tracking for iOS written in Swift.
+ * [BlocksKit](https://github.com/BlocksKit/BlocksKit) [:star: 6919] - The Objective-C block utilities you always wish you had.
+ * [SwiftyUtils](https://github.com/tbaranes/swiftyutils) [:star: 538] - All the reusable code that we need in each project.
+ * [RateLimit](https://github.com/soffes/RateLimit) [:star: 920] - Simple utility for only executing code every so often.
+ * [Outlets](https://github.com/phatblat/Outlets) [:star: 130] - Utility functions for validating IBOutlet and IBAction connections.
+ * [EasyAbout](https://github.com/JARMourato/EasyAbout) [:star: 55] - A way to easily add CocoaPods licenses and App Version to your iOS App using the Settings Bundle.
+ * [Validated](https://github.com/Ben-G/Validated) [:star: 609] - A Swift μ-Library for Somewhat Dependent Types.
+ * [Cent](https://github.com/ankurp/Cent) [:star: 227] - Extensions for Swift Standard Types and Classes.
+ * [AssistantKit](https://github.com/anatoliyv/AssistantKit) [:star: 581] - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
+ * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) [:star: 1339] - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
+ * [BundleInfos](https://github.com/rollmind/BundleInfos) [:star: 1] - Simple getter for Bundle informations. like short version from bundle.
+ * [YAML.framework](https://github.com/mirek/YAML.framework) [:star: 240] - Proper YAML support for Objective-C based on `LibYAML`.
+ * [ReadabilityKit](https://github.com/exyte/ReadabilityKit) [:star: 820] - Metadata extractor for news, articles and full-texts in Swift.
+ * [MissionControl-iOS](https://github.com/appculture/MissionControl-iOS) [:star: 115] - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, macOS).
+ * [SwiftTweaks](https://github.com/Khan/SwiftTweaks) [:star: 1408] - Tweak your iOS app without recompiling!
+ * [UnsupportedOSVersionAlert](https://github.com/caloon/UnsupportedOSVersionAlert) [:star: 8] - Alerts users with a popup if they use an app with an unsupported version of iOS (e.g. iOS betas).
+ * [SwiftSortUtils](https://github.com/dsmatter/SwiftSortUtils) [:star: 60] - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift.
+ * [Retry](https://github.com/icanzilb/Retry) [:star: 499] - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` .
+ * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) [:star: 846] - Swift-friendly API for Objective C runtime functions.
+ * [MoyaSugar](https://github.com/devxoul/MoyaSugar) [:star: 189] -  Syntactic sugar for Moya.
+ * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) [:star: 12614] -  A handy collection of more than 400 native Swift 4 extensions to boost your productivity.
+ * [Eject](https://github.com/Rightpoint/Eject) [:star: 524] - An eject button for Interface Builder to generate swift code.
+ * [ContactsWrapper](https://github.com/abdullahselek/ContactsWrapper) [:star: 22] - Easy to use wrapper for both contacts and contacts group with Objective-C.
+ * [XestiMonitors](https://github.com/eBardX/XestiMonitors) [:star: 272] - An extensible monitoring framework written in Swift.
+ * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) [:star: 51] - The simplest way to display the libraries licences used in your application.
+ * [App-Update-Tracker](https://github.com/Stunner/App-Update-Tracker) [:star: 25] - Easily detect and run code upon app installation or update.
+ * [ExtensionalSwift](https://github.com/4taras4/SwiftExtension) - Useful swift extensions in one place.~~
+ * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) [:star: 3125] - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
+ * [MMWormhole](https://github.com/mutualmobile/MMWormhole) [:star: 3907] - Message passing between iOS apps and extensions.
+ * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible) [:star: 120] - A default CustomStringConvertible implementation for Swift types.
+ * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) [:star: 123] - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
+ * [VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController) [:star: 863] - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+ * [Closures](https://github.com/vhesener/Closures) [:star: 1741] - Swifty closures for UIKit and Foundation.
+ * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) [:star: 1513] - Showcase new features after an app update similar to Pages, Numbers and Keynote.
+ * [MKUnits](https://github.com/michalkonturek/MKUnits) [:star: 342] - Unit conversion library for Swift.
+ * [ActionClosurable](https://github.com/takasek/ActionClosurable) [:star: 121] - Extensions which helps to convert objc-style target/action to swifty closures.
+ * [ios_system](https://github.com/holzschu/ios_system) [:star: 790] - Drop-in replacement for system() in iOS programs.
+ * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) [:star: 61] - Parse provisioning profiles into Swift models.
+ * [Once](https://github.com/luoxiu/Once) [:star: 46] - Minimalist library to manage one-off operations.
+ * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) [:star: 265] - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+ * [DuctTape](https://github.com/marty-suzuki/DuctTape) [:star: 173] - KeyPath dynamicMemberLookup based syntax sugar for swift.
+ * [ReviewKit](https://github.com/simonmitchell/ReviewKit) [:star: 25] - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
+ * [SwiftBoost](https://github.com/sparrowcode/SwiftBoost) [:star: 157] - Collection of Swift-extensions to boost development process.
 
 ## User Consent
-- [SmartlookConsentSDK](https://github.com/smartlook/ios-consent-sdk) - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
-- [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
+- [SmartlookConsentSDK](https://github.com/smartlook/ios-consent-sdk) [:star: 182] - Open source SDK which provides a configurable control panel where user can select their privacy options and store the user preferences for the app.
+- [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) [:star: 146] - Generate a privacy policy for your iOS app from its code
 
 ## VR
-- [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS.
-- [360 VR Player](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
-- [simple360player](https://github.com/Aralekk/simple360player_iOS) - Free & ad-free 360 VR Video Player. Flat or Stereoscopic. In Swift 2.
-- [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) - iOS 360-degree video player streaming from an AVPlayer with Swift.
+- [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) [:star: 85] - A sample project that provides the basics to create an interactive VR experience on iOS.
+- [360 VR Player](https://github.com/hanton/HTY360Player) [:star: 2052] - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
+- [simple360player](https://github.com/Aralekk/simple360player_iOS) [:star: 154] - Free & ad-free 360 VR Video Player. Flat or Stereoscopic. In Swift 2.
+- [Swifty360Player](https://github.com/abdullahselek/Swifty360Player) [:star: 158] - iOS 360-degree video player streaming from an AVPlayer with Swift.
 
 ## Walkthrough / Intro / Tutorial
-- [Onboard](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
-- [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
-- [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
-- [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
-- [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough) - A UICollectionView backed drop-in component for introduction views.
-- [ICETutorial](https://github.com/icepat/ICETutorial) - A nice tutorial like the one introduced in the Path 3.X App.
-- [JazzHands](https://github.com/IFTTT/JazzHands) - Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
-- [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros.
-- [Instructions](https://github.com/ephread/Instructions) - Easily add customizable coach marks into you iOS project.
-- [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
-- [Gecco](https://github.com/yukiasai/Gecco) - Spotlight view for iOS.
-- [VideoSplashKit](https://github.com/svhawks/VideoSplashKit) - VideoSplashKit - UIViewController library for creating easy intro pages with background videos.
-- [Presentation](https://github.com/hyperoslo/Presentation) - Presentation helps you to make tutorials, release notes and animated pages.
-- [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
-- [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding) - A simple and handsome AlertView for onboard your users in your amazing world.
-- [EasyTipView](https://github.com/teodorpatras/EasyTipView) - Fully customisable tooltip view in Swift.
-- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design slider.
-- [InfoView](https://github.com/anatoliyv/InfoView) - Swift based simple information view with pointed arrow.
-- [Intro](https://github.com/nbolatov/Intro) - An iOS framework to easily create simple animated walkthrough, written in Swift.
-- [AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) - Tool to create awesome tutorials or educate user to use application. Or just highlight something on screen. Written in Swift.
-- [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - A simple way to add onboarding to your project.
-- [WVWalkthroughView](https://github.com/praagyajoshi/WVWalkthroughView) - Utility to easily create walkthroughs to help with user onboarding.
-- [SwiftyOverlay](https://github.com/saeid/SwiftyOverlay) - Easy and quick way to show intro / instructions over app UI without any additional images in real-time!
-- [SwiftyOnboardVC](https://github.com/chaser79/SwiftyOnboardVC) - Lightweight walkthrough controller thats uses view controllers as its subviews making the customization endless.
-- [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift.
-- [Material Showcase iOS](https://github.com/aromajoin/material-showcase-ios) - An elegant and beautiful showcase for iOS apps.
-- [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
-- [OnboardKit](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
-- [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
+- [Onboard](https://github.com/mamaral/Onboard) [:star: 6495] - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
+- [EAIntroView](https://github.com/ealeksandrov/EAIntroView) [:star: 3753] - Highly customizable drop-in solution for introduction views.
+- [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) [:star: 1534] - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
+- [BWWalkthrough](https://github.com/ariok/BWWalkthrough) [:star: 2778] - A class to build custom walkthroughs for your iOS App.
+- [GHWalkThrough](https://github.com/GnosisHub/GHWalkThrough) [:star: 713] - A UICollectionView backed drop-in component for introduction views.
+- [ICETutorial](https://github.com/icepat/ICETutorial) [:star: 796] - A nice tutorial like the one introduced in the Path 3.X App.
+- [JazzHands](https://github.com/IFTTT/JazzHands) [:star: 6423] - Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
+- [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) [:star: 3361] - A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros.
+- [Instructions](https://github.com/ephread/Instructions) [:star: 5022] - Easily add customizable coach marks into you iOS project.
+- [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) [:star: 372] - The easiest way to create a great walkthrough experience in your apps, powered by Swift.
+- [Gecco](https://github.com/yukiasai/Gecco) [:star: 14] - Spotlight view for iOS.
+- [VideoSplashKit](https://github.com/svhawks/VideoSplashKit) [:star: 1223] - VideoSplashKit - UIViewController library for creating easy intro pages with background videos.
+- [Presentation](https://github.com/hyperoslo/Presentation) [:star: 3032] - Presentation helps you to make tutorials, release notes and animated pages.
+- [AMPopTip](https://github.com/andreamazz/AMPopTip) [:star: 3046] - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
+- [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding) [:star: 836] - A simple and handsome AlertView for onboard your users in your amazing world.
+- [EasyTipView](https://github.com/teodorpatras/EasyTipView) [:star: 3010] - Fully customisable tooltip view in Swift.
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) [:star: 3262] - PaperOnboarding is a material design slider.
+- [InfoView](https://github.com/anatoliyv/InfoView) [:star: 60] - Swift based simple information view with pointed arrow.
+- [Intro](https://github.com/nbolatov/Intro) [:star: 33] - An iOS framework to easily create simple animated walkthrough, written in Swift.
+- [AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) [:star: 315] - Tool to create awesome tutorials or educate user to use application. Or just highlight something on screen. Written in Swift.
+- [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) [:star: 1217] - A simple way to add onboarding to your project.
+- [WVWalkthroughView](https://github.com/praagyajoshi/WVWalkthroughView) [:star: 29] - Utility to easily create walkthroughs to help with user onboarding.
+- [SwiftyOverlay](https://github.com/saeid/SwiftyOverlay) [:star: 80] - Easy and quick way to show intro / instructions over app UI without any additional images in real-time!
+- ~~[SwiftyOnboardVC](https://github.com/chaser79/SwiftyOnboardVC) - Lightweight walkthrough controller thats uses view controllers as its subviews making the customization endless.~~
+- [Minamo](https://github.com/yukiasai/Minamo) [:star: 247] - Simple coach mark library written in Swift.
+- [Material Showcase iOS](https://github.com/aromajoin/material-showcase-ios) [:star: 351] - An elegant and beautiful showcase for iOS apps.
+- [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) [:star: 3314] - Showcase your awesome new app features.
+- [OnboardKit](https://github.com/NikolaKirev/OnboardKit) [:star: 492] - Customisable user onboarding for your iOS app.
+- [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) [:star: 1075] - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
 ## WebSocket
-- [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
-- [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - Socket.IO-client for iOS/macOS.
-- [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift, iOS and macOS.
-- [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and macOS.
-- [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - simple socket library for apple swift lang.
-- [Socks](https://github.com/vapor-community/sockets) - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS.
-- [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) - A collection of socket utilities in Swift for OS-X and iOS.
-- [Swift-ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app.
-- [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - Object-Oriented, Swift-style WebSocket Library (RFC 6455) for Swift-compatible Platforms.
+- [SocketRocket](https://github.com/facebook/SocketRocket) [:star: 9459] - A conforming Objective-C WebSocket client library.
+- [socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) [:star: 5030] - Socket.IO-client for iOS/macOS.
+- [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) [:star: 1529] - High performance WebSocket client library for Swift, iOS and macOS.
+- [Starscream](https://github.com/daltoniam/Starscream) [:star: 7802] - Websockets in swift for iOS and macOS.
+- [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) [:star: 1631] - simple socket library for apple swift lang.
+- [Socks](https://github.com/vapor-community/sockets) [:star: 577] - Pure-Swift Sockets: TCP, UDP; Client, Server; Linux, macOS.
+- [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) [:star: 58] - A collection of socket utilities in Swift for OS-X and iOS.
+- [Swift-ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient) [:star: 164] - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app.
+- [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) [:star: 36] - Object-Oriented, Swift-style WebSocket Library (RFC 6455) for Swift-compatible Platforms.
 
 ## Project setup
-- [crafter](https://github.com/krzysztofzablocki/crafter) - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
-- [liftoff](https://github.com/liftoffcli/liftoff) - Another CLI for creating iOS projects.
-- [amaro](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
-- [chairs](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents.
-- [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
-- [xcproj](https://github.com/tuist/xcodeproj) - Read and update Xcode projects.
-- [Tuist](https://github.com/tuist/tuist) - A tool to create, maintain and interact with Xcode projects at scale.
-- [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
-- [swift5-module-template](https://github.com/fulldecent/swift5-module-template) - A starting point for any Swift 5 module that you want other people to include in their projects.
+- [crafter](https://github.com/krzysztofzablocki/crafter) [:star: 547] - CLI that allows you to configure iOS project's template using custom DSL syntax, simple to use and quite powerful.
+- [liftoff](https://github.com/liftoffcli/liftoff) [:star: 1615] - Another CLI for creating iOS projects.
+- [amaro](https://github.com/crushlovely/Amaro) [:star: 387] - iOS Boilerplate full of delights.
+- [chairs](https://github.com/orta/chairs) [:star: 227] - Swap around your iOS Simulator Documents.
+- [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) [:star: 1767] - Easily generate cross platform Swift framework projects from the command line.
+- [xcproj](https://github.com/tuist/xcodeproj) [:star: 1833] - Read and update Xcode projects.
+- [Tuist](https://github.com/tuist/tuist) [:star: 3487] - A tool to create, maintain and interact with Xcode projects at scale.
+- [SwiftKit](https://github.com/SvenTiigi/SwiftKit) [:star: 825] - Start your next Open-Source Swift Framework.
+- [swift5-module-template](https://github.com/fulldecent/swift5-module-template) [:star: 428] - A starting point for any Swift 5 module that you want other people to include in their projects.
 
 ## Dependency / Package Manager
 - [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
 - [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
-- [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa.
-- [SWM (Swift Modules)](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of Xcode.
-- [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) - Git Submodule Alternative for Cocoa.
-- [swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language.
-- [punic](https://github.com/schwa/punic) - Clean room reimplementation of Carthage tool.
-- [Rome](https://github.com/tmspzz/Rome) - A cache tool for Carthage built frameworks.
-- [Athena](https://github.com/yunarta/works-athena-gradle-plugin) - Gradle Plugin to enhance Carthage by uploading the archived frameworks into Maven repository, currently support only Bintray, Artifactory and Mavel local.
-- [Accio](https://github.com/JamitLabs/Accio) - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
+- [Carthage](https://github.com/Carthage/Carthage) [:star: 14831] - A simple, decentralized dependency manager for Cocoa.
+- [SWM (Swift Modules)](https://github.com/jankuca/swm) [:star: 60] - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of Xcode.
+- [CocoaSeeds](https://github.com/devxoul/CocoaSeeds) [:star: 341] - Git Submodule Alternative for Cocoa.
+- [swift-package-manager](https://github.com/apple/swift-package-manager) [:star: 9326] - The Package Manager for the Swift Programming Language.
+- [punic](https://github.com/schwa/punic) [:star: 0] - Clean room reimplementation of Carthage tool.
+- [Rome](https://github.com/tmspzz/Rome) [:star: 806] - A cache tool for Carthage built frameworks.
+- [Athena](https://github.com/yunarta/works-athena-gradle-plugin) [:star: 1] - Gradle Plugin to enhance Carthage by uploading the archived frameworks into Maven repository, currently support only Bintray, Artifactory and Mavel local.
+- [Accio](https://github.com/JamitLabs/Accio) [:star: 650] - A SwiftPM based dependency manager for iOS & Co. with improvements over Carthage.
 
 ## Tools
 
-- [Shark](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum.
-- [SBConstants](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project.
-- [R.swift](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project.
-- [SwiftGen](https://github.com/SwiftGen/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings and UIColors).
-- [Blade](https://github.com/jondot/blade) - Generate Xcode image catalogs for iOS / macOS app icons, universal images, and more.
-- [Retini](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
-- [Jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
-- [appledoc](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
-- [Laurine](https://github.com/JiriTrecak/Laurine) - Laurine - Localization code generator written in Swift. Sweet!
-- [StoryboardMerge](https://github.com/marcinolawski/StoryboardMerge) - Xcode storyboards diff and merge tool.
-- [ai2app](https://github.com/metasmile/ai2appiconset) - Creating AppIcon sets from Adobe Illustrator (all supported formats).
-- [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy.
-- [abandoned-strings](https://github.com/ijoshsmith/abandoned-strings) - Command line program that detects unused resource strings in an iOS or macOS application.
-- [swiftenv](https://github.com/kylef/swiftenv) - swiftenv allows you to easily install, and switch between multiple versions of Swift.
-- [Misen](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
-- [git-xcp](https://github.com/metasmile/git-xcp) - A Git plugin for versioning workflow of real-world Xcode project. fastlane's best friend.
-- [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - Shows your current framerate (fps) in the status bar of your iOS app.
-- [Cichlid](https://github.com/dealforest/Cichlid) - automatically delete the current project's DerivedData directories.
-- [Delta](https://github.com/thoughtbot/Delta) - Managing state is hard. Delta aims to make it simple.
-- [SwiftLintXcode](https://github.com/ypresto/SwiftLintXcode) - An Xcode plug-in to format your code using SwiftLint.
-- [XCSwiftr](https://github.com/dzenbot/XCSwiftr) - An Xcode Plugin to convert Objective-C to Swift.
-- [SwiftKitten](https://github.com/johncsnyder/SwiftKitten) - Swift autocompleter for Sublime Text, via the adorable SourceKitten framework.
-- [Kin](https://github.com/Karumi/Kin) - Have you ever found yourself undoing a merge due to a broken Xcode build? Then Kin is your tool. It will parse your project configuration file and detect errors.
-- [AVXCAssets-Generator](https://github.com/angelvasa/AVXCAssets-Generator) - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click.
-- [Peek](https://github.com/shaps80/Peek) - Take a Peek at your application.
-- [SourceKitten](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit.
-- [xcbuild](https://github.com/facebook/xcbuild) - Xcode-compatible build tool.
-- [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - An executable that can be placed in a Run Script Build Phase that marks comments like // TODO: or // SERIOUS: as warnings or errors so they display in the Xcode Issue Navigator.
-- [SwiftCompilationPerformanceReporter](https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter) - Generate automated reports for slow Swift compilation paths in specific targets.
-- [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift.
-- [Duration](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
-- [Benchmark](https://github.com/WorldDownTown/Benchmark) - The Benchmark module provides methods to measure and report the time used to execute Swift code.
-- [MBAssetsImporter](https://github.com/MatiBot/MBAssetsImporter) - Import assets from Panoramio or from your macOS file system with their metadata to your iOS simulator (Swift 2.0).
-- [Realm Browser](https://github.com/realm/realm-browser-osx) - Realm Browser is a macOS utility to open and modify realm database files.
-- [SuperDelegate](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
-- [fastlane-plugin-appicon](https://github.com/fastlane-community/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.
-- [infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
-- [PlayNow](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode.
-- [Xtrace](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance.
-- [xcenv](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
-- [playgroundbook](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books.
-- [Ecno](https://github.com/xmartlabs/Ecno) - Ecno is a task state manager built on top of UserDefaults in pure Swift 3.
-- [ipanema](https://github.com/toshi0383/ipanema) - ipanema analyzes and prints useful information from `.ipa` file.
-- [pxctest](https://github.com/plu/pxctest) - Parallel XCTest - Execute XCTest suites in parallel on multiple iOS Simulators.
+- [Shark](https://github.com/kaandedeoglu/Shark) [:star: 379] - Swift Script that transforms the .xcassets folder into a type safe enum.
+- [SBConstants](https://github.com/paulsamuels/SBConstants) [:star: 309] - Generate a constants file by grabbing identifiers from storyboards in a project.
+- [R.swift](https://github.com/mac-cain13/R.swift) [:star: 9153] - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project.
+- [SwiftGen](https://github.com/SwiftGen/SwiftGen) [:star: 8727] - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings and UIColors).
+- [Blade](https://github.com/jondot/blade) [:star: 820] - Generate Xcode image catalogs for iOS / macOS app icons, universal images, and more.
+- [Retini](https://github.com/terwanerik/Retini) [:star: 199] - A super simple retina (2x, 3x) image converter.
+- [Jazzy](https://github.com/realm/jazzy) [:star: 7267] - Soulful docs for Swift & Objective-C.
+- [appledoc](https://github.com/tomaz/appledoc) [:star: 4186] - ObjectiveC code Apple style documentation set generator.
+- [Laurine](https://github.com/JiriTrecak/Laurine) [:star: 1262] - Laurine - Localization code generator written in Swift. Sweet!
+- [StoryboardMerge](https://github.com/marcinolawski/StoryboardMerge) [:star: 238] - Xcode storyboards diff and merge tool.
+- [ai2app](https://github.com/metasmile/ai2appiconset) [:star: 74] - Creating AppIcon sets from Adobe Illustrator (all supported formats).
+- [ViewMonitor](https://github.com/daisuke0131/ViewMonitor) [:star: 726] - ViewMonitor can measure view positions with accuracy.
+- [abandoned-strings](https://github.com/ijoshsmith/abandoned-strings) [:star: 372] - Command line program that detects unused resource strings in an iOS or macOS application.
+- [swiftenv](https://github.com/kylef/swiftenv) [:star: 1940] - swiftenv allows you to easily install, and switch between multiple versions of Swift.
+- [Misen](https://github.com/tasanobu/Misen) [:star: 123] - Script to support easily using Xcode Asset Catalog in Swift.
+- [git-xcp](https://github.com/metasmile/git-xcp) [:star: 12] - A Git plugin for versioning workflow of real-world Xcode project. fastlane's best friend.
+- [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) [:star: 516] - Shows your current framerate (fps) in the status bar of your iOS app.
+- [Cichlid](https://github.com/dealforest/Cichlid) [:star: 243] - automatically delete the current project's DerivedData directories.
+- [Delta](https://github.com/thoughtbot/Delta) [:star: 246] - Managing state is hard. Delta aims to make it simple.
+- [SwiftLintXcode](https://github.com/ypresto/SwiftLintXcode) [:star: 349] - An Xcode plug-in to format your code using SwiftLint.
+- [XCSwiftr](https://github.com/dzenbot/XCSwiftr) [:star: 342] - An Xcode Plugin to convert Objective-C to Swift.
+- [SwiftKitten](https://github.com/johncsnyder/SwiftKitten) [:star: 141] - Swift autocompleter for Sublime Text, via the adorable SourceKitten framework.
+- [Kin](https://github.com/Karumi/Kin) [:star: 904] - Have you ever found yourself undoing a merge due to a broken Xcode build? Then Kin is your tool. It will parse your project configuration file and detect errors.
+- [AVXCAssets-Generator](https://github.com/angelvasa/AVXCAssets-Generator) [:star: 338] - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click.
+- [Peek](https://github.com/shaps80/Peek) [:star: 2606] - Take a Peek at your application.
+- [SourceKitten](https://github.com/jpsim/SourceKitten) [:star: 2214] - An adorable little framework and command line tool for interacting with SourceKit.
+- [xcbuild](https://github.com/facebook/xcbuild) [:star: 1997] - Xcode-compatible build tool.
+- [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) [:star: 143] - An executable that can be placed in a Run Script Build Phase that marks comments like // TODO: or // SERIOUS: as warnings or errors so they display in the Xcode Issue Navigator.
+- [SwiftCompilationPerformanceReporter](https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter) [:star: 147] - Generate automated reports for slow Swift compilation paths in specific targets.
+- [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) [:star: 4205] - Build Time Analyzer for Swift.
+- [Duration](https://github.com/SwiftStudies/Duration) [:star: 325] - A simple Swift package for measuring and reporting the time taken for operations.
+- [Benchmark](https://github.com/WorldDownTown/Benchmark) [:star: 85] - The Benchmark module provides methods to measure and report the time used to execute Swift code.
+- [MBAssetsImporter](https://github.com/MatiBot/MBAssetsImporter) [:star: 71] - Import assets from Panoramio or from your macOS file system with their metadata to your iOS simulator (Swift 2.0).
+- [Realm Browser](https://github.com/realm/realm-browser-osx) [:star: 498] - Realm Browser is a macOS utility to open and modify realm database files.
+- [SuperDelegate](https://github.com/square/SuperDelegate) [:star: 454] – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
+- [fastlane-plugin-appicon](https://github.com/fastlane-community/fastlane-plugin-appicon) [:star: 332] - Generate required icon sizes and iconset from a master application icon.
+- [infer](https://github.com/facebook/infer) [:star: 14156] - A static analyzer for Java, C and Objective-C.
+- [PlayNow](https://github.com/marcboquet/PlayNow) [:star: 93] - Small app that creates empty Swift playground files and opens them with Xcode.
+- [Xtrace](https://github.com/johnno1962/Xtrace) [:star: 1840] - Trace Objective-C method calls by class or instance.
+- [xcenv](https://github.com/xcenv/xcenv) [:star: 248] - Groom your Xcode environment.
+- [playgroundbook](https://github.com/playgroundbooks/playgroundbook) [:star: 259] - Tool for Swift Playground books.
+- [Ecno](https://github.com/xmartlabs/Ecno) [:star: 100] - Ecno is a task state manager built on top of UserDefaults in pure Swift 3.
+- [ipanema](https://github.com/toshi0383/ipanema) [:star: 9] - ipanema analyzes and prints useful information from `.ipa` file.
+- [pxctest](https://github.com/plu/pxctest) [:star: 805] - Parallel XCTest - Execute XCTest suites in parallel on multiple iOS Simulators.
 - [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - The IBM Swift Sandbox is an interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
-- [FBSimulatorControl](https://github.com/facebook/idb) - A macOS library for managing and manipulating iOS Simulators
+- [FBSimulatorControl](https://github.com/facebook/idb) [:star: 4195] - A macOS library for managing and manipulating iOS Simulators
 - [Nomad](https://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute `.ipa`, verify In-App-Purchase receipt and more.
-- [Cookiecutter](https://github.com/RahulKatariya/SwiftFrameworkTemplate) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file.
-- [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code.
-- [AssetChecker 👮](https://github.com/freshOS/AssetChecker) - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious.
-- [PlayAlways](https://github.com/insidegui/PlayAlways) - Create Xcode playgrounds from your menu bar
-- [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift) - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
-- [Traits](https://github.com/krzysztofzablocki/Traits) - Library for a real-time design and behavior modification of native iOS apps without recompiling (code and interface builder changes are supported).
+- [Cookiecutter](https://github.com/RahulKatariya/SwiftFrameworkTemplate) [:star: 527] - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file.
+- [Sourcery](https://github.com/krzysztofzablocki/Sourcery) [:star: 7179] - A tool that brings meta-programming to Swift, allowing you to code generate Swift code.
+- [AssetChecker 👮](https://github.com/freshOS/AssetChecker) [:star: 212] - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious.
+- [PlayAlways](https://github.com/insidegui/PlayAlways) [:star: 545] - Create Xcode playgrounds from your menu bar
+- [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift) [:star: 2236] - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
+- [Traits](https://github.com/krzysztofzablocki/Traits) [:star: 907] - Library for a real-time design and behavior modification of native iOS apps without recompiling (code and interface builder changes are supported).
 - [Struct](https://www.get-struct.tools) - A tool for iOS and Mac developers to automate the creation and management of Xcode projects.
-- [Nori](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard.
-- [Attabench](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
-- [Gluten](https://github.com/wilbertliu/Gluten) - Nano library to unify XIB and it's code.
-- [LicensePlist](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications.
-- [AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
-- [Tweaks](https://github.com/facebook/Tweaks) - An easy way to fine-tune, and adjust parameters for iOS apps in development.
-- [FengNiao](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode.
-- [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
-- [Plank](https://github.com/pinterest/plank) - A tool for generating immutable model objects.
-- [Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
-- [XcodeGen](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a spec file and your folder structure.
-- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
-- [Natalie](https://github.com/krzyzanowskim/Natalie) - Storyboard Code Generator.
-- [Transformer](https://github.com/andresinaka/transformer) - Easy Online Attributed String Creator. This tool lets you format a string directly in the browser and then copy/paste the attributed string code into your app.
-- [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files.
-- [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) - A tool to convert Xcode .xib to .storyboard files.
-- [Zolang](https://github.com/Zolang/Zolang) - A programming language for sharing logic between iOS, Android and Tools.
-- [xavtool](https://github.com/gabrielrobert/xavtool) - Command-line utility to automatically increase iOS / Android applications version.
+- [Nori](https://github.com/yukiasai/Nori) [:star: 296] - Easier to apply code based style guide to storyboard.
+- [Attabench](https://github.com/attaswift/Attabench) [:star: 1272] - Microbenchmarking app for Swift with nice log-log plots.
+- [Gluten](https://github.com/wilbertliu/Gluten) [:star: 8] - Nano library to unify XIB and it's code.
+- [LicensePlist](https://github.com/mono0926/LicensePlist) [:star: 2252] - A license list generator of all your dependencies for iOS applications.
+- [AppDevKit](https://github.com/yahoo/AppDevKit) [:star: 1439] - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
+- [Tweaks](https://github.com/facebook/Tweaks) [:star: 4750] - An easy way to fine-tune, and adjust parameters for iOS apps in development.
+- [FengNiao](https://github.com/onevcat/FengNiao) [:star: 3209] - A command line tool for cleaning unused resources in Xcode.
+- [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) [:star: 2867] - Find retain cycles / memory leaks sooner.
+- [Plank](https://github.com/pinterest/plank) [:star: 465] - A tool for generating immutable model objects.
+- [Lona](https://github.com/airbnb/Lona) [:star: 7523] - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
+- [XcodeGen](https://github.com/yonaskolb/XcodeGen) [:star: 6236] - Command line tool that generates your Xcode project from a spec file and your folder structure.
+- [iSimulator](https://github.com/wigl/iSimulator) [:star: 1102] - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
+- [Natalie](https://github.com/krzyzanowskim/Natalie) [:star: 1177] - Storyboard Code Generator.
+- [Transformer](https://github.com/andresinaka/transformer) [:star: 283] - Easy Online Attributed String Creator. This tool lets you format a string directly in the browser and then copy/paste the attributed string code into your app.
+- [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) [:star: 2211] - Quick Look plugin for apps and provisioning profile files.
+- [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard) [:star: 132] - A tool to convert Xcode .xib to .storyboard files.
+- [Zolang](https://github.com/Zolang/Zolang) [:star: 142] - A programming language for sharing logic between iOS, Android and Tools.
+- [xavtool](https://github.com/gabrielrobert/xavtool) [:star: 33] - Command-line utility to automatically increase iOS / Android applications version.
 - [Cutter](https://cutter.albemala.me/) - A tool to generate iOS Launch Images (Splash Screens) for all screen sizes starting from a single template.
-- [nef](https://github.com/bow-swift/nef) - A set of command line tools for Xcode Playground: lets you have compile-time verification of your documentation written as Xcode Playgrounds, generates markdown files, integration with Jekyll for building microsites and Carbon to export code snippets.
-- [Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused code.
+- [nef](https://github.com/bow-swift/nef) [:star: 263] - A set of command line tools for Xcode Playground: lets you have compile-time verification of your documentation written as Xcode Playgrounds, generates markdown files, integration with Jekyll for building microsites and Carbon to export code snippets.
+- [Pecker](https://github.com/woshiccm/Pecker) [:star: 1434] - CodePecker is a tool to detect unused code.
 - [Speculid](https://speculid.com) - generate Image Sets and App Icons from SVG, PNG, and JPEG files
-- [SkrybaMD](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team needs an easy way to maintain and create documentation, this generator is for you.
+- [SkrybaMD](https://github.com/robertherdzik/SkrybaMD) [:star: 17] - Markdown Documentation generator. If your team needs an easy way to maintain and create documentation, this generator is for you.
 - [Storyboard -> SwiftUI Converter](https://swiftify.com/#/converter/storyboard2swiftui/) - Storyboard -> SwiftUI Converter is a converter to convert .storyboard and .xib to SwiftUI.
 - [Swift Package Index](https://swiftpackageindex.com) - Swift packages list with many information about quality and compatiblity of package.
-- [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
+- [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) [:star: 5326] - The easiest way to install and switch between multiple versions of Xcode.
 - [Respresso Image Converter](https://respresso.io/image-converter) - Multiplatform image converter for iOS, Android, and Web that supports pdf, svg, vector drawable, jpg, png, and webp formats.
-- [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+- [Rugby](https://github.com/swiftyfinch/Rugby) [:star: 553] - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
 ## Rapid Development
 
-- [Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) - Playgrounds for Objective-C for extremely fast prototyping / learning.
-- [MMBarricade](https://github.com/mutualmobile/MMBarricade) - Runtime configurable local server for iOS apps.
+- [Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) [:star: 2628] - Playgrounds for Objective-C for extremely fast prototyping / learning.
+- [MMBarricade](https://github.com/mutualmobile/MMBarricade) [:star: 350] - Runtime configurable local server for iOS apps.
 - [STV Framework](http://www.sensiblecocoa.com) - Native visual iOS development.
-- [swiftmon](https://github.com/dimpiax/swiftmon) - swiftmon restarts your swift application in case of any file change.
-- [Model2App](https://github.com/Q-Mobile/Model2App) - Turn your Swift data model into a working CRUD app.
+- [swiftmon](https://github.com/dimpiax/swiftmon) [:star: 2] - swiftmon restarts your swift application in case of any file change.
+- [Model2App](https://github.com/Q-Mobile/Model2App) [:star: 135] - Turn your Swift data model into a working CRUD app.
 
 
 ## Code Injection
 
-- [dyci](https://github.com/DyCI/dyci-main) - Code injection tool.
-- [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
-- [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease.
+- [dyci](https://github.com/DyCI/dyci-main) [:star: 1117] - Code injection tool.
+- [injectionforxcode](https://github.com/johnno1962/injectionforxcode) [:star: 6528] - Code injection including Swift.
+- [Vaccine](https://github.com/zenangst/Vaccine) [:star: 301] - Vaccine is a framework that aims to make your apps immune to recompile-decease.
 
 
 ## Dependency Injection
 
-- [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift.
-- [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
-- [Kraken](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
-- [Cleanse](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework by Square.
-- [Typhoon](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
-- [Pilgrim](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
-- [Perform](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues.
-- [Alchemic](https://github.com/drekka/Alchemic) - Advanced, yet simple to use DI framework for Objective-C.
-- [Guise](https://github.com/prosumma/Guise) - An elegant, flexible, type-safe dependency resolution framework for Swift.
-- [Weaver](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift.
-- [StoryboardBuilder](https://github.com/hiro-nagami/StoryboardBuilder) - Simple dependency injection for generating views from storyboard.
-- [ViperServices](https://github.com/ladeiko/ViperServices) - Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code.
-- [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
-- [Needle](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
-- [Locatable](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+- [Swinject](https://github.com/Swinject/Swinject) [:star: 5865] - Dependency injection framework for Swift.
+- [Reliant](https://github.com/appfoundry/Reliant) [:star: 52] - Nonintrusive Objective-C dependency injection.
+- [Kraken](https://github.com/sabirvirtuoso/Kraken) [:star: 1] - A Dependency Injection Container for Swift with easy-to-use syntax.
+- [Cleanse](https://github.com/square/Cleanse) [:star: 1738] - Lightweight Swift Dependency Injection Framework by Square.
+- [Typhoon](https://github.com/appsquickly/Typhoon) [:star: 2707] - Powerful dependency injection for Objective-C.
+- [Pilgrim](https://github.com/appsquickly/pilgrim) [:star: 61] - Powerful dependency injection Swift (successor to Typhoon).
+- [Perform](https://github.com/thoughtbot/Perform) [:star: 281] - Easy dependency injection for storyboard segues.
+- [Alchemic](https://github.com/drekka/Alchemic) [:star: 15] - Advanced, yet simple to use DI framework for Objective-C.
+- [Guise](https://github.com/prosumma/Guise) [:star: 53] - An elegant, flexible, type-safe dependency resolution framework for Swift.
+- [Weaver](https://github.com/scribd/Weaver) [:star: 714] - A declarative, easy-to-use and safe Dependency Injection framework for Swift.
+- [StoryboardBuilder](https://github.com/hiro-nagami/StoryboardBuilder) [:star: 5] - Simple dependency injection for generating views from storyboard.
+- [ViperServices](https://github.com/ladeiko/ViperServices) [:star: 5] - Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code.
+- [DITranquillity](https://github.com/ivlevAstef/DITranquillity) [:star: 401] - Dependency injection framework for iOS applications written in clean Swift.
+- [Needle](https://github.com/uber/needle) [:star: 1595] — Compile-time safe Swift dependency injection framework with real code.
+- [Locatable](https://github.com/vincent-pradeilles/locatable) [:star: 116] - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
 
 ## Deployment / Distribution
 
-- [fastlane](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
-- [deliver](https://github.com/fastlane/fastlane/tree/master/deliver) - Upload screenshots, metadata and your app to the App Store using a single command.
-- [snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot) - Automate taking localized screenshots of your iOS app on every device.
+- [fastlane](https://github.com/fastlane/fastlane) [:star: 37344] - Connect all iOS deployment tools into one streamlined workflow.
+- [deliver](https://github.com/fastlane/fastlane/tree/master/deliver) [:star: 37344] - Upload screenshots, metadata and your app to the App Store using a single command.
+- [snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot) [:star: 37344] - Automate taking localized screenshots of your iOS app on every device.
 - [buddybuild](https://www.buddybuild.com/) - A mobile iteration platform - build, deploy, and collaborate.
 - [Bitrise](https://www.bitrise.io) - Mobile Continuous Integration & Delivery with dozens of integrations to build, test, deploy and collaborate.
-- [watchbuild](https://github.com/fastlane/watchbuild) - Get a notification once your iTunes Connect build is finished processing.
+- [watchbuild](https://github.com/fastlane/watchbuild) [:star: 325] - Get a notification once your iTunes Connect build is finished processing.
 - [Crashlytics](https://firebase.google.com/products/crashlytics/) - A crash reporting and beta testing service.
 - [TestFlight Beta Testing](https://developer.apple.com/testflight/) - The beta testing service hosted on iTunes Connect (requires iOS 8 or later).
 - [AppCenter](https://appcenter.ms) - Continuously build, test, release, and monitor apps for every platform.
-- [boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers.
-- [HockeyKit](https://github.com/bitstadium/HockeyKit) - A software update kit.
+- [boarding](https://github.com/fastlane/boarding) [:star: 869] - Instantly create a simple signup page for TestFlight beta testers.
+- [HockeyKit](https://github.com/bitstadium/HockeyKit) [:star: 2177] - A software update kit.
 - [Rollout.io](https://rollout.io/) - SDK to patch, fix bugs, modify and manipulate native apps (Obj-c & Swift) in real-time.
 - [AppLaunchpad](https://theapplaunchpad.com/) - Free App Store screenshot builder.
-- [LaunchKit](https://github.com/LaunchKit/LaunchKit) - A set of web-based tools for mobile app developers, now open source!
+- [LaunchKit](https://github.com/LaunchKit/LaunchKit) [:star: 2165] - A set of web-based tools for mobile app developers, now open source!
 - [Instabug](https://instabug.com) - In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging.
-- [Appfigurate](https://github.com/electricbolt/appfiguratesdk) - Secure runtime configuration for iOS and watchOS, apps and app extensions.
-- [ScreenshotFramer](https://github.com/IdeasOnCanvas/ScreenshotFramer) - With Screenshot Framer you can easily create nice-looking and localized App Store Images.
+- [Appfigurate](https://github.com/electricbolt/appfiguratesdk) [:star: 20] - Secure runtime configuration for iOS and watchOS, apps and app extensions.
+- [ScreenshotFramer](https://github.com/IdeasOnCanvas/ScreenshotFramer) [:star: 708] - With Screenshot Framer you can easily create nice-looking and localized App Store Images.
 - [Semaphore](https://semaphoreci.com/product/ios) - CI/CD service which makes it easy to build, test and deploy applications for any Apple device. iOS support is fully integrated in Semaphore 2.0, so you can use the same powerful CI/CD pipeline features for iOS as you do for Linux-based development.
 - [Appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS with online device simulators
 - [Screenplay](https://screenplay.dev) - Instant rollbacks and canary deployments for iOS.
 - [Codemagic](https://codemagic.io) - Build, test and deliver iOS apps 20% faster with Codemagic CI/CD.
 - [Runway](https://runway.team) - Easier mobile releases for teams. Integrates across tools (version control, project management, CI, app stores, crash reporting, etc.) to provide a single source of truth for mobile teams to come together around during release cycles. Equal parts automation and collaboration.
-- [ios-uploader](https://github.com/simonnilsson/ios-uploader) - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
+- [ios-uploader](https://github.com/simonnilsson/ios-uploader) [:star: 122] - Easy to use, cross-platform tool to upload iOS apps to App Store Connect.
 
 ## App Store
 
 - [Apple's Common App Rejections Styleguide](https://developer.apple.com/app-store/review/#common-app-rejections) - Highlighted some of the most common issues that cause apps to get rejected.
 - [Free App Store Optimization Tool](https://www.mobileaction.co) - Lets you track your App Store visibility in terms of keywords and competitors.
-- [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.
-- [Harpy](https://github.com/ArtSabintsev/Harpy) - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
-- [appirater](https://github.com/arashpayan/appirater) - A utility that reminds your iPhone app's users to review the app.
-- [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
-- [Appstore Review Guidelines](https://github.com/aashishtamsya/Appstore-Review-Guidelines) - A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review.
-- [AppVersion](https://github.com/amebalabs/AppVersion) - Keep users on the up-to date version of your App.
+- [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) [:star: 780] - A checklist to pore over before you ship that amazing app that has taken ages to complete, but you don't want to rush out in case you commit a schoolboy error that will end up making you look dumber than you are.
+- [Harpy](https://github.com/ArtSabintsev/Harpy) [:star: 2601] - Notify users when a new version of your iOS app is available, and prompt them with the App Store link.
+- [appirater](https://github.com/arashpayan/appirater) [:star: 4644] - A utility that reminds your iPhone app's users to review the app.
+- [Siren](https://github.com/ArtSabintsev/Siren) [:star: 4111] - Notify users when a new version of your app is available and prompt them to upgrade.
+- [Appstore Review Guidelines](https://github.com/aashishtamsya/Appstore-Review-Guidelines) [:star: 15] - A curated list of points which a developer has to keep in mind before submitting his/her application on appstore for review.
+- [AppVersion](https://github.com/amebalabs/AppVersion) [:star: 33] - Keep users on the up-to date version of your App.
 
 
 ## Xcode
 
 ### Extensions (Xcode 8+)
 
-* [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax.
-* [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension Toolset (Plugins for Xcode 8).
-* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers.
-* [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
-* [Import](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code.
-* [Mark](https://github.com/velyan/Mark) - Xcode extension for generating MARK comments.
-* [XShared](https://github.com/Otbivnoe/XShared) - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
-* [XGist](https://github.com/Bunn/Xgist) - Xcode extension which allows you to send your text selection or entire file to GitHub's Gist and automatically copy the Gist URL into your Clipboard.
+* [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) [:star: 186] - An Xcode Source Editor extension to clean the closure syntax.
+* [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension Toolset (Plugins for Xcode 8).~~
+* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) [:star: 717] - Xcode 8 Source Code Extension to Generate Swift Initializers.
+* [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) [:star: 191] - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
+* [Import](https://github.com/markohlebar/Import) [:star: 845] - Xcode extension for adding imports from anywhere in the code.
+* [Mark](https://github.com/velyan/Mark) [:star: 158] - Xcode extension for generating MARK comments.
+* [XShared](https://github.com/Otbivnoe/XShared) [:star: 74] - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram).
+* [XGist](https://github.com/Bunn/Xgist) [:star: 77] - Xcode extension which allows you to send your text selection or entire file to GitHub's Gist and automatically copy the Gist URL into your Clipboard.
 * [Swiftify](https://swiftify.com/) - Objective-C to Swift online code converter and Xcode extension.
-* [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
-* [Snowonder](https://github.com/Karetski/Snowonder) - Magical import declarations formatter for Xcode.
-* [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
-* [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
-* [nef](https://github.com/bow-swift/nef-plugin) - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
+* [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) [:star: 35] - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
+* [Snowonder](https://github.com/Karetski/Snowonder) [:star: 106] - Magical import declarations formatter for Xcode.
+* [XVim2](https://github.com/XVimProject/XVim2) [:star: 2317] - Vim key-bindings for Xcode 9.
+* [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) [:star: 159] - Xcode extension for spell checking and auto correcting code comments.
+* [nef](https://github.com/bow-swift/nef-plugin) [:star: 192] - This Xcode extension enables you to make a code selection and export it to a snippets. Available on Mac AppStore.
 
 ### Themes
 
 - [Dracula Theme](https://draculatheme.com/xcode/) - A dark theme for Xcode.
-- [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
-- [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) - Solarized Dark Theme for Xcode 5.
-- [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
-- [DRL Theme](https://github.com/durul/Xcodetheme) - A soft darkness theme for Xcode.
+- [Xcode themes list](https://github.com/hdoria/xcode-themes) [:star: 2369] - Color themes for Xcode.
+- [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) [:star: 366] - Solarized Dark Theme for Xcode 5.
+- [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) [:star: 408] - A color scheme for Xcode based on the WWDC 2016 invitation.
+- [DRL Theme](https://github.com/durul/Xcodetheme) [:star: 19] - A soft darkness theme for Xcode.
 
 
 ### Other Xcode
 
-- [awesome-xcode-scripts](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts.
-- [Synx](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
-- [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
-- [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator.
-- [awesome-gitignore-templates](https://github.com/aashishtamsya/awesome-gitignore-templates) - A collection of swift, objective-c, android and many more langugages .gitignore templates.
-- [swift-project-template](https://github.com/artemnovichkov/swift-project-template) - Template for iOS Swift project generation.
-- [Swift-VIPER-Module](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for create modules with VIPER Architecture written in Swift 3.
-- [ViperC](https://github.com/abdullahselek/ViperC) - Xcode template for VIPER Architecture for both Objective-C and Swift.
-- [XcodeCodeSnippets](https://github.com/ismetanin/XcodeCodeSnippets) - A set of code snippets for iOS development, includes code and comments snippets.
+- [awesome-xcode-scripts](https://github.com/aashishtamsya/awesome-xcode-scripts) [:star: 114] - A curated list of useful xcode scripts.
+- [Synx](https://github.com/venmo/synx) [:star: 6093] - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
+- [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) [:star: 14] - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
+- [SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) [:star: 1755] - 3D Touch shortcuts in the Simulator.
+- [awesome-gitignore-templates](https://github.com/aashishtamsya/awesome-gitignore-templates) [:star: 23] - A collection of swift, objective-c, android and many more langugages .gitignore templates.
+- [swift-project-template](https://github.com/artemnovichkov/swift-project-template) [:star: 87] - Template for iOS Swift project generation.
+- [Swift-VIPER-Module](https://github.com/Juanpe/Swift-VIPER-Module) [:star: 537] - Xcode template for create modules with VIPER Architecture written in Swift 3.
+- [ViperC](https://github.com/abdullahselek/ViperC) [:star: 78] - Xcode template for VIPER Architecture for both Objective-C and Swift.
+- [XcodeCodeSnippets](https://github.com/ismetanin/XcodeCodeSnippets) [:star: 33] - A set of code snippets for iOS development, includes code and comments snippets.
 - [Xcode Keymap for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings) - This extension ports popular Xcode keyboard shortcuts to Visual Studio Code.
-- [Xcode Template Manager](https://github.com/Camji55/xtm) - Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.
-- [VIPER Module Template](https://github.com/EvsenevDev/VIPERModuleTemplate) - Xcode Template of VIPER Module which generates all layers of VIPER.
-- [Xcode Developer Disk Images](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
+- ~~[Xcode Template Manager](https://github.com/Camji55/xtm) - Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.~~
+- [VIPER Module Template](https://github.com/EvsenevDev/VIPERModuleTemplate) [:star: 17] - Xcode Template of VIPER Module which generates all layers of VIPER.
+- [Xcode Developer Disk Images](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) [:star: 276] - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
 
 ## Reference
-- [Swift Cheat Sheet](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift.
-- [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet) - A quick reference cheat sheet for common, high level topics in Objective-C.
-- [SwiftSnippets](https://github.com/onmyway133/SwiftSnippets) - A collection of Swift snippets to be used in Xcode.
-- [App Store Checklist](https://github.com/whitef0x0/app-store-checklist) - A checklist of what to look for before submitting your app to the App Store.
-- [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
+- [Swift Cheat Sheet](https://github.com/iwasrobbed/Swift-CheatSheet) [:star: 970] - A quick reference cheat sheet for common, high level topics in Swift.
+- [Objective-C Cheat Sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet) [:star: 1307] - A quick reference cheat sheet for common, high level topics in Objective-C.
+- [SwiftSnippets](https://github.com/onmyway133/SwiftSnippets) [:star: 156] - A collection of Swift snippets to be used in Xcode.
+- [App Store Checklist](https://github.com/whitef0x0/app-store-checklist) [:star: 32] - A checklist of what to look for before submitting your app to the App Store.
+- [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) [:star: 1837] - An Xcode playground showcasing the new features in Swift 4.0.
 - [WWDC-Recap](https://erenkabakci.github.io/WWDC-Recap/) - A collection of session summaries in markdown format, from WWDC 19 & 17.
 - [Awesome-ios](https://kandi.openweaver.com/swift/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem.
 
 ## Style Guides
-- [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
-- [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com.
-- [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) - Style guide & coding conventions for Objective-C projects.
+- [NY Times - Objective C Style Guide](https://github.com/NYTimes/objective-c-style-guide) [:star: 5824] - The Objective-C Style Guide used by The New York Times.
+- [raywenderlich Style Guide](https://github.com/raywenderlich/objective-c-style-guide) [:star: 3094] - A style guide that outlines the coding conventions for raywenderlich.com.
+- [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) [:star: 1683] - Style guide & coding conventions for Objective-C projects.
 - [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) - Gist with coding conventions.
-- [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com.
-- [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) - Guidelines for iOS development in use at Spotify.
-- [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) - A guide to our Swift style and conventions by @github.
+- [Swift Style Guide by @raywenderlich](https://github.com/raywenderlich/swift-style-guide) [:star: 12758] - The official Swift style guide for raywenderlich.com.
+- [Spotify Objective-C Coding Style](https://github.com/spotify/ios-style) [:star: 240] - Guidelines for iOS development in use at Spotify.
+- [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) [:star: 4767] - A guide to our Swift style and conventions by @github.
 - [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) - iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
-- [SlideShare Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md) - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift.
-- [Prolific Interactive Style Guide](https://github.com/prolificinteractive/swift-style-guide) - A style guide for Swift.
-- [Swift Style Guide by LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide.
+- [SlideShare Swift Style Guide](https://github.com/SlideShareInc/swift-style-guide/blob/master/swift_style_guide.md) [:star: 95] - SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift.
+- [Prolific Interactive Style Guide](https://github.com/prolificinteractive/swift-style-guide) [:star: 171] - A style guide for Swift.
+- [Swift Style Guide by LinkedIn](https://github.com/linkedin/swift-style-guide) [:star: 1400] - LinkedIn's Official Swift Style Guide.
 
 ## Good Websites
 
@@ -3256,10 +3256,10 @@ Most of these are paid services, some have free tiers.
 - [iOScreator](https://www.ioscreator.com/)
 - [Mathew Sanders](http://mathewsanders.com/)
 - [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/)
-- [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
+- [iOS Developer and Designer interview](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) [:star: 1582] - A small guide to help those looking to hire a developer or designer for iOS work.
 - [iOS9-day-by-day](https://github.com/ScottLogic/iOS9-day-by-day)
 - [Code Facebook](https://engineering.fb.com/category/ios/)
-- [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.
+- [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) [:star: 109] - The list of RSS feeds for iOS developers.
 - [Cocoa Controls](https://www.cocoacontrols.com/) - Open source UI components for iOS and macOS.
 - [Ohmyswift](https://www.ohmyswift.com/blog/)
 
@@ -3286,17 +3286,17 @@ Most of these are paid services, some have free tiers.
 - [Cocoa Dev Central](http://cocoadevcentral.com)
 - [Use Your Loaf](https://useyourloaf.com/)
 - [Swift Tutorials by Jameson Quave](https://jamesonquave.com/blog/tutorials/)
-- [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
-- [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) - A List of Awesome Swift Playgrounds!
-- [learn-swift](https://github.com/nettlep/learn-swift) - Learn Apple's Swift programming language interactively through these playgrounds.
+- [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) [:star: 5570] - All of the resources for Learning About Swift.
+- [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) [:star: 3963] - A List of Awesome Swift Playgrounds!
+- [learn-swift](https://github.com/nettlep/learn-swift) [:star: 788] - Learn Apple's Swift programming language interactively through these playgrounds.
 - [SwiftUI Tutorials](https://JaneshSwift.com) - Learn SwiftUI & Swift for FREE.
 - [Treehouse's iOS Courses and Workshops](https://teamtreehouse.com/library/topic:ios) - Topics for beginner and advanced developers in both Objective-C and Swift.
-- [The Swift Summary Book](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds.
+- [The Swift Summary Book](https://github.com/jakarmy/swift-summary) [:star: 1661] - A summary of Apple's Swift language written on Playgrounds.
 - [Hacking With Swift](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials.
 - [Realm Academy](https://academy.realm.io/)
 - [LearnAppMaking](https://learnappmaking.com) - LearnAppMaking helps app developers to build, launch and market iOS apps.
 - [iOS Development with Swift in Motion ](https://www.manning.com/livevideo/ios-development-with-swift-lv) -  This live video course locks in the language fundamentals and then offers interesting examples and exercises to build and practice your knowledge and skills.
-- [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+- [Conferences.digital](https://github.com/zagahr/Conferences.digital) [:star: 771] - Watch conference videos in a native macOS app.
 - [DaddyCoding](https://daddycoding.com/) - iOS Tutorials ranging from beginners to advance.
 - [Learn Swift](https://blog.coursesity.com/best-swift-tutorials/) - Learn Swift - curated list of the top online Swift tutorials and courses.
 
@@ -3375,36 +3375,36 @@ Most of these are paid services, some have free tiers.
 
 *Other amazingly awesome lists can be found in the*
 
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-- [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) list of open source iOS apps.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) [:star: 30388] list.
+- [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) [:star: 35588] list of open source iOS apps.
 - Awesome-swift
-  - [@matteocrippa](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
-  - [@Wolg](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
-  - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
-- [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
-- [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) Comprehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
+  - [@matteocrippa](https://github.com/matteocrippa/awesome-swift) [:star: 23490] - A collaborative list of awesome swift resources.
+  - [@Wolg](https://github.com/Wolg/awesome-swift) [:star: 5444] - A curated list of awesome Swift frameworks, libraries and software.
+  - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) [:star: 5570] - All of the resources for Learning About Swift.
+- [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) [:star: 244] curated list of sample watchkit apps and tutorials.
+- [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) [:star: 489] Comprehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
 - Awesome iOS Animation
-    - [@ameizi](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
-    - [@jzau](https://github.com/jzau/awesome-ios-animation) - Collection of Animation projects.
-- [awesome-ios-chart](https://github.com/ameizi/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
-- [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
-- [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
-- [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList) - A list of Awesome Server Side Swift 3 projects.
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions#ios) - A curated awesome list of lists of interview questions including iOS.
-- [iOS-Playbook](https://github.com/bakkenbaeck/iOS-handbook) - Guidelines and best practices for excellent iOS apps.
-- [iOS-Learning-Materials](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
-- [Awesome-iOS-Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts.
-- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
-- [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
-- [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
-- [example-ios-apps](https://github.com/jogendra/example-ios-apps) - A curated list of Open Source example iOS apps developed in Swift.
+    - [@ameizi](https://github.com/ameizi/awesome-ios-animation) [:star: 5125] - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
+    - [@jzau](https://github.com/jzau/awesome-ios-animation) [:star: 895] - Collection of Animation projects.
+- [awesome-ios-chart](https://github.com/ameizi/awesome-ios-chart) [:star: 1523] - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
+- [awesome-gists](https://github.com/vsouza/awesome-gists#ios) [:star: 567] - A list of amazing gists (iOS section).
+- [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) [:star: 11057] - A curated list of awesome iOS UI/UX libraries.
+- [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList) [:star: 866] - A list of Awesome Server Side Swift 3 projects.
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions#ios) [:star: 56342] - A curated awesome list of lists of interview questions including iOS.
+- [iOS-Playbook](https://github.com/bakkenbaeck/iOS-handbook) [:star: 371] - Guidelines and best practices for excellent iOS apps.
+- [iOS-Learning-Materials](https://github.com/jVirus/iOS-Learning-Materials) [:star: 2210] - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
+- [Awesome-iOS-Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter) [:star: 246] - A curated list of awesome iOS Twitter accounts.
+- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) [:star: 12457] - A curated collection of marketing articles & tools to grow your product.
+- [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit) [:star: 7671] - A curated list of awesome ARKit projects and resources.
+- [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) [:star: 1074] - List of cocoa conferences for iOS & macOS developers.
+- [example-ios-apps](https://github.com/jogendra/example-ios-apps) [:star: 867] - A curated list of Open Source example iOS apps developed in Swift.
 - [Curated-Resources-for-Learning-Swift](https://hackr.io/tutorials/learn-ios-swift) - A curated list of resources recommended by the developers.
-- [ClassicProblemSolvingAndDataStructuresInSwift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) - Collection of popular algorithms, data structure and problem solving in Swift 4.
-- [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) - List of awesome open source applications for macOS.
-- [Awesome iOS Interview question list](https://github.com/dashvlas/awesome-ios-interview) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
-- [Top App Developers](https://github.com/app-developers/top) - A list of top iOS app developers.
-- [awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
-- [awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) - A list of books for iOS developers.
+- [ClassicProblemSolvingAndDataStructuresInSwift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) [:star: 38] - Collection of popular algorithms, data structure and problem solving in Swift 4.
+- [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) [:star: 36102] - List of awesome open source applications for macOS.
+- [Awesome iOS Interview question list](https://github.com/dashvlas/awesome-ios-interview) [:star: 1070] - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
+- [Top App Developers](https://github.com/app-developers/top) [:star: 1438] - A list of top iOS app developers.
+- [awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) [:star: 733] - Useful knowledges and stuff for ios developer.
+- [awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) [:star: 254] - A list of books for iOS developers.
 
 ## Contributing and License
 - [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
