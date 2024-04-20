@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
             newLine = row['old_line'].replace(
                 "({})".format(row['url']),
-                "({}) [:star: {}]".format(row['url'], starCount)
+                "({}) :star: {}".format(row['url'], starCount)
             )
 
             source = source.replace(row['old_line'], newLine)
