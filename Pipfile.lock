@@ -146,12 +146,12 @@
             "version": "==1.54.1"
         },
         "pyjwt": {
-            "extras": [],
             "hashes": [
-                "sha256:5c6eca3c2940464d106b99ba83b00c6add741c9becaec087fb7ccdefea71350e"
+                "sha256:5aa10381085fb48e0c386ba055ae92cb7874b1a01f8741e57709f8da812ad7dc"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==1.7.1"
+            "index": "pywheels",
+            "markers": "python_version >= '3.6'",
+            "version": "==2.4.0"
         },
         "python-dotenv": {
             "hashes": [
