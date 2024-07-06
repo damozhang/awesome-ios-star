@@ -18,12 +18,11 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:0569859f95fc761b18b45ef421b1290a0f65f147e92a1e5eb3e635f9a5e4e66f",
-                "sha256:dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1",
-                "sha256:eecde191fb4bb57897876a77eecaeba263baf3424d4ace5b7ae124a57a85313d"
+                "sha256:8f34ba54ecdb5af59eb35a9da959007d8cb1dab1bf2b776c93774809e7cf9118"
             ],
+            "index": "pywheels",
             "markers": "python_version >= '3.6'",
-            "version": "==2024.2.2"
+            "version": "==2024.7.4"
         },
         "charset-normalizer": {
             "hashes": [
