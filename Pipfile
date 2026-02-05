@@ -10,7 +10,7 @@ pylint = "*"
 autopep8 = "*"
 
 [packages]
-requests = "2.22.0"
+requests = "2.32.0"
 pygithub = "1.45"
 python-dotenv = "0.10.5"
 
