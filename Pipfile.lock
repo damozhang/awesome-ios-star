@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "344b19f308cd5d1148e0dc9592bbcaf7ab8b479ef9b327af89fe6ba8a535892f"
+            "sha256": "6ee36a8477d6b06470f59f6425b00bfbb69afba429594c867e2889ab69628a04"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -18,17 +18,17 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:eecde191fb4bb57897876a77eecaeba263baf3424d4ace5b7ae124a57a85313d"
+                "sha256:bc4ef5220b07d1f59e2aaec31de169f2804a3c8f89b9d5f5d85f046e3999bf11"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==2024.2.2"
+            "markers": "python_version >= '3.7'",
+            "version": "==2026.4.22"
         },
         "charset-normalizer": {
             "hashes": [
-                "sha256:7c3627434be5f9e083deea5193461b7b75bc51b47cecf0a7cacf66f34d3394bf"
+                "sha256:d748b3a28b36203252b85e92f4807dbdd90f4c99a267337a7446d3b7f00ca088"
             ],
-            "markers": "python_full_version >= '3.7.0'",
-            "version": "==3.3.2"
+            "markers": "python_version >= '3.7'",
+            "version": "==3.4.7"
         },
         "deprecated": {
             "hashes": [
@@ -39,10 +39,10 @@
         },
         "idna": {
             "hashes": [
-                "sha256:f1899a303d2ddadbfb9ec6fcd6682b77ed087e1ccf2c0a7face410ad0c4b9baa"
+                "sha256:048adeaf8c2d788c40fee287673ccaa74c24ffd8dcf09ffa555a2fbb59f10ac8"
             ],
-            "markers": "python_version >= '3.5'",
-            "version": "==3.7"
+            "markers": "python_version >= '3.8'",
+            "version": "==3.15"
         },
         "pygithub": {
             "hashes": [
@@ -70,18 +70,18 @@
         },
         "requests": {
             "hashes": [
-                "sha256:70e1babeb399b647a2e35744248132d527f2c8b61241cdfe159cdf1ef3ca7423"
+                "sha256:cffee8f9498830b169ec80f0883a3800f33e88170c82a78d5d5ebb0d861c322b"
             ],
             "index": "pywheels",
-            "markers": "python_version >= '3.8'",
-            "version": "==2.32.0"
+            "markers": "python_version >= '3.10'",
+            "version": "==2.33.0"
         },
         "urllib3": {
             "hashes": [
-                "sha256:a385eb86c83085b639624289085253903a0ddc73f0a3e17c64d26965cd4970ce"
+                "sha256:1dfb38b581ddf14b3c463eaed62970ac6d620fc3a2bcf9a82c132ab1c8ffc941"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==2.2.1"
+            "markers": "python_version >= '3.10'",
+            "version": "==2.7.0"
         }
     },
     "develop": {
