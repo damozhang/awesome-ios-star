@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6ee36a8477d6b06470f59f6425b00bfbb69afba429594c867e2889ab69628a04"
+            "sha256": "611773cb035885c5d9a9d76d74c84dad775d5fc7c6aa2453d794d6d9196c3e38"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -61,12 +61,11 @@
         },
         "python-dotenv": {
             "hashes": [
-                "sha256:77de553b0a69689681b3108fe8430622631e78867971f00c59b318fe9e015e24",
-                "sha256:e324ee90a023d808f1959c46bcbc04446a10ced277783dc6ee09987c37ec10ca",
-                "sha256:f7b63ef50f1b690dddf550d03497b66d609393b40b564ed0d674909a68ebf16a"
+                "sha256:35af4568334a07b80deb78c225d90f99827aed3f5d45de17b602f6ea4274c9f5"
             ],
             "index": "pywheels",
-            "version": "==1.0.1"
+            "markers": "python_version >= '3.10'",
+            "version": "==1.2.2"
         },
         "requests": {
             "hashes": [
