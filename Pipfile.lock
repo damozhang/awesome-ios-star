@@ -53,11 +53,11 @@
         },
         "pyjwt": {
             "hashes": [
-                "sha256:80983de0f25759849719d70a86e31233e769f79b7f8924414b14fafe61383ee5"
+                "sha256:f3dbad42a4b9fedaf19a6306964cedb41fa219d799b967db30cb24d598bc7d9c"
             ],
             "index": "pywheels",
             "markers": "python_version >= '3.9'",
-            "version": "==2.12.0"
+            "version": "==2.13.0"
         },
         "python-dotenv": {
             "hashes": [
